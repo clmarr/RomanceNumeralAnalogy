@@ -1,5 +1,5 @@
 Derivation file for run './FrenchNumberRun'; etymon number :7:
-#t̪rˈeːs# >>> ... ( GOLD : ...) :
+#t̪rˈeːs# >>> *#t̪ʁwa# ( GOLD : #t̪ʁwa#) :
 t̪ r ˈeː s 
 *#t̪rˈes# | 57 : [+syl,+long] > [-long,-splng] 
 Late Latin stage form : *#t̪rˈes#
@@ -16,4 +16,10 @@ Old French I stage form : *#t̪rˈejs#
 *#t̪rwˈɛːs# | 626 : [+prim] > [+long] / __ s #
 Old French II stage form : *#t̪rwˈɛːs#
 Middle French stage form : *#t̪rwˈɛːs#
-Final form : ...
+*#t̪rwˈɛː# | 718 : [-son] > ∅ / __ #
+*#t̪ʀwˈɛː# | 735 : r > ʀ 
+*#t̪ʀwɛː# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+*#t̪ʀwɛ# | 738 : [+syl,+long] > [-long,-splng] 
+*#t̪ʀwa# | 743 : ɛ > a / w __
+*#t̪ʁwa# | 744 : ʀ > ʁ 
+Final form : *#t̪ʁwa#

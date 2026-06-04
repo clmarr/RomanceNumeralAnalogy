@@ -1,19 +1,27 @@
 Derivation file for run './FrenchNumberRun'; etymon number :33:
-#mˈiːllem# >>> *#mil# ( GOLD : #mil#) :
-m ˈiː l l e m 
-*#mˈiːllɛm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈillɛm# | 57 : [+syl,+long] > [-long,-splng] 
-*#mˈillɛ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
-Late Latin stage form : *#mˈillɛ#
-Early Gallo-Roman stage form : *#mˈillɛ#
-Middle Gallo-Roman stage form : *#mˈillɛ#
-*#mˈillə# | 262 : [-stres,-lo,+syl] > ə / __ #
-*#mˈillə̯# | 269 : ə > ə̯ 
-*#mˈill# | 294 : ə̯ > ∅ 
-Later Gallo-Roman stage form : *#mˈill#
-*#mˈil# | 496 : {p p;p pʲ;b b;b bʲ;f f;f fʲ;m m;m mʲ;t̪ t̪;t̪ t̪ʲ;t̪ t͡s;t̪ t͡sʲ;t̪ t͡ʃ;d̪ d̪;d̪ d̪ʲ;d̪ d͡ʒ;n̪ n̪;n̪ n̪ʲ;s s;s sʲ;z z;z zʲ;l l;l lʲ;k k;ɡ ɡ} > {p;pʲ;b;bʲ;f;fʲ;m;mʲ;t̪;t̪ʲ;t͡s;t͡sʲ;t͡ʃ;d̪;dʲ;d͡ʒ;n̪;n̪ʲ;s;sʲ;z;zʲ;l;lʲ;k;ɡ} 
-Old French I stage form : *#mˈil#
-Old French II stage form : *#mˈil#
-Middle French stage form : *#mˈil#
-*#mil# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-Final form : *#mil#
+... >>> *#sɛ̃kɑ̃t̪# ( GOLD : #sɛ̃kɑ̃t̪#) :
+... 
+Late Latin stage form : ...
+Early Gallo-Roman stage form : *#cˌiŋkwˈɑn̪t̪ɑ#
+*#t͡sʲˌiŋkwˈɑn̪t̪ɑ# | 176 : {c;ɟ} > {t͡sʲ;d͡ʒ} 
+*#t͡sʲˌiŋkwˈan̪t̪a# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#t͡sʲˌiŋkwˈan̪t̪a#
+Later Gallo-Roman stage form : *#t͡sʲˌiŋkwˈan̪t̪a#
+*#t͡sʲˌiŋkwˈan̪t̪ə# | 443 : a > ə / [+syl] ( [-syl] )* __
+*#t͡sʲˌiŋkwˈãn̪t̪ə# | 508 : [+lo] > [+nas] / __ [+nas,-syl]
+Old French I stage form : *#t͡sʲˌiŋkwˈãn̪t̪ə#
+*#t͡sʲˌiŋkˈãn̪t̪ə# | 604 : [-syl,+round] > ∅ / [+back,-cont] __
+*#t͡sʲˌĩŋkˈãn̪t̪ə# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+*#sʲˌĩŋkˈãn̪t̪ə# | 627 : [+delrel] > [+cont,0delrel] 
+Old French II stage form : *#sʲˌĩŋkˈãn̪t̪ə#
+*#sʲˌẽŋkˈãn̪t̪ə# | 651 : [+nas,+front,-round,-lo,+syl] > [-hi] 
+*#sˌẽŋkˈãn̪t̪ə# | 657 : [+ant,+front] > [-front,-hi] 
+*#sˌẽːkˈãːt̪ə# | 663 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+Middle French stage form : *#sˌẽːkˈãːt̪ə#
+*#sˌɛ̃ːkˈãːt̪ə# | 688 : [+front,-lo,+nas,+syl,-round] > [-hi,-tense,-cons,-lat,+cont,0delrel] / [+cons] __
+*#sˌɛ̃ːkˈãːt̪ə̯# | 702 : ə > ə̯ / __ #
+*#sˌɛ̃ːkˈɑ̃ːt̪ə̯# | 703 : [+lo,+long,+syl] > [+back,-front] 
+*#sˌɛ̃ːkˈɑ̃ːt̪# | 720 : ə̯ > ∅ 
+*#sɛ̃ːkɑ̃ːt̪# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+*#sɛ̃kɑ̃t̪# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#sɛ̃kɑ̃t̪#

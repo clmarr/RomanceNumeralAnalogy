@@ -1,5 +1,5 @@
 Derivation file for run './FrenchNumberRun'; etymon number :4:
-#d̪uˈoːs# >>> *#d̪ø# ( GOLD : #d̪ˈø#) :
+#d̪uˈoːs# >>> *#d̪ø# ( GOLD : #d̪ø#) :
 d̪ u ˈoː s 
 *#d̪ʊˈoːs# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
 *#d̪wˈoːs# | 24 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
