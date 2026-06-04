@@ -1,0 +1,25 @@
+Derivation file for run './FrenchNumberRun'; etymon number :2:
+#ˌuːn̪um# >>> *#œ̃# ( GOLD : #œ̃#) :
+ˌuː n̪ u m 
+*#ˌuːn̪ʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌun̪ʊm# | 57 : [+syl,+long] > [-long,-splng] 
+*#ˌun̪om# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌun̪o# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌun̪o#
+Early Gallo-Roman stage form : *#ˌun̪o#
+*#ˌʉn̪o# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+Middle Gallo-Roman stage form : *#ˌʉn̪o#
+*#ˌʉn̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#ˌʉn̪ə̯# | 269 : ə > ə̯ 
+*#ˌʉn̪# | 294 : ə̯ > ∅ 
+Later Gallo-Roman stage form : *#ˌʉn̪#
+*#ˌyn̪# | 506 : [+hi,+round,-back] > [+front] 
+Old French I stage form : *#ˌyn̪#
+*#ˌỹn̪# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+Old French II stage form : *#ˌỹn̪#
+*#ˌỹː# | 664 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+Middle French stage form : *#ˌỹː#
+*#ˌœ̃ː# | 725 : [+nas,+front,+syl,-lo] > [-hi,-tense,-cons,-lat,+cont,0delrel] 
+*#œ̃ː# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+*#œ̃# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#œ̃#

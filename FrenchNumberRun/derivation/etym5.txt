@@ -1,0 +1,20 @@
+Derivation file for run './FrenchNumberRun'; etymon number :5:
+#d̪uˈo# >>> ... ( GOLD : ...) :
+d̪ u ˈo 
+*#d̪ʊˈɔ# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#d̪wˈɔ# | 24 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+Late Latin stage form : *#d̪wˈɔ#
+*#d̪wˈɔː# | 105 : [+prim] > [+long] / __ #
+Early Gallo-Roman stage form : *#d̪wˈɔː#
+*#d̪wˈuo̯# | 163 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
+*#d̪ˈuo̯# | 201 : w > ∅ / [+cons,-back] __
+*#d̪ˈʉo̯# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+Middle Gallo-Roman stage form : *#d̪ˈʉo̯#
+Later Gallo-Roman stage form : *#d̪ˈʉo̯#
+*#d̪ˈyo̯# | 506 : [+hi,+round,-back] > [+front] 
+*#d̪ˈye̯# | 520 : o̯ > e̯ 
+Old French I stage form : *#d̪ˈye̯#
+*#d̪ˈø# | 576 : [+hi,+round,+tense,+prim] e̯ > ˈø
+Old French II stage form : *#d̪ˈø#
+Middle French stage form : *#d̪ˈø#
+Final form : ...

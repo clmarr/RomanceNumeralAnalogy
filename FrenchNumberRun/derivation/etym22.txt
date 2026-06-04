@@ -1,0 +1,40 @@
+Derivation file for run './FrenchNumberRun'; etymon number :22:
+#dˌeːkimetˈoktoː# >>> *#dɛmətɥi# ( GOLD : #dizɥit#) :
+d ˌeː k i m e t ˈo k t oː 
+*#dˌeːkɪmɛtˈɔktoː# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#dˌekɪmɛtˈɔkto# | 57 : [+syl,+long] > [-long,-splng] 
+*#dˌekɪmɛtˈɔxto# | 62 : k > x / [-cons] __ [+cor,-voi]
+*#dˌekemɛtˈɔxto# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#dˌekʲemɛtˈɔxto# | 78 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#dˌecemɛtˈɔxto# | 79 : [+back,+front] > [-back] 
+Late Latin stage form : *#dˌecemɛtˈɔxto#
+Early Gallo-Roman stage form : *#dˌecemɛtˈɔxto#
+*#dˌet͡sʲemɛtˈɔxto# | 176 : {c;ɟ} > {t͡sʲ;d͡ʒ} 
+*#dˌet͡sʲemɛtˈɔçto# | 202 : [+back,+hi,+cont,-son] > [-back,+front] / __ [+cor]
+*#dˌet͡sʲemɛtˈɔçtʲo# | 210 : [+cor,+ant,-lat] > [+hi,+front] / [+hi,+front,+cons] __
+*#dˌet͡sʲemɛtˈuo̯çtʲo# | 225 : {ˈɛ;ˈɔ} > {ˈi e̯;ˈu o̯} / __ [+cons,+hi,+front]
+Middle Gallo-Roman stage form : *#dˌet͡sʲemɛtˈuo̯çtʲo#
+*#dˌet͡sʲəmətˈuo̯çtʲo# | 261 : [-stres,-lo,+syl] > ə / __ [-syl]
+*#dˌet͡sʲəmətˈuo̯çtʲə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#dˌet͡sʲə̯mə̯tˈuo̯çtʲə̯# | 269 : ə > ə̯ 
+*#dˌet͡sʲmtˈuo̯çtʲ# | 294 : ə̯ > ∅ 
+*#dˌet͡sʲmtˈʉo̯çtʲ# | 370 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+*#dˌet͡sʲmətˈʉo̯çtʲ# | 407 : ∅ > ə / [-cont] [+son,-syl] __ [-syl]
+Later Gallo-Roman stage form : *#dˌet͡sʲmətˈʉo̯çtʲ#
+*#dˌet͡sʲmətˈʉo̯ʝtʲ# | 463 : ç > ʝ 
+*#dˌet͡sʲmətˈʉo̯jtʲ# | 469 : ʝ > j 
+*#dˌet͡sʲmətˈyo̯jtʲ# | 506 : [+hi,+round,-back] > [+front] 
+*#dˌet͡sʲmətˈye̯jtʲ# | 520 : o̯ > e̯ 
+*#dˌet͡sʲmətˈyjtʲ# | 522 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
+Old French I stage form : *#dˌet͡sʲmətˈyjtʲ#
+*#dˌexmətˈyjtʲ# | 587 : [-distr,+strid,-voi] > x / [-cons] __ [+cons]
+*#dˌexmətɥˈitʲ# | 616 : [+front,+round,+syl,+hi,βstres,ɣprim] [-round,-syl,-cons] > [-syl,0stres,0prim] [+syl,βstres,ɣprim,+son]
+*#dˌeːmətɥˈitʲ# | 633 : [+syl] x > [+long] ∅/ __ [+cons]
+*#dˌemətɥˈitʲ# | 635 : ˌeː > ˌe 
+Old French II stage form : *#dˌemətɥˈitʲ#
+*#dˌemətɥˈit# | 657 : [+ant,+front] > [-front,-hi] 
+Middle French stage form : *#dˌemətɥˈit#
+*#dˌɛmətɥˈit# | 699 : [+tense,-hi,-lo,-round,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] [-cons,-back,-front]
+*#dˌɛmətɥˈi# | 718 : [-son] > ∅ / __ #
+*#dɛmətɥi# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+Final form : *#dɛmətɥi#

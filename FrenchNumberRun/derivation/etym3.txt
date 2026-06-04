@@ -1,0 +1,22 @@
+Derivation file for run './FrenchNumberRun'; etymon number :3:
+#ˌuːn̪ɑm# >>> *#yn̪# ( GOLD : #yn̪#) :
+ˌuː n̪ ɑ m 
+*#ˌun̪ɑm# | 57 : [+syl,+long] > [-long,-splng] 
+*#ˌun̪ɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌun̪ɑ#
+Early Gallo-Roman stage form : *#ˌun̪ɑ#
+*#ˌun̪a# | 193 : [+lo] > [+front,-back] 
+*#ˌʉn̪a# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+Middle Gallo-Roman stage form : *#ˌʉn̪a#
+Later Gallo-Roman stage form : *#ˌʉn̪a#
+*#ˌʉn̪ə# | 443 : a > ə / [+syl] ( [-syl] )* __
+*#ˌyn̪ə# | 506 : [+hi,+round,-back] > [+front] 
+Old French I stage form : *#ˌyn̪ə#
+*#ˌỹn̪ə# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+Old French II stage form : *#ˌỹn̪ə#
+*#ˌyn̪ə# | 649 : [+nas,+front,+hi,+syl] > [-nas] / __ [+nas,+cons] [-cons]
+Middle French stage form : *#ˌyn̪ə#
+*#ˌyn̪ə̯# | 702 : ə > ə̯ / __ #
+*#ˌyn̪# | 720 : ə̯ > ∅ 
+*#yn̪# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+Final form : *#yn̪#

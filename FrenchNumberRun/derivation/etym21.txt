@@ -1,0 +1,33 @@
+Derivation file for run './FrenchNumberRun'; etymon number :21:
+#dˌeːkimetsˈeptem# >>> *#dɛməsɛ# ( GOLD : #dissɛt#) :
+d ˌeː k i m e t s ˈe p t e m 
+*#dˌeːkɪmɛtsˈɛptɛm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#dˌekɪmɛtsˈɛptɛm# | 57 : [+syl,+long] > [-long,-splng] 
+*#dˌekemɛtsˈɛptɛm# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#dˌekemɛtsˈɛptɛ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+*#dˌekʲemɛtsˈɛptɛ# | 78 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#dˌecemɛtsˈɛptɛ# | 79 : [+back,+front] > [-back] 
+Late Latin stage form : *#dˌecemɛtsˈɛptɛ#
+Early Gallo-Roman stage form : *#dˌecemɛtsˈɛptɛ#
+*#dˌet͡sʲemɛtsˈɛptɛ# | 176 : {c;ɟ} > {t͡sʲ;d͡ʒ} 
+*#dˌet͡sʲemɛtsˈɛt̪tɛ# | 195 : [+lab,-nas,-round,-cont] > t̪ / __ [-cont,+cor,-voi]
+Middle Gallo-Roman stage form : *#dˌet͡sʲemɛtsˈɛt̪tɛ#
+*#dˌet͡sʲəmətsˈɛt̪tɛ# | 261 : [-stres,-lo,+syl] > ə / __ [-syl]
+*#dˌet͡sʲəmətsˈɛt̪tə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#dˌet͡sʲə̯mə̯tsˈɛt̪tə̯# | 269 : ə > ə̯ 
+*#dˌet͡sʲmtsˈɛt̪t# | 294 : ə̯ > ∅ 
+*#dˌet͡sʲmətsˈɛt̪t# | 407 : ∅ > ə / [-cont] [+son,-syl] __ [-syl]
+Later Gallo-Roman stage form : *#dˌet͡sʲmətsˈɛt̪t#
+*#dˌet͡sʲmət͡sˈɛt̪t# | 475 : [+cor,-delrel] s > t͡s
+*#dˌet͡sʲmət͡sˈɛt# | 492 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
+Old French I stage form : *#dˌet͡sʲmət͡sˈɛt#
+*#dˌexmət͡sˈɛt# | 587 : [-distr,+strid,-voi] > x / [-cons] __ [+cons]
+*#dˌexməsˈɛt# | 627 : [+delrel] > [+cont,0delrel] 
+*#dˌeːməsˈɛt# | 633 : [+syl] x > [+long] ∅/ __ [+cons]
+*#dˌeməsˈɛt# | 635 : ˌeː > ˌe 
+Old French II stage form : *#dˌeməsˈɛt#
+Middle French stage form : *#dˌeməsˈɛt#
+*#dˌɛməsˈɛt# | 699 : [+tense,-hi,-lo,-round,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] [-cons,-back,-front]
+*#dˌɛməsˈɛ# | 718 : [-son] > ∅ / __ #
+*#dɛməsɛ# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+Final form : *#dɛməsɛ#
