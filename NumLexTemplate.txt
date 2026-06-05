@@ -56,22 +56,18 @@ s ˈeː d e k i m , ${16.card}.
 d ˌeː k i e t s ˈe p t e m , ${17.card}.
 d ˌeː k i e t ˈo k t oː , ${18.card}.
 ˌuː n d eː w ˌiː ɡ ˈi n t i , ${19.card}.
-... , ${19.card}.
 w ˌiː ɡ ˈi n t i , ${20.card}.
+w ˌiː k ˈeː n s i m u m , ${20.ord}.
 t r ˌiː ɡ ˈi n t ɑ , ${30.card}.
-... , ${30.card}.
+t̪ r ˌiː k ˈeː s i m u m , ${30.ord}.
 k w ˌɑ d r ɑː ɡ ˈi n t ɑ m , ${40.card}.
-... , ${40.card}.
+k w ˌɑ d r ɑː ɡ ˈeː s i m ɑ , ${40.ord}. Actually a Christian term {Lent} but related to the number.
 k w ˌiː n k w ɑː ɡ ˈi n t ɑ m , ${50.card}.
-... , ${50.card}.
+k w ˌiː n k w ɑː ɡ ˈeː s i m ɑ  , ${50.ord}. Actually a Christian term but related to the number.
 s ˌe k s ɑː ɡ ˈi n t ɑ m , ${60.card}.
-... , ${60.card}.
 s ˌe p t ɑː ɡ ˈi n t ɑ m , ${70.card}.
-... , ${70.card}.
 ˌo k t ɑː ɡ ˈi n t ɑ m , ${80.card}.
-... , ${80.card}.
 n ˌoː n ɑː ɡ ˈi n t ɑ m , ${90.card}.
-... , ${90.card}.
 k ˈe n t u m , ${100.card}.
 k ˌe n t ˈeː s i m u m , ${100.ord}.
 k ˌe n t eː n ˈɑː r i u m , ${100.fract.agent}.

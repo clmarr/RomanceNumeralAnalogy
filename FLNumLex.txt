@@ -40,7 +40,7 @@ k w ˈiː n̪ k w e , >* , t͡s ˈi n̪ k , s ˈĩ n̪ k , s ˈẽː k , s ɛ̃
 k w ˈiː n̪ t̪ u m , k w ˈi n̪ t̪ o , k w ˈi n̪ t̪ , k ˈĩ n̪ t̪ , s ˌẽː k j ˈɛ̃ m ə , s ɛ̃ k j ɛ m ${5.ord}. Quint preserved in royal titles only as kɛ̃. 
 k w ˌiː n̪ ˈɑː r i u m , k w ˌi n̪ ˈɑ r j o , t͡s ˌi ŋ k i ˈe z m ə , s ˌĩ ŋ k i ˈɛ z m ə , s ˌẽː k j ˈɛ̃ m ə , s ɛ̃ k j ɛ m ${5.fract.agent}. Cinquieme attested in 12th c. 
 s ˈe k s , s ˈɛ x s , s ˈi s , s ˈi s , s ˈi s , s i s ${6.card}. Popeset.Likely affected by lexical pressure. 
-s ˈe k s t̪ u m , s ˈɛ x s t̪ o , s ˈi s t̪ ə , s ˌi s i ˈɛ z m ə , s ˌi z j ˈɛ̃ m ə , s i z j ɛ m ${6.ord}. Replacement in Old French
+s ˈe k s t̪ ɑ , s ˈɛ x s t̪ ɑ , s ˈi s t̪ ə , s ˌi s i ˈɛ z m ə , s ˌi z j ˈɛ̃ m ə , s i z j ɛ m ${6.ord}. Replacement in Old French
 s ˌe k s t̪ ˈɑː r i u m , s ˌɛ x s t̪ ˈɑ r j o , s ə s t̪ ˈi e̯ r , s ˌi s i ˈɛ z m ə , s ˌi z j ˈɛ̃ m ə , s i z j ɛ m ${6.fract.agent} 
 s ˈe p t̪ e m , s ˈɛ p t̪ ɛ , s ˈɛ t̪ , s ˈɛ t̪ , s ˈɛ t̪ , s ɛ t̪ ${7.card}. 
 s ˈe p t̪ i m u m , s ˈɛ p t̪ e m o , s ˈɛ ð m ə , s ˈɛ z m ə , s ˌɛ t̪ j ˈɛ̃ m ə , s ɛ t̪ j ˈɛ m  ${7.ord}.
@@ -62,12 +62,16 @@ d̪ ˌeː k i e t ˈo k t̪ oː , >* , >* , >* , d̪ ˌi z ɥ ˈi t̪ , d̪ i z 
 ˌuː n̪ d̪ eː w ˌiː ɡ ˈi n̪ t̪ i , >* , >* , >* , >* , d̪ i z n̪ œ f ${19.card}.
 ... , d̪ ˌe c j ɛ n̪ ˈɔ β ɛ ,>* , >* , >* , d̪ i z n̪ œ f ${19.card}. Analogical form in Gallo-Romance. 
 w ˌiː ɡ ˈi n̪ t̪ i , >* , >* , >* , v ˈẽː t̪ , v ɛ̃ t̪ ${20.card}. Popeset. vɛ̃ is regular: Pope s823, refer also to s297, s419. t̪ form used in liaison and 21 to 29, but not  in quatre-vingt, which may be seen as a separate lexeme. 
+w ˌiː k ˈeː n s i m u m , >* , >* , v ˌĩ n̪ t̪ j ˈɛ z m ə , v ˌẽː t̪ j ˈɛ̃ː m ə , v ɛ̃ t̪ j ɛ m ${20.ord}.
 t̪ r ˌiː ɡ ˈi n̪ t̪ ɑ , >* , >* , >* , t r ˈãː t ə , t̪ ʁ ɑ̃ t̪ ${30.card}.
 ... , t̪ r ˈe n̪ t̪ ɑ , >* , >* , t r ˈãː t ə , t̪ ʁ ɑ̃ t̪ ${30.card}. Analogical form in Gallo-Romance. 
+t̪ r ˌiː k ˈeː s i m u m , >* , >* , >* , t̪ r ˌãː t̪ j ˈɛ̃ː m ə , t̪ ʁ ɑ̃ t̪ j ˈɛ m ${30.ord}
 k w ˌɑ d̪ r ɑː ɡ ˈi n̪ t̪ ɑ m , >* , >* , >* , k ˌa r ˈãː t̪ ə , k a ʁ ɑ̃ t̪ ${40.card}. Popeset. $KS: -gintam changed to shortened form in all but w. ibero-rom
 ... , k w ˌɑ d̪ r ˈɑ n̪ t̪ ɑ , >* , >* , k ˌa r ˈãː t̪ ə , k a ʁ ɑ̃ t̪ ${40.card}. Analogical form in Gallo-Romance. 
+k w ˌɑ d̪ r ɑː ɡ ˈeː s i m ɑ , k w ˌɑ d̪ r ɑ ɡ ˈe s e m ɑ , k w ˌa r ˈe z m ə , k ˌa r ã n̪ t̪ j ˈɛ z m ə , k ˌa r ãː t̪ j ˈɛ̃ː m ə , k a ʁ ɑ̃ t̪ j ɛ m ${40.ord}. Surviving in -a as word for Lent, but related to "forty" concept still. Passes to such in French with replacement by -ieme form. 
 k w ˌiː n̪ k w ɑː ɡ ˈi n̪ t̪ ɑ m , c ˌi ŋ k w ˈɑ n̪ t̪ ɑ , t͡s ˌi ŋ k w ˈã n̪ t̪ ə , s ˌĩ ŋ k ˈã n̪ t̪ ə , s ˌẽː k ˈãː t̪ ə , s ɛ̃ k ɑ̃ t̪ ${50.card}. Pope is apparently unsure of the forms regarding cinquanta vs. cinquaginta for the origin.
 ... , c ˌi ŋ k w ˈɑ n̪ t̪ ɑ , t͡s ˌi ŋ k w ˈã n̪ t̪ ə , s ˌĩ ŋ k ˈã n̪ t̪ ə , s ˌẽː k ˈãː t̪ ə , s ɛ̃ k ɑ̃ t̪ ${50.card}. Analogical form in Gallo-Romance
+k w ˌiː n̪ k w ɑː ɡ ˈeː s i m ɑ , c ˌi ŋ k w ɑ ɡ ˈe s e m ɑ , >* , s ˌĩ ŋ k ˈɛ z m ə , s ˌẽː k ˌãː t̪ j ˈɛ̃ː m ə , s ɛ̃ k ɑ̃ t̪ j ɛ m ${50.ord}
 s ˌe k s ɑː ɡ ˈi n̪ t̪ ɑ m , >* , >* , >* , s w ˌɛ s ˈãː t̪ ə , s w a s ɑ̃ t̪ ${60.card}. Popeset.
 ... , s ˌɛ x s ˈɑ n̪ t̪ ɑ , >* , >* , s w ˌɛ s ˈãː t̪ ə , s w a s ɑ̃ t̪ ${60.card}. Analogical form in Gallo-Romance.
 s ˌe p t̪ ɑː ɡ ˈi n̪ t̪ ɑ m , >* , >* , >* , s w ˌɛ s ˌãː t̪ ə d̪ ˈi s , s w a s ɑ̃ d ˈi s ${70.card}. 
