@@ -1,0 +1,24 @@
+Derivation file for run '../RomanceNumeralAnalogy/FrenchNumberRun'; etymon number :63:
+... >>> *#t̪ʁɑ̃t̪# ( GOLD : #t̪ʁɑ̃t̪#) :
+... 
+Late Latin stage form : ...
+Early Gallo-Roman stage form : *#t̪rˈen̪t̪ɑ#
+*#t̪rˈen̪t̪a# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#t̪rˈen̪t̪a#
+Later Gallo-Roman stage form : *#t̪rˈen̪t̪a#
+*#t̪rˈen̪t̪ə# | 443 : a > ə / [+syl] ( [-syl] )* __
+*#t̪rˈẽn̪t̪ə# | 519 : [+front,-hi,+syl] > [+nas] / __ [+nas,-syl]
+Old French I stage form : *#t̪rˈẽn̪t̪ə#
+*#t̪rˈɛ̃n̪t̪ə# | 567 : [+front,-hi,-lo,+syl,+nas] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t̪rˈãn̪t̪ə# | 570 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+Old French II stage form : *#t̪rˈãn̪t̪ə#
+*#t̪rˈãːt̪ə# | 663 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+Middle French stage form : *#t̪rˈãːt̪ə#
+*#t̪rˈãːt̪ə̯# | 702 : ə > ə̯ / __ #
+*#t̪rˈɑ̃ːt̪ə̯# | 703 : [+lo,+long,+syl] > [+back,-front] 
+*#t̪rˈɑ̃ːt̪# | 720 : ə̯ > ∅ 
+*#t̪ʀˈɑ̃ːt̪# | 735 : r > ʀ 
+*#t̪ʀɑ̃ːt̪# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+*#t̪ʀɑ̃t̪# | 738 : [+syl,+long] > [-long,-splng] 
+*#t̪ʁɑ̃t̪# | 744 : ʀ > ʁ 
+Final form : *#t̪ʁɑ̃t̪#

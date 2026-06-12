@@ -1,17 +1,28 @@
-Derivation file for run './FrenchNumberRun'; etymon number :6:
-... >>> ... ( GOLD : ...) :
-... 
-Late Latin stage form : ...
-*#d̪ˈuːi# | 106 : [+prim] > [+long] / __ [+syl]
-Early Gallo-Roman stage form : *#d̪ˈuːi#
-*#d̪ˈuːj# | 187 : [+hi,-stres] > [-syl,0stres,0prim] / [+prim] __ #
-*#d̪ˈʉːj# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
-Middle Gallo-Roman stage form : *#d̪ˈʉːj#
-Later Gallo-Roman stage form : *#d̪ˈʉːj#
-*#d̪ˈʉj# | 452 : [+syl] > [-long,-splng] 
-*#d̪ˈyj# | 506 : [+hi,+round,-back] > [+front] 
-Old French I stage form : *#d̪ˈyj#
-*#d̪ɥˈi# | 616 : [+front,+round,+syl,+hi,βstres,ɣprim] [-round,-syl,-cons] > [-syl,0stres,0prim] [+syl,βstres,ɣprim,+son]
-Old French II stage form : *#d̪ɥˈi#
-Middle French stage form : *#d̪ɥˈi#
-Final form : ...
+Derivation file for run '../RomanceNumeralAnalogy/FrenchNumberRun'; etymon number :6:
+#sˈimplum# >>> *#sɑ̃pl# ( GOLD : #sˈɛ̃pl#) :
+s ˈi m p l u m 
+*#sˈɪmplʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈemplom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#sˈemplo# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#sˈemplo#
+Early Gallo-Roman stage form : *#sˈemplo#
+Middle Gallo-Roman stage form : *#sˈemplo#
+*#sˈemplə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#sˈemplə̯# | 269 : ə > ə̯ 
+*#sˈempl# | 294 : ə̯ > ∅ 
+*#sˈemplə# | 308 : ∅ > ə / [+cons,-son] [+son,+cons] __ ( [+cons] )* #
+Later Gallo-Roman stage form : *#sˈemplə#
+*#sˈẽmplə# | 519 : [+front,-hi,+syl] > [+nas] / __ [+nas,-syl]
+Old French I stage form : *#sˈẽmplə#
+*#sˈɛ̃mplə# | 567 : [+front,-hi,-lo,+syl,+nas] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈãmplə# | 570 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+*#sˈãn̪plə# | 638 : m > n̪ / __ [+cons]
+Old French II stage form : *#sˈãn̪plə#
+*#sˈãːplə# | 663 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+Middle French stage form : *#sˈãːplə#
+*#sˈãːplə̯# | 702 : ə > ə̯ / __ #
+*#sˈɑ̃ːplə̯# | 703 : [+lo,+long,+syl] > [+back,-front] 
+*#sˈɑ̃ːpl# | 720 : ə̯ > ∅ 
+*#sɑ̃ːpl# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+*#sɑ̃pl# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#sɑ̃pl#

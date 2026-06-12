@@ -1,0 +1,35 @@
+Derivation file for run '../RomanceNumeralAnalogy/FrenchNumberRun'; etymon number :62:
+#t̪rˌiːɡˈin̪t̪ɑ# >>> *#t̪ʁjɛ̃t̪# ( GOLD : #t̪ʁɑ̃t̪#) :
+t̪ r ˌiː ɡ ˈi n̪ t̪ ɑ 
+*#t̪rˌiːɡˈɪn̪t̪ɑ# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t̪rˌiɡˈɪn̪t̪ɑ# | 57 : [+syl,+long] > [-long,-splng] 
+*#t̪rˌiɡˈen̪t̪ɑ# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#t̪rˌiɡʲˈen̪t̪ɑ# | 78 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#t̪rˌiɟˈen̪t̪ɑ# | 79 : [+back,+front] > [-back] 
+*#t̪rˌiʝˈen̪t̪ɑ# | 85 : [-cont,+hi,+voi] > [+cont,0delrel] / [-cons] __ [+son,-lat,-nas]
+Late Latin stage form : *#t̪rˌiʝˈen̪t̪ɑ#
+Early Gallo-Roman stage form : *#t̪rˌiʝˈen̪t̪ɑ#
+*#t̪rˌiʝˈeːn̪t̪ɑ# | 159 : ˈe > ˈeː / [+hi,+front,+cons] __ [+cor] [+cor,-nas]
+*#t̪rˌiʝˈiːn̪t̪ɑ# | 160 : ˈeː > ˈiː / [+cons,+hi,+front] __
+*#t̪rˌiʝˈiːn̪t̪a# | 193 : [+lo] > [+front,-back] 
+*#t̪rˌiʝˈin̪t̪a# | 215 : [+syl] > [-long,-splng] / __ [-syl] [+cons]
+Middle Gallo-Roman stage form : *#t̪rˌiʝˈin̪t̪a#
+*#t̪rˌijˈin̪t̪a# | 377 : ʝ > j 
+Later Gallo-Roman stage form : *#t̪rˌijˈin̪t̪a#
+*#t̪rˌijˈin̪t̪ə# | 443 : a > ə / [+syl] ( [-syl] )* __
+*#t̪rˌiˈin̪t̪ə# | 470 : j > ∅ / [+hi,+front,+tense] __
+Old French I stage form : *#t̪rˌiˈin̪t̪ə#
+*#t̪rˌiˈĩn̪t̪ə# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+Old French II stage form : *#t̪rˌiˈĩn̪t̪ə#
+*#t̪rˌiˈẽn̪t̪ə# | 651 : [+nas,+front,-round,-lo,+syl] > [-hi] 
+*#t̪rˌiˈẽːt̪ə# | 663 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+Middle French stage form : *#t̪rˌiˈẽːt̪ə#
+*#t̪rˌiˈɛ̃ːt̪ə# | 689 : [+front,-lo,+nas,+syl,-round] > [-hi,-tense,-cons,-lat,+cont,0delrel] / [+syl] __
+*#t̪rˌiˈɛ̃ːt̪ə̯# | 702 : ə > ə̯ / __ #
+*#t̪rjˈɛ̃ːt̪ə̯# | 706 : [+hi,+stres,-prim] [-hi,-lo,+syl] > [-syl,0stres,0prim] [+stres,+syl,+son]
+*#t̪rjˈɛ̃ːt̪# | 720 : ə̯ > ∅ 
+*#t̪ʀjˈɛ̃ːt̪# | 735 : r > ʀ 
+*#t̪ʀjɛ̃ːt̪# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+*#t̪ʀjɛ̃t̪# | 738 : [+syl,+long] > [-long,-splng] 
+*#t̪ʁjɛ̃t̪# | 744 : ʀ > ʁ 
+Final form : *#t̪ʁjɛ̃t̪#

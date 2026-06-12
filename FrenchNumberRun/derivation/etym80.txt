@@ -1,0 +1,43 @@
+Derivation file for run '../RomanceNumeralAnalogy/FrenchNumberRun'; etymon number :80:
+#kˌen̪t̪ˈeːsimum# >>> *#sɑ̃t̪ɛm# ( GOLD : #sɑ̃t̪jɛm#) :
+k ˌe n̪ t̪ ˈeː s i m u m 
+*#kˌɛn̪t̪ˈeːsɪmʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɛn̪t̪ˈesɪmʊm# | 57 : [+syl,+long] > [-long,-splng] 
+*#kˌɛn̪t̪ˈesemom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˌɛn̪t̪ˈesemo# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+*#kʲˌɛn̪t̪ˈesemo# | 78 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#cˌɛn̪t̪ˈesemo# | 79 : [+back,+front] > [-back] 
+Late Latin stage form : *#cˌɛn̪t̪ˈesemo#
+*#cˌɛn̪t̪ˈeːsemo# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#cˌɛn̪t̪ˈeːsemo#
+*#cˌɛn̪t̪ˈeːzemo# | 133 : [+cont,-son] > [+voi] / [-cons] __ [+syl]
+*#t͡sʲˌɛn̪t̪ˈeːzemo# | 176 : {c;ɟ} > {t͡sʲ;d͡ʒ} 
+Middle Gallo-Roman stage form : *#t͡sʲˌɛn̪t̪ˈeːzemo#
+*#t͡sʲˌɛn̪t̪ˈeːzəmo# | 257 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+syl] ( [-syl] )* #
+*#t͡sʲˌɛn̪t̪ˈeːzəmə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#t͡sʲˌɛn̪t̪ˈeːzə̯mə̯# | 269 : ə > ə̯ 
+*#t͡sʲˌɛn̪t̪ˈeːzə̯mə# | 288 : ə̯ > ə / ə̯ ( [-syl] )* __ #
+*#t͡sʲˌɛn̪t̪ˈeːzmə# | 294 : ə̯ > ∅ 
+*#t͡sʲˌɛn̪t̪ˈezmə# | 350 : [+syl] > [-long,-splng] / __ [-syl] [+cons,+nas]
+*#t͡sʲˌen̪t̪ˈezmə# | 421 : ˌɛ > ˌe / __ @ @
+Later Gallo-Roman stage form : *#t͡sʲˌen̪t̪ˈezmə#
+*#t͡sʲˌẽn̪t̪ˈezmə# | 519 : [+front,-hi,+syl] > [+nas] / __ [+nas,-syl]
+Old French I stage form : *#t͡sʲˌẽn̪t̪ˈezmə#
+*#t͡sʲˌẽn̪t̪ˈeːzmə# | 548 : [+prim] > [+long] / @ __ z [+cons]
+*#t͡sʲˌẽn̪t̪ˈeːmə# | 550 : z > ∅ / __ [+cons]
+*#t͡sʲˌɛ̃n̪t̪ˈeːmə# | 567 : [+front,-hi,-lo,+syl,+nas] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t͡sʲˌãn̪t̪ˈeːmə# | 570 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+*#t͡sʲˌãn̪t̪ˈẽːmə# | 609 : [+syl,-hi] > [+nas] / __ [+nas,-syl]
+*#sʲˌãn̪t̪ˈẽːmə# | 627 : [+delrel] > [+cont,0delrel] 
+Old French II stage form : *#sʲˌãn̪t̪ˈẽːmə#
+*#sˌãn̪t̪ˈẽːmə# | 657 : [+ant,+front] > [-front,-hi] 
+*#sˌãːt̪ˈẽːmə# | 663 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+Middle French stage form : *#sˌãːt̪ˈẽːmə#
+*#sˌãːt̪ˈɛ̃ːmə# | 688 : [+front,-lo,+nas,+syl,-round] > [-hi,-tense,-cons,-lat,+cont,0delrel] / [+cons] __
+*#sˌãːt̪ˈɛːmə# | 690 : [+front,-lo,+nas,+syl] > [-nas] / __ [+nas,+cons] [-cons]
+*#sˌãːt̪ˈɛːmə̯# | 702 : ə > ə̯ / __ #
+*#sˌɑ̃ːt̪ˈɛːmə̯# | 703 : [+lo,+long,+syl] > [+back,-front] 
+*#sˌɑ̃ːt̪ˈɛːm# | 720 : ə̯ > ∅ 
+*#sɑ̃ːt̪ɛːm# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+*#sɑ̃t̪ɛm# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#sɑ̃t̪ɛm#

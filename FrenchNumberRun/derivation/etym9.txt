@@ -1,16 +1,17 @@
-Derivation file for run './FrenchNumberRun'; etymon number :9:
+Derivation file for run '../RomanceNumeralAnalogy/FrenchNumberRun'; etymon number :9:
 ... >>> ... ( GOLD : ...) :
 ... 
 Late Latin stage form : ...
-*#t̪rˈeːi# | 106 : [+prim] > [+long] / __ [+syl]
-Early Gallo-Roman stage form : *#t̪rˈeːi#
-*#t̪rˈiːi# | 136 : [+prim,+tense,-hi,-lo] > [+hi,+front] / __ ( [-syl] )* i #
-*#t̪rˈiːj# | 187 : [+hi,-stres] > [-syl,0stres,0prim] / [+prim] __ #
-Middle Gallo-Roman stage form : *#t̪rˈiːj#
-Later Gallo-Roman stage form : *#t̪rˈiːj#
-*#t̪rˈij# | 452 : [+syl] > [-long,-splng] 
-*#t̪rˈi# | 470 : j > ∅ / [+hi,+front,+tense] __
-Old French I stage form : *#t̪rˈi#
-Old French II stage form : *#t̪rˈi#
-Middle French stage form : *#t̪rˈi#
+*#d̪ˈuːi# | 106 : [+prim] > [+long] / __ [+syl]
+Early Gallo-Roman stage form : *#d̪ˈuːi#
+*#d̪ˈuːj# | 187 : [+hi,-stres] > [-syl,0stres,0prim] / [+prim] __ #
+*#d̪ˈʉːj# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+Middle Gallo-Roman stage form : *#d̪ˈʉːj#
+Later Gallo-Roman stage form : *#d̪ˈʉːj#
+*#d̪ˈʉj# | 452 : [+syl] > [-long,-splng] 
+*#d̪ˈyj# | 506 : [+hi,+round,-back] > [+front] 
+Old French I stage form : *#d̪ˈyj#
+*#d̪ɥˈi# | 616 : [+front,+round,+syl,+hi,βstres,ɣprim] [-round,-syl,-cons] > [-syl,0stres,0prim] [+syl,βstres,ɣprim,+son]
+Old French II stage form : *#d̪ɥˈi#
+Middle French stage form : *#d̪ɥˈi#
 Final form : ...

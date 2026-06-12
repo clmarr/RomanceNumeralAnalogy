@@ -1,4 +1,4 @@
-Derivation file for run './FrenchNumberRun'; etymon number :3:
+Derivation file for run '../RomanceNumeralAnalogy/FrenchNumberRun'; etymon number :3:
 #ˌuːn̪ɑm# >>> *#yn̪# ( GOLD : #yn̪#) :
 ˌuː n̪ ɑ m 
 *#ˌun̪ɑm# | 57 : [+syl,+long] > [-long,-splng] 

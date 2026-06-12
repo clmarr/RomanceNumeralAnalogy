@@ -1,0 +1,44 @@
+Derivation file for run '../RomanceNumeralAnalogy/FrenchNumberRun'; etymon number :64:
+#t̪rˌiːkˈeːsimum# >>> *#t̪ʁizim# ( GOLD : #t̪ʁɑ̃t̪jˈɛm#) :
+t̪ r ˌiː k ˈeː s i m u m 
+*#t̪rˌiːkˈeːsɪmʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t̪rˌikˈesɪmʊm# | 57 : [+syl,+long] > [-long,-splng] 
+*#t̪rˌikˈesemom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#t̪rˌikˈesemo# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+*#t̪rˌikʲˈesemo# | 78 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#t̪rˌicˈesemo# | 79 : [+back,+front] > [-back] 
+Late Latin stage form : *#t̪rˌicˈesemo#
+*#t̪rˌicˈeːsemo# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#t̪rˌicˈeːsemo#
+*#t̪rˌicˈeːzemo# | 133 : [+cont,-son] > [+voi] / [-cons] __ [+syl]
+*#t̪rˌicˈiːzemo# | 160 : ˈeː > ˈiː / [+cons,+hi,+front] __
+*#t̪rˌit͡sʲˈiːzemo# | 176 : {c;ɟ} > {t͡sʲ;d͡ʒ} 
+Middle Gallo-Roman stage form : *#t̪rˌit͡sʲˈiːzemo#
+*#t̪rˌit͡sʲˈiːzəmo# | 257 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+syl] ( [-syl] )* #
+*#t̪rˌit͡sʲˈiːzəmə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#t̪rˌit͡sʲˈiːzə̯mə̯# | 269 : ə > ə̯ 
+*#t̪rˌit͡sʲˈiːzə̯mə# | 288 : ə̯ > ə / ə̯ ( [-syl] )* __ #
+*#t̪rˌit͡sʲˈiːzmə# | 294 : ə̯ > ∅ 
+*#t̪rˌid͡zʲˈiːzmə# | 346 : [-voi] > [+voi] / [-cons] __ [-cons]
+*#t̪rˌid͡zʲˈizmə# | 350 : [+syl] > [-long,-splng] / __ [-syl] [+cons,+nas]
+*#t̪rˌijd͡zˈizmə# | 382 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ;d͡ʒʲ;t͡ʃʲ} > {j t̪;j d̪;j s;j z;j n̪;j d͡z;j d͡ʒ;j t͡ʃ} 
+*#t̪rˌijd͡zʲˈizmə# | 387 : [+cor] > [+hi,+front] / [+front,+hi] __ [+hi,+front]
+*#t̪rˌijd͡zˈizmə# | 388 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ;lʲ;rʲ;d͡ʒʲ;t͡ʃʲ} > {t̪;d̪;s;z;n̪;d͡z;l;r;d͡ʒ;t͡ʃ} / [+front,+tense,-lo,+syl] [+hi] __
+*#t̪rˌijzˈizmə# | 391 : d͡z > z / [-cons] __ [-cons]
+Later Gallo-Roman stage form : *#t̪rˌijzˈizmə#
+*#t̪rˌizˈizmə# | 470 : j > ∅ / [+hi,+front,+tense] __
+Old French I stage form : *#t̪rˌizˈizmə#
+*#t̪rˌizˈiːzmə# | 548 : [+prim] > [+long] / @ __ z [+cons]
+*#t̪rˌizˈiːmə# | 550 : z > ∅ / __ [+cons]
+*#t̪rˌizˈĩːmə# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+Old French II stage form : *#t̪rˌizˈĩːmə#
+*#t̪rˌizˈiːmə# | 649 : [+nas,+front,+hi,+syl] > [-nas] / __ [+nas,+cons] [-cons]
+Middle French stage form : *#t̪rˌizˈiːmə#
+*#t̪rˌizˈiːmə̯# | 702 : ə > ə̯ / __ #
+*#t̪rˌiːzˈiːmə̯# | 707 : [+syl] > [+long] / __ z [+syl]
+*#t̪rˌiːzˈiːm# | 720 : ə̯ > ∅ 
+*#t̪ʀˌiːzˈiːm# | 735 : r > ʀ 
+*#t̪ʀiːziːm# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+*#t̪ʀizim# | 738 : [+syl,+long] > [-long,-splng] 
+*#t̪ʁizim# | 744 : ʀ > ʁ 
+Final form : *#t̪ʁizim#

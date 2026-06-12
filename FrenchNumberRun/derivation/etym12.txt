@@ -1,27 +1,18 @@
-Derivation file for run './FrenchNumberRun'; etymon number :12:
-#sˈeks# >>> *#sis# ( GOLD : #sis#) :
-s ˈe k s 
-*#sˈɛks# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɛxs# | 62 : k > x / [-cons] __ [+cor,-voi]
-Late Latin stage form : *#sˈɛxs#
-Early Gallo-Roman stage form : *#sˈɛxs#
-*#sˈɛçs# | 202 : [+back,+hi,+cont,-son] > [-back,+front] / __ [+cor]
-*#sˈɛçsʲ# | 210 : [+cor,+ant,-lat] > [+hi,+front] / [+hi,+front,+cons] __
-*#sˈie̯çsʲ# | 225 : {ˈɛ;ˈɔ} > {ˈi e̯;ˈu o̯} / __ [+cons,+hi,+front]
-Middle Gallo-Roman stage form : *#sˈie̯çsʲ#
-*#sˈie̯çjs# | 382 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ;d͡ʒʲ;t͡ʃʲ} > {j t̪;j d̪;j s;j z;j n̪;j d͡z;j d͡ʒ;j t͡ʃ} 
-*#sˈie̯çs# | 384 : j > ∅ / [+cons] __ [+cons]
-Later Gallo-Roman stage form : *#sˈie̯çs#
-*#sˈie̯ʝs# | 463 : ç > ʝ 
-*#sˈie̯js# | 469 : ʝ > j 
-*#sˈijs# | 522 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
-*#sˈis# | 523 : [-syl,-cons,+hi,-round] > ∅ / ˈi __
-Old French I stage form : *#sˈis#
-*#sˈiːs# | 626 : [+prim] > [+long] / __ s #
-Old French II stage form : *#sˈiːs#
-Middle French stage form : *#sˈiːs#
-*#sˈiːsə̯# | 717 : ∅ > ə̯ / # [+strid] [-round,+hi,+syl] s __ #
-*#sˈiːs# | 720 : ə̯ > ∅ 
-*#siːs# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-*#sis# | 738 : [+syl,+long] > [-long,-splng] 
-Final form : *#sis#
+Derivation file for run '../RomanceNumeralAnalogy/FrenchNumberRun'; etymon number :12:
+#d̪ˈuɑːs# >>> ... ( GOLD : ...) :
+d̪ ˈu ɑː s 
+*#d̪ˈʊɑːs# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˈʊɑs# | 57 : [+syl,+long] > [-long,-splng] 
+*#d̪ˈoɑs# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#d̪ˈoɑs#
+*#d̪ˈoːɑs# | 106 : [+prim] > [+long] / __ [+syl]
+Early Gallo-Roman stage form : *#d̪ˈoːɑs#
+*#d̪ˈoːas# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#d̪ˈoːas#
+*#d̪ˈowas# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+Later Gallo-Roman stage form : *#d̪ˈowas#
+*#d̪ˈowəs# | 443 : a > ə / [+syl] ( [-syl] )* __
+Old French I stage form : *#d̪ˈowəs#
+Old French II stage form : ...
+Middle French stage form : ...
+Final form : ...

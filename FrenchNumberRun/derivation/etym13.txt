@@ -1,20 +1,31 @@
-Derivation file for run './FrenchNumberRun'; etymon number :13:
-#sˈept̪em# >>> *#sɛ# ( GOLD : #sɛt̪#) :
-s ˈe p t̪ e m 
-*#sˈɛpt̪ɛm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɛpt̪ɛ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
-Late Latin stage form : *#sˈɛpt̪ɛ#
-Early Gallo-Roman stage form : *#sˈɛpt̪ɛ#
-*#sˈɛt̪t̪ɛ# | 195 : [+lab,-nas,-round,-cont] > t̪ / __ [-cont,+cor,-voi]
-Middle Gallo-Roman stage form : *#sˈɛt̪t̪ɛ#
-*#sˈɛt̪t̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
-*#sˈɛt̪t̪ə̯# | 269 : ə > ə̯ 
-*#sˈɛt̪t̪# | 294 : ə̯ > ∅ 
-Later Gallo-Roman stage form : *#sˈɛt̪t̪#
-*#sˈɛt̪# | 492 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
-Old French I stage form : *#sˈɛt̪#
-Old French II stage form : *#sˈɛt̪#
-Middle French stage form : *#sˈɛt̪#
-*#sˈɛ# | 718 : [-son] > ∅ / __ #
-*#sɛ# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-Final form : *#sɛ#
+Derivation file for run '../RomanceNumeralAnalogy/FrenchNumberRun'; etymon number :13:
+#sˌekˈun̪d̪um# >>> *#sɔ̃# ( GOLD : #d̪øzjɛm#) :
+s ˌe k ˈu n̪ d̪ u m 
+*#sˌɛkˈʊn̪d̪ʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌɛkˈon̪d̪om# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#sˌɛkˈon̪d̪o# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#sˌɛkˈon̪d̪o#
+Early Gallo-Roman stage form : *#sˌɛkˈon̪d̪o#
+*#sˌɛɡˈon̪d̪o# | 129 : k > ɡ / [-cons] __ [+syl]
+*#sˌɛɣˈon̪d̪o# | 132 : ɡ > ɣ / [-cons] __ [-cons]
+*#sˌɛɣˈũn̪d̪o# | 162 : [+round,-hi] > [+tense,+hi,+nas,-cons,-lat,+cont,0delrel] / __ [+nas]
+*#sˌɛˈũn̪d̪o# | 177 : ɣ > ∅ / __ [+tense,+round,+prim]
+Middle Gallo-Roman stage form : *#sˌɛˈũn̪d̪o#
+*#sˌɛˈũn̪d̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#sˌɛˈũn̪d̪ə̯# | 269 : ə > ə̯ 
+*#sˌɛˈũn̪d̪# | 294 : ə̯ > ∅ 
+*#sˌeˈũn̪d̪# | 421 : ˌɛ > ˌe / __ @ @
+Later Gallo-Roman stage form : *#sˌeˈũn̪d̪#
+*#sˌeˈũn̪t̪# | 448 : [-son] > [-voi] / __ #
+*#sˌəˈũn̪t̪# | 509 : ˌe > ˌə / __ ( [+cons] ) [+syl]
+Old French I stage form : *#sˌəˈũn̪t̪#
+Old French II stage form : *#sˌəˈũn̪t̪#
+*#sə̯ˈũn̪t̪# | 643 : ˌə > ə̯ / __ [-cons]
+*#sə̯ˈũːt̪# | 663 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+Middle French stage form : *#sə̯ˈũːt̪#
+*#sˈũːt̪# | 697 : ə̯ > ∅ / __ [-cons]
+*#sˈũː# | 718 : [-son] > ∅ / __ #
+*#sũː# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+*#sũ# | 738 : [+syl,+long] > [-long,-splng] 
+*#sɔ̃# | 739 : ũ > ɔ̃ 
+Final form : *#sɔ̃#

@@ -1,0 +1,37 @@
+Derivation file for run '../RomanceNumeralAnalogy/FrenchNumberRun'; etymon number :48:
+#d̪ˌekˈeːn̪um# >>> *#d̪izɛ̃# ( GOLD : #d̪izjɛm#) :
+d̪ ˌe k ˈeː n̪ u m 
+*#d̪ˌɛkˈeːn̪ʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌɛkˈen̪ʊm# | 57 : [+syl,+long] > [-long,-splng] 
+*#d̪ˌɛkˈen̪om# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌɛkˈen̪o# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+*#d̪ˌɛkʲˈen̪o# | 78 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#d̪ˌɛcˈen̪o# | 79 : [+back,+front] > [-back] 
+Late Latin stage form : *#d̪ˌɛcˈen̪o#
+*#d̪ˌɛcˈeːn̪o# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#d̪ˌɛcˈeːn̪o#
+*#d̪ˌɛcˈiːn̪o# | 160 : ˈeː > ˈiː / [+cons,+hi,+front] __
+*#d̪ˌɛt͡sʲˈiːn̪o# | 176 : {c;ɟ} > {t͡sʲ;d͡ʒ} 
+Middle Gallo-Roman stage form : *#d̪ˌɛt͡sʲˈiːn̪o#
+*#d̪ˌɛt͡sʲˈiːn̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#d̪ˌɛt͡sʲˈiːn̪ə̯# | 269 : ə > ə̯ 
+*#d̪ˌɛt͡sʲˈiːn̪# | 294 : ə̯ > ∅ 
+*#d̪ˌɛd͡zʲˈiːn̪# | 346 : [-voi] > [+voi] / [-cons] __ [-cons]
+*#d̪ˌɛjd͡zˈiːn̪# | 382 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ;d͡ʒʲ;t͡ʃʲ} > {j t̪;j d̪;j s;j z;j n̪;j d͡z;j d͡ʒ;j t͡ʃ} 
+*#d̪ˌid͡zˈiːn̪# | 386 : ˌɛ j > ˌi / __ [+cor]
+*#d̪ˌid͡zʲˈiːn̪# | 387 : [+cor] > [+hi,+front] / [+front,+hi] __ [+hi,+front]
+Later Gallo-Roman stage form : *#d̪ˌid͡zʲˈiːn̪#
+*#d̪ˌid͡zʲˈin̪# | 452 : [+syl] > [-long,-splng] 
+Old French I stage form : *#d̪ˌid͡zʲˈin̪#
+*#d̪ˌid͡zʲˈĩn̪# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+*#d̪ˌizʲˈĩn̪# | 627 : [+delrel] > [+cont,0delrel] 
+Old French II stage form : *#d̪ˌizʲˈĩn̪#
+*#d̪ˌizʲˈẽn̪# | 651 : [+nas,+front,-round,-lo,+syl] > [-hi] 
+*#d̪ˌizˈẽn̪# | 657 : [+ant,+front] > [-front,-hi] 
+*#d̪ˌizˈẽː# | 664 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+Middle French stage form : *#d̪ˌizˈẽː#
+*#d̪ˌizˈɛ̃ː# | 688 : [+front,-lo,+nas,+syl,-round] > [-hi,-tense,-cons,-lat,+cont,0delrel] / [+cons] __
+*#d̪ˌiːzˈɛ̃ː# | 707 : [+syl] > [+long] / __ z [+syl]
+*#d̪iːzɛ̃ː# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+*#d̪izɛ̃# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#d̪izɛ̃#
