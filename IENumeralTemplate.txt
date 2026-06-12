@@ -1,0 +1,93 @@
+=Proto-Indo-European,
+x ˈo j n o s , ${1.m.card}. Latin ūnus "one", AGk oinós "dice ace", Gaulish oinos, Old Pruss ains, Lith vienas, 
+s ˈeː m s , ${1.m.card}. Greek heis, Toch A. sas (?) (??)
+x ˈo j n o m , ${1.n.card}. Latin unum, Goth ain.. .etc.
+s ˈe m , ${1.n.card}. Greek hen, Toch. B s̩e, (??) Hittite sani "single". O-grade: -> OEng sam "to gather"? Alb. gjë 'thing'? 
+x ˈo j n e χ , ${1.f.card}. Latin ūna, AGk oinɛ̄, Goth aina
+s m ˈi χ e , ${1.f.card}. Greek mía, Alb një, Armenian mi
+p r̩ χ w ˈo s , ${1.ord}. OArm haraw, Alb parë, PSl pɪrvʊ, OEng forwest, Toch B parwe, Skt pūrvyá
+s o m x ˈo s , ${1.adv}. AGk homos, PEmg sa,e ? sa,e. Gothic sama, Skt samá "the same, alike", Avestan & OPers. hama, Slav samʊ, Oir -som, Alb. -shëm
+s ˈe m i ɟʰ o s , ${1.quotient}. Alb gjidhë "all", Lat sing-ul-us "single", OArm ez "one".  
+s ˈe m p l o s , ${1.mult}. Lat simplus. 
+x o j n i xʷ ˈe n o m ${1.coll}. Lat uniōnem, Gheg Alb njã. 
+s ˈe m i , ${1.fract}. Alb. gji- 
+s ˈm̩ t e r o s , ${1.fract.agent}. AGk heteros "other" (or < h1e-teros?) , Old Welsh hanther "middle, half". 
+
+d w ˈo x , ${2.m.card}
+d ˈu i x , ${2.n.card}
+d w ˈe χ x e , ${2.f.card}
+χ ˈe n t e r o s , ${2.ord}. Many reflexes. 
+d w ˈi s , ${2.adv}. Twice, Alb. dysh, AGk dís, Lat bis, Skt dvís;  Arm erki-, Alb dë̠.
+d w ˈi ɟʰ o s , ${2.quotient}. Or with -gh-. Twig, Alb degë, AGk díkha.
+d w i p l ˈo s , ${2.mult}. AGk diplos, Latin duplos, OIr diabul, Milyan biple, Gothic tweifl, OHG zwīfal > Zweifel "doubt", etc. 
+d w ˌo j ˈo s , ${2.coll}. AGk doiós, Slav dʊvojɪ, Skt dvajá "twofold"
+s ˈeː m i , ${2.fract}. Agk hɛ̄mi, Lat sēmi-, OHG sāmi, Skt. sāmi. 
+
+t r ˈe j e s , ${3.m.card}
+t r ˈi χ , ${3.n.card}
+t ˈi s r e s , ${3.f.card}. Gaulish tidres etc.
+t r i t ˈo s , ${3.ord}
+t r̩ t j ˈo s , ${3.ord}
+t r ˈi s , ${3.adv}
+${3.quotient}
+${3.mult}
+${3.coll}
+${3.fract}
+
+kʷ e t w ˈo r e s , ${4.m.card}
+${4.n.card}
+${4.f.card}
+kʷ e t w r̩ t ˈo s , ${4.ord}
+${4.adv}
+${4.quotient}
+${4.mult}
+${4.coll}
+${4.fract}
+
+p ˈe n kʷ e , ${5.card}
+p ˌe n kʷ t ˈo s , ${5.ord}
+
+s w ˈe c s , ${6.card}
+s w ˈe c s t o s , ${6.ord}
+
+s e p t ˈm̩ , ${7.card}
+s e p t m̩ m ˈo s , ${7.ord}
+
+o c t ˈoː w , ${8.card}
+o c t ˈoː w o s , ${8.ord}
+
+x n ˈe w n̩ , ${9.card}
+x n e w ˈn̩ n o s , ${9.ord}
+
+d ˈe c m̩ , ${10.card}
+d e c m̩ t ˈo s , ${10.ord}
+
+w ˈi d c m̩ t i , ${20.card}
+w i d c m̩ t ˈo s , ${20.ord}
+
+t r i d c ˈo m t , ${30.card}
+t r i d c m̩ t ˈo s , ${30.ord}
+
+kʷ ˈe t w r̩ d c o m t , ${40.card}
+kʷ e t w r̩ d c m̩ t ˈo s , ${40.ord}
+
+p ˈe n kʷ w e d c o m t , ${50.card}
+p e n kʷ e d c m̩ t ˈo s , ${50.ord}
+
+s w ˈe c s d c o m t , ${60.card}
+s w e c s d c m̩ t ˈo s , ${60.ord}
+
+s e p t ˈm̩ d c o m t , ${70.card}
+s e p t m̩ d c m̩ t ˈo s , ${70.ord}
+
+o c t ˈo d c o m t , ${80.card}
+o c t o d c m̩ t ˈo s , ${80.ord}
+
+x n ˈe w n̩ d c o m t , ${90.card}
+x n e w n̩ d c m̩ t ˈo s , ${90.ord}
+
+c m̩ t ˈo m , ${100.card}
+
+t ˈu χ s o n t i , ${1000.card}. Eng thousand, Slavic tysõti, Lithuanian tūkstantis, etc. 
+ɟʰ ˈe s l i , ${1000.card}. Greek khilioi. Locative? 
+s m̩ ɟʰ ˈe s l o , ${1000.card}. Sanskrit sajhasram, Latin mille. 
