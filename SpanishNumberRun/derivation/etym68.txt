@@ -1,0 +1,20 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :68:
+#ˌopt̪oːɡˈˈeːsimum# >>> *#ot̪wˈesmo# ( GOLD : #ot͡ʃen̪t̪ˈabo#) :
+ˌo p t̪ oː ɡ ˈˈeː s i m u m 
+Popular Latin stage form : *#ˌopt̪oːɡˈˈeːsimum#
+Popular Latin stage form : *#ˌopt̪oːɡˈˈeːsimum#
+*#ˌopt̪oːɡˈˈeːsmum# | 25 : [+syl,-prim,-long] > ∅ / [+prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] ( [-syl] )* [+syl]
+*#ˌopt̪oːɡˈˈeːsmu# | 34 : [+nas] > ∅ / [-stres] __ #
+*#ˌopt̪oːˈˈeːsmu# | 44 : [+back,-cont,+voi] > ∅ / [+syl,+back] __ [+front]
+*#ˌopt̪wˈˈeːsmu# | 51 : [+syl,-prim,-lo,+back] > [-syl,-long,+hi,0stres,0prim,-splng] / __ [+syl,-back]
+*#ˌɔpt̪wˈˈeːsmu# | 54 : [+syl,-long,-hi,-lo,+back] > [-tense,-cons,-lat,+cont,0delrel] / __ [-nas]
+*#ˌopt̪wˈˈeːsmu# | 57 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌopt̪wˈˈeːsmo# | 59 : [+syl,-long] > [-hi] 
+*#ˌopt̪wˈesmo# | 60 : [+syl] > [-long,-splng] 
+*#ˌot̪t̪wˈesmo# | 74 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
+*#ˌot̪t̪wˈezmo# | 122 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+*#ˌot̪wˈezmo# | 151 : [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#ˌot̪wˈesmo# | 273 : [+strid] > [-voi] 
+Middle Spanish stage form : *#ˌot̪wˈesmo#
+*#ot̪wˈesmo# | 278 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ot̪wˈesmo#

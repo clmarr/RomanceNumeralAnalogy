@@ -1,0 +1,10 @@
+Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :1:
+#ˈuːnɑm# >>> *#ˈunə# ( GOLD : #ˈuna#) :
+ˈuː n ɑ m 
+*#ˈuːnam# | 13 : [+lo,+back] > [-back,+front] 
+*#ˈuːna# | 36 : m > ∅ / [-stres] __ #
+*#ˈuna# | 124 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ˈuna#
+Balkan Romance stage form : *#ˈuna#
+*#ˈunə# | 219 : [-cons,+lo,-stres,-long] > ə / @ __ #
+Final form : *#ˈunə#

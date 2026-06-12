@@ -1,0 +1,30 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :52:
+#d̪ˌeːkiet̪sˈept̪em# >>> *#d̪eθjˈet̪# ( GOLD : #d̪jeθisjˈet̪e#) :
+d̪ ˌeː k i e t̪ s ˈe p t̪ e m 
+Popular Latin stage form : *#d̪ˌeːkiet̪sˈept̪em#
+Popular Latin stage form : *#d̪ˌeːkiet̪sˈept̪em#
+*#d̪ˌeːkiet̪sˈept̪e# | 34 : [+nas] > ∅ / [-stres] __ #
+*#d̪ˌeːkieːt̪sˈept̪e# | 40 : [+syl,αback] > [+long] / [+cons,-cor,-cont] [+syl,αback] __
+*#d̪ˌeːkjeːt̪sˈept̪e# | 45 : [+syl,-prim,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+*#d̪ˌeːkjeːt̪sˈɛpt̪ɛ# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌeːkjeːt̪sˈɛpt̪e# | 57 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌekjet̪sˈɛpt̪e# | 60 : [+syl] > [-long,-splng] 
+*#d̪ˌeket̪sˈɛpt̪e# | 73 : [-cons,-lo,αround,-syl] > ∅ / __ [-lo,+syl,αround]
+*#d̪ˌekessˈɛt̪t̪e# | 74 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
+*#d̪ˌekjessˈɛt̪t̪e# | 78 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#d̪ˌet͡ʃjessˈɛt̪t̪e# | 80 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
+*#d̪ˌet͡ʃessˈɛt̪t̪e# | 85 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __
+*#d̪ˌed͡ʒessˈɛt̪t̪e# | 123 : [-cont] > [+voi] / [+syl] __ [+son]
+*#d̪ˌed͡ʒessˈɛet̪t̪e# | 139 : ∅ > e / [-tense,+prim] __
+*#d̪ˌed͡ʒessjˈet̪t̪e# | 140 : [-tense,+prim] e > [+tense,+hi,-syl,-cons,0stres,0prim,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#d̪ˌed͡ʒesjˈet̪e# | 151 : [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#d̪ˌed͡zesjˈet̪e# | 158 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#d̪ˌed͡zsjˈet̪e# | 178 : [-lo,+syl,-stres] > ∅ / [+cont] [+cons] __ [+cons] ( [-cons] )* [+prim] @
+*#d̪ˌed͡zjˈet̪e# | 254 : [-son] > ∅ / [+delrel] __
+*#d̪ˌed͡zjˈet̪# | 255 : e > ∅ / [+syl] [+cor,+ant,-cont] __ #
+*#d̪ˌez̪jˈet̪# | 272 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#d̪ˌes̪jˈet̪# | 273 : [+strid] > [-voi] 
+Middle Spanish stage form : *#d̪ˌes̪jˈet̪#
+*#d̪ˌeθjˈet̪# | 276 : s̪ > θ 
+*#d̪eθjˈet̪# | 278 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#d̪eθjˈet̪#

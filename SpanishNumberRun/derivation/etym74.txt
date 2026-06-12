@@ -1,0 +1,13 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :74:
+#mˈiːllem# >>> *#mˈiʝe# ( GOLD : #mˈil#) :
+m ˈiː l l e m 
+Popular Latin stage form : *#mˈiːllem#
+Popular Latin stage form : *#mˈiːllem#
+*#mˈiːlle# | 34 : [+nas] > ∅ / [-stres] __ #
+*#mˈiːllɛ# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈiːlle# | 57 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mˈille# | 60 : [+syl] > [-long,-splng] 
+*#mˈiʎe# | 179 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+Middle Spanish stage form : *#mˈiʎe#
+*#mˈiʝe# | 279 : ʎ > ʝ 
+Final form : *#mˈiʝe#

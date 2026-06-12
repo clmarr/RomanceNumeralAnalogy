@@ -1,0 +1,21 @@
+Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :63:
+#mˌiːllˈeːsimum# >>> *#milˈesem# ( GOLD : #mˈijlea̯#) :
+m ˌiː l l ˈeː s i m u m 
+*#miːllˈeːsimum# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#miːllˈeːsimu# | 36 : m > ∅ / [-stres] __ #
+*#miːllˈeːsemu# | 120 : [+syl,-long,+hi,-back] > [-hi] 
+*#millˈesemu# | 124 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#millˈesemu#
+Balkan Romance stage form : *#millˈesemu#
+*#millˈɛsemu# | 197 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas] )* [+syl,-hi,-back]
+*#millˈɛasemu# | 201 : ∅ > a / [+prim,-tense] __
+*#millˈɛˈasemu# | 202 : a > ˈa / [-tense,+stres] __
+*#millɛ̯ˈasemu# | 204 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
+*#mille̯ˈasemu# | 205 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mile̯ˈasemu# | 216 : l l > l 
+*#mile̯ˈasimu# | 257 : e > i / [+cons] __ [+cons,+nas]
+*#milˈesimu# | 284 : {e̯ a;e̯ ˈa} > {e;ˈe} / __ ( [-syl] )* [+syl,+front,-lo,-back]
+*#milˈesimw̥# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#milˈesim# | 307 : w̥ > ∅ / [-syl] __ #
+*#milˈesem# | 345 : i > e / s __ m
+Final form : *#milˈesem#

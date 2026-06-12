@@ -1,0 +1,22 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :72:
+#kˌen̪t̪ˈˈeːsimum# >>> *#θen̪t̪ˈesmo# ( GOLD : #θen̪t̪ˈabo#) :
+k ˌe n̪ t̪ ˈeː s i m u m 
+Popular Latin stage form : *#kˌen̪t̪ˈˈeːsimum#
+Popular Latin stage form : *#kˌen̪t̪ˈˈeːsimum#
+*#kˌen̪t̪ˈˈeːsmum# | 25 : [+syl,-prim,-long] > ∅ / [+prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] ( [-syl] )* [+syl]
+*#kˌen̪t̪ˈˈeːsmu# | 34 : [+nas] > ∅ / [-stres] __ #
+*#kˌɛn̪t̪ˈˈeːsmu# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌen̪t̪ˈˈeːsmu# | 57 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kˌen̪t̪ˈˈeːsmo# | 59 : [+syl,-long] > [-hi] 
+*#kˌen̪t̪ˈesmo# | 60 : [+syl] > [-long,-splng] 
+*#kjˌen̪t̪ˈesmo# | 78 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#t͡ʃjˌen̪t̪ˈesmo# | 80 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
+*#t͡ʃˌen̪t̪ˈesmo# | 85 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __
+*#t͡ʃˌen̪t̪ˈezmo# | 122 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+*#t͡sˌen̪t̪ˈezmo# | 158 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#s̪ˌen̪t̪ˈezmo# | 272 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#s̪ˌen̪t̪ˈesmo# | 273 : [+strid] > [-voi] 
+Middle Spanish stage form : *#s̪ˌen̪t̪ˈesmo#
+*#θˌen̪t̪ˈesmo# | 276 : s̪ > θ 
+*#θen̪t̪ˈesmo# | 278 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#θen̪t̪ˈesmo#

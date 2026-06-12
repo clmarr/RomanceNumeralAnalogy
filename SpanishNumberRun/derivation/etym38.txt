@@ -1,0 +1,16 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :38:
+#ˌokt̪ˈɑn̪t̪em# >>> *#ot͡ʃˈɑn̪t̪e# ( GOLD : #ot͡ʃˈabo#) :
+ˌo k t̪ ˈɑ n̪ t̪ e m 
+Popular Latin stage form : *#ˌokt̪ˈɑn̪t̪em#
+Popular Latin stage form : *#ˌokt̪ˈɑn̪t̪em#
+*#ˌokt̪ˈɑn̪t̪e# | 34 : [+nas] > ∅ / [-stres] __ #
+*#ˌoxt̪ˈɑn̪t̪e# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#ˌoxt̪ˈɑn̪t̪ɛ# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɔxt̪ˈɑn̪t̪ɛ# | 54 : [+syl,-long,-hi,-lo,+back] > [-tense,-cons,-lat,+cont,0delrel] / __ [-nas]
+*#ˌoxt̪ˈɑn̪t̪e# | 57 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˌojt̪ˈɑn̪t̪e# | 131 : [+cons,+hi,-round] > j / [+syl] __ [+cons,-back,-son]
+*#ˌojt͡ʃˈɑn̪t̪e# | 221 : {s;t̪} > {ʃ;t͡ʃ} / j __ [-cons]
+*#ˌot͡ʃˈɑn̪t̪e# | 235 : [-syl,-cons,+hi,+front] > ∅ / __ [+front,+cons]
+Middle Spanish stage form : *#ˌot͡ʃˈɑn̪t̪e#
+*#ot͡ʃˈɑn̪t̪e# | 278 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#ot͡ʃˈɑn̪t̪e#

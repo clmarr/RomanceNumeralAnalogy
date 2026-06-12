@@ -1,0 +1,18 @@
+Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :20:
+#kwˈɑttuor# >>> *#pˈatru# ( GOLD : #pˈatru#) :
+k w ˈɑ t t u o r 
+*#kwˈɑttwor# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kwˈattwor# | 13 : [+lo,+back] > [-back,+front] 
+*#kwˈattrwo# | 84 : ∅ [-cons] [+syl] r > r [-cons,-lat,+cont,0delrel] [+syl,+son] ∅/ [+cons] [-son] __ #
+*#kβˈattrβo# | 91 : w > β / __ [-cons]
+*#pβˈattrβo# | 106 : k > p / __ β [-cons,+lo]
+*#pˈattro# | 158 : β > ∅ 
+*#pˈatro# | 161 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
+Balkan Romance stage form : *#pˈatro#
+Balkan Romance stage form : *#pˈatro#
+*#pˈatɾo# | 166 : r > ɾ 
+*#pˈatɾu# | 177 : o > u / __ ( [-syl,+lab,+voi] ) #
+*#pˈatru# | 299 : ɾ > r 
+*#pˈatrw# | 303 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
+*#pˈatru# | 309 : {w;w̥;j̊} > {u;w;j} 
+Final form : *#pˈatru#

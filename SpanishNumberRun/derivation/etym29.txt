@@ -1,0 +1,11 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :29:
+#sˈeks# >>> *#sˈejs# ( GOLD : #sˈejs#) :
+s ˈe k s 
+Popular Latin stage form : *#sˈeks#
+Popular Latin stage form : *#sˈeks#
+*#sˈexs# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#sˈɛxs# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈɛjs# | 131 : [+cons,+hi,-round] > j / [+syl] __ [+cons,-back,-son]
+*#sˈejs# | 136 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+Middle Spanish stage form : *#sˈejs#
+Final form : *#sˈejs#

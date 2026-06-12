@@ -1,0 +1,14 @@
+Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :8:
+#ˈin̪t̪eɡrum# >>> *#ˈin̪t̪reɡ# ( GOLD : #ɨntrˈeɡ#) :
+ˈi n̪ t̪ e ɡ r u m 
+*#ˈin̪t̪eɡru# | 36 : m > ∅ / [-stres] __ #
+*#ˈin̪t̪reɡu# | 74 : ∅ [+syl,-back] [+cons,+back] r > r [+syl,-back,+son] [+cons,+back,0tense] ∅/ [+syl] ( [+nas] ) [-cont,-back] __ [+syl]
+*#ˈen̪t̪reɡu# | 120 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#ˈen̪t̪reɡu#
+Balkan Romance stage form : *#ˈen̪t̪reɡu#
+*#ˈen̪t̪ɾeɡu# | 166 : r > ɾ 
+*#ˈin̪t̪ɾeɡu# | 261 : ˈe > ˈi / __ [+cons,+nas] [-nas]
+*#ˈin̪t̪reɡu# | 299 : ɾ > r 
+*#ˈin̪t̪reɡw̥# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈin̪t̪reɡ# | 307 : w̥ > ∅ / [-syl] __ #
+Final form : *#ˈin̪t̪reɡ#

@@ -1,0 +1,23 @@
+Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :52:
+#kwˌɑdrɑːɡˈintɑm# >>> *#pərəd͡ʒˈintə# ( GOLD : #pˈatruzˈet͡ʃj#) :
+k w ˌɑ d r ɑː ɡ ˈi n t ɑ m 
+*#kwˌadraːɡˈintam# | 13 : [+lo,+back] > [-back,+front] 
+*#kwadraːɡˈintam# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kwarraːɡˈintam# | 30 : d > r / [+syl,+lo] __ r
+*#kwarraːɡˈinta# | 36 : m > ∅ / [-stres] __ #
+*#kβarraːɡˈinta# | 91 : w > β / __ [-cons]
+*#pβarraːɡˈinta# | 106 : k > p / __ β [-cons,+lo]
+*#pβarraːɡˈenta# | 120 : [+syl,-long,+hi,-back] > [-hi] 
+*#pβarraɡˈenta# | 124 : [+syl] > [-long,-splng] 
+*#parraɡˈenta# | 158 : β > ∅ 
+*#parrad͡ʒˈenta# | 163 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
+Balkan Romance stage form : *#parrad͡ʒˈenta#
+Balkan Romance stage form : *#parrad͡ʒˈenta#
+*#paɾɾad͡ʒˈenta# | 166 : r > ɾ 
+*#parrad͡ʒˈenta# | 167 : ɾ ɾ > r r 
+*#parrad͡ʒˈentə# | 219 : [-cons,+lo,-stres,-long] > ə / @ __ #
+*#pərrəd͡ʒˈentə# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
+*#pərrəd͡ʒˈintə# | 261 : ˈe > ˈi / __ [+cons,+nas] [-nas]
+*#pəɾəd͡ʒˈintə# | 294 : r r > ɾ 
+*#pərəd͡ʒˈintə# | 299 : ɾ > r 
+Final form : *#pərəd͡ʒˈintə#

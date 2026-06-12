@@ -1,0 +1,20 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :44:
+#d̪ˌeːkˈeːnum# >>> *#d̪eθˈeno# ( GOLD : #d̪eθˈen̪o#) :
+d̪ ˌeː k ˈeː n u m 
+*#d̪ˌeːkˈˈeːnum# | 4 : [+front] > [-round,-lab] 
+Popular Latin stage form : *#d̪ˌeːkˈˈeːnum#
+Popular Latin stage form : *#d̪ˌeːkˈˈeːnum#
+*#d̪ˌeːkˈˈeːnu# | 34 : [+nas] > ∅ / [-stres] __ #
+*#d̪ˌeːkˈˈeːno# | 59 : [+syl,-long] > [-hi] 
+*#d̪ˌekˈeno# | 60 : [+syl] > [-long,-splng] 
+*#d̪ˌekjˈeno# | 78 : ∅ > j / [+cons,-cont,+back,-round] __ [+syl,-back]
+*#d̪ˌet͡ʃjˈeno# | 80 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
+*#d̪ˌet͡ʃˈeno# | 85 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __
+*#d̪ˌed͡ʒˈeno# | 123 : [-cont] > [+voi] / [+syl] __ [+son]
+*#d̪ˌed͡zˈeno# | 158 : {t͡ʃ;d͡ʒ} > {t͡s;d͡z} 
+*#d̪ˌez̪ˈeno# | 272 : [+strid,+ant,+delrel] > [+cont,+distr,0delrel,+cor] 
+*#d̪ˌes̪ˈeno# | 273 : [+strid] > [-voi] 
+Middle Spanish stage form : *#d̪ˌes̪ˈeno#
+*#d̪ˌeθˈeno# | 276 : s̪ > θ 
+*#d̪eθˈeno# | 278 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#d̪eθˈeno#

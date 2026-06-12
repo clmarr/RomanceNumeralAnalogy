@@ -1,0 +1,16 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :14:
+#mˈed̪ium# >>> *#mˈeo# ( GOLD : #mˈed̪jo#) :
+m ˈe d̪ i u m 
+Popular Latin stage form : *#mˈed̪ium#
+Popular Latin stage form : *#mˈed̪ium#
+*#mˈed̪iu# | 34 : [+nas] > ∅ / [-stres] __ #
+*#mˈed̪ju# | 45 : [+syl,-prim,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+*#mˈɛd̪ju# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛd̪jo# | 59 : [+syl,-long] > [-hi] 
+*#mˈɛd͡ʒjo# | 80 : {t̪;d̪;t̪ʰ;k;ɡ;kʰ;kʷ} > {t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ;d͡ʒ;t͡ʃ;t͡ʃ} / __ j
+*#mˈɛd͡ʒo# | 85 : [-syl,-cons,+hi,+front] > ∅ / [+front,+cons] __
+*#mˈɛʝo# | 114 : d͡ʒ > ʝ 
+*#mˈeʝo# | 136 : [+syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] / __ ( @ ) ( @ ) [+hi,+front]
+*#mˈeo# | 145 : ʝ > ∅ / [+syl,-back] __ [+syl]
+Middle Spanish stage form : *#mˈeo#
+Final form : *#mˈeo#

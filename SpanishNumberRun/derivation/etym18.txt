@@ -1,0 +1,11 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :18:
+#trˈiplum# >>> *#tɾˈeblo# ( GOLD : #t̪ɾˈiplo#) :
+t r ˈi p l u m 
+Popular Latin stage form : *#trˈiplum#
+Popular Latin stage form : *#trˈiplum#
+*#trˈiplu# | 34 : [+nas] > ∅ / [-stres] __ #
+*#trˈeplo# | 59 : [+syl,-long] > [-hi] 
+*#trˈeblo# | 123 : [-cont] > [+voi] / [+syl] __ [+son]
+*#tɾˈeblo# | 176 : r > ɾ 
+Middle Spanish stage form : *#tɾˈeblo#
+Final form : *#tɾˈeblo#

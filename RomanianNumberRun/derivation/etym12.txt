@@ -1,0 +1,9 @@
+Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :12:
+#dˈuplum# >>> *#dˈuplu# ( GOLD : #ˌɨndˈojt#) :
+d ˈu p l u m 
+*#dˈuplu# | 36 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#dˈuplu#
+Balkan Romance stage form : *#dˈuplu#
+*#dˈuplw# | 303 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
+*#dˈuplu# | 309 : {w;w̥;j̊} > {u;w;j} 
+Final form : *#dˈuplu#

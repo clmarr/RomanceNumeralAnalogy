@@ -1,0 +1,11 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :2:
+#ˌuːn̪um# >>> *#un̪o# ( GOLD : #un̪#) :
+ˌuː n̪ u m 
+Popular Latin stage form : *#ˌuːn̪um#
+Popular Latin stage form : *#ˌuːn̪um#
+*#ˌuːn̪u# | 34 : [+nas] > ∅ / [-stres] __ #
+*#ˌuːn̪o# | 59 : [+syl,-long] > [-hi] 
+*#ˌun̪o# | 60 : [+syl] > [-long,-splng] 
+Middle Spanish stage form : *#ˌun̪o#
+*#un̪o# | 278 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#un̪o#

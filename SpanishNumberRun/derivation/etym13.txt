@@ -1,0 +1,10 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :13:
+#d̪ˈuplum# >>> *#d̪ˈoblo# ( GOLD : #d̪ˈoble#) :
+d̪ ˈu p l u m 
+Popular Latin stage form : *#d̪ˈuplum#
+Popular Latin stage form : *#d̪ˈuplum#
+*#d̪ˈuplu# | 34 : [+nas] > ∅ / [-stres] __ #
+*#d̪ˈoplo# | 59 : [+syl,-long] > [-hi] 
+*#d̪ˈoblo# | 123 : [-cont] > [+voi] / [+syl] __ [+son]
+Middle Spanish stage form : *#d̪ˈoblo#
+Final form : *#d̪ˈoblo#

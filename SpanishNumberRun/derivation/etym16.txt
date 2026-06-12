@@ -1,0 +1,10 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :16:
+#trˈeːs# >>> *#tɾˈes# ( GOLD : #t̪rˈes#) :
+t r ˈeː s 
+*#trˈˈeːs# | 4 : [+front] > [-round,-lab] 
+Popular Latin stage form : *#trˈˈeːs#
+Popular Latin stage form : *#trˈˈeːs#
+*#trˈes# | 60 : [+syl] > [-long,-splng] 
+*#tɾˈes# | 176 : r > ɾ 
+Middle Spanish stage form : *#tɾˈes#
+Final form : *#tɾˈes#

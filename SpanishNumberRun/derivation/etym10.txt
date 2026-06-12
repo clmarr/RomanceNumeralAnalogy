@@ -1,0 +1,13 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :10:
+#d̪ˈuae̯# >>> *#d̪ˈoj# ( GOLD : #d̪ˈuas#) :
+d̪ ˈu a e̯ 
+Popular Latin stage form : *#d̪ˈuae̯#
+Popular Latin stage form : *#d̪ˈuae̯#
+*#d̪ˈuɛe̯# | 19 : {a;o;ˈa;ˈo;ˌa;ˌo} > {ɛ;e;ˈɛ;ˈe;ˌɛ;ˌe} / __ e̯
+*#d̪ˈuɛː# | 20 : [+syl,αfront,βround] [-syl,-cons,αfront,βround] > [+long] ∅
+*#d̪ˈueː# | 57 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˈoeː# | 59 : [+syl,-long] > [-hi] 
+*#d̪ˈoe# | 60 : [+syl] > [-long,-splng] 
+*#d̪ˈoj# | 127 : [+front,+syl,-stres] > j / [+syl,+back] __
+Middle Spanish stage form : *#d̪ˈoj#
+Final form : *#d̪ˈoj#

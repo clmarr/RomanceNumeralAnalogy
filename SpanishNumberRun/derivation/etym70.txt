@@ -1,0 +1,15 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :70:
+#n̪ˌoːn̪ɑːɡˈˈeːsimum# >>> *#n̪on̪ɑˈesmo# ( GOLD : #n̪oben̪t̪ˈabo#) :
+n̪ ˌoː n̪ ɑː ɡ ˈeː s i m u m 
+Popular Latin stage form : *#n̪ˌoːn̪ɑːɡˈˈeːsimum#
+Popular Latin stage form : *#n̪ˌoːn̪ɑːɡˈˈeːsimum#
+*#n̪ˌoːn̪ɑːɡˈˈeːsmum# | 25 : [+syl,-prim,-long] > ∅ / [+prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] ( [-syl] )* [+syl]
+*#n̪ˌoːn̪ɑːɡˈˈeːsmu# | 34 : [+nas] > ∅ / [-stres] __ #
+*#n̪ˌoːn̪ɑːˈˈeːsmu# | 44 : [+back,-cont,+voi] > ∅ / [+syl,+back] __ [+front]
+*#n̪ˌoːn̪ɑːˈˈeːsmo# | 59 : [+syl,-long] > [-hi] 
+*#n̪ˌon̪ɑˈesmo# | 60 : [+syl] > [-long,-splng] 
+*#n̪ˌon̪ɑˈezmo# | 122 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+*#n̪ˌon̪ɑˈesmo# | 273 : [+strid] > [-voi] 
+Middle Spanish stage form : *#n̪ˌon̪ɑˈesmo#
+*#n̪on̪ɑˈesmo# | 278 : [-prim] > [-stres,-prim,+syl,+son] 
+Final form : *#n̪on̪ɑˈesmo#

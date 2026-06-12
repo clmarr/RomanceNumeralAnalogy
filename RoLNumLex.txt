@@ -1,4 +1,4 @@
-=Classical Latin,Proto-Romanian,Modern Romanian
+=Classical Latin,Common Romanian,Modern Romanian
 $n ˈuː l l u m , n e m ˈi k , n i m ˈi k ${0}.
 $r ˈe m , >* , ${nothing}.
 
@@ -15,7 +15,7 @@ s ˈi m p l u m , >* , s ˈi m p l u ${1.instr}. Likely loaned
 
 d u ˈoː s , d ˈo j , d ˈo j ${2.m.card}.
 d ˈu ɑː s , d ˈo w ə , d ˈo w ə ${2.f.card}.
-s ˌe k ˈu n d u m , > , d ˈo j l e a̯ ${2.ord}
+s ˌe k ˈu n d u m , >* , d ˈo j l e a̯ ${2.ord}
 d ˈu p l u m , ˌɨ n d ˈo j , ˌɨ n d ˈo j t ${2.instr}. Dublu is a loan. 
 d ˌi m ˈe d i u m ,  d͡ʒ ˌu m ˈa t e , d o ˈi m e ${2.fract}.  Blend with loan from substrate akin to Proto-Albanian.
 m ˌe d i e t ˈɑː t e m , d͡ʒ j ˌu m i t ˈa t e , ʒ u m ə t ˈa t e ${2.loc}. Blend with loan from substrate akin to Proto-Albanian.
@@ -58,7 +58,7 @@ d u ˈo d e k i m , >* , d ˈo j s p r e z e t͡ʃ e ${12.card}.
 
 t r ˈeː d e k i m , >* , t r ˈe j s p r e z e t͡ʃ e ${13.card}.
 
-k w ˌɑ t t u ˈo r d e k i m , >* , p ˈa j  s p r e z e t͡ʃ e ${14.card}.
+k w ˌɑ t t u ˈo r d e k i m , >* , p ˈa j s p r e z e t͡ʃ e ${14.card}.
 
 k w ˈiː n d e k i m , >* , t͡ʃ ˈi n t͡ʃ s p r e z e t͡ʃ e ${15.card}.
 

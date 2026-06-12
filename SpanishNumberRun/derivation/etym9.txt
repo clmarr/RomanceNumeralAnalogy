@@ -1,0 +1,10 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :9:
+#d̪uˈoːs# >>> *#d̪ˈos# ( GOLD : #d̪ˈos#) :
+d̪ u ˈoː s 
+Popular Latin stage form : *#d̪uˈoːs#
+Popular Latin stage form : *#d̪uˈoːs#
+*#d̪wˈoːs# | 45 : [+syl,-prim,+hi] > [-syl,-long,0stres,0prim,-splng] / __ [+syl]
+*#d̪wˈos# | 60 : [+syl] > [-long,-splng] 
+*#d̪ˈos# | 73 : [-cons,-lo,αround,-syl] > ∅ / __ [-lo,+syl,αround]
+Middle Spanish stage form : *#d̪ˈos#
+Final form : *#d̪ˈos#

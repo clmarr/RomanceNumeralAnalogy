@@ -1,0 +1,15 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :26:
+#kwˈiːn̪kwe# >>> *#bˈin̪be# ( GOLD : #θˈin̪ko#) :
+k w ˈiː n̪ k w e 
+Popular Latin stage form : *#kwˈiːn̪kwe#
+Popular Latin stage form : *#kwˈiːn̪kwe#
+*#kɣʷˈiːn̪kɣʷe# | 16 : w > ɣʷ / __ [+syl]
+*#kɣʷˈiːn̪kɣʷɛ# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kɣʷˈiːn̪kɣʷe# | 57 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kɣʷˈin̪kɣʷe# | 60 : [+syl] > [-long,-splng] 
+*#ɣʷɣʷˈin̪ɣʷɣʷe# | 74 : [-cont,-son] > [αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround] / __ [-son,+cons,αcont,βcor,ɣant,ðdistr,ɛlab,θback,χfront,ɷhi,Adelrel,Bstrid,Cvoi,Dround]
+*#vvˈin̪vve# | 89 : ɣʷ > v 
+*#vˈin̪ve# | 151 : [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel] > ∅ / __ [-son,αcor,βcont,ɣback,θlab,σfront,ɷhi,ŋnas,ʎlat,ðdistr,Adelrel]
+*#bˈin̪be# | 251 : v > b / __ ( ɾ ) [-cons]
+Middle Spanish stage form : *#bˈin̪be#
+Final form : *#bˈin̪be#

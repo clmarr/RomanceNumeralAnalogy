@@ -1,0 +1,16 @@
+Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :43:
+#kwˈiːndekim# >>> *#t͡ʃˈindet͡ʃj# ( GOLD : #t͡ʃˈint͡ʃsprezet͡ʃe#) :
+k w ˈiː n d e k i m 
+*#kwˈiːndeki# | 36 : m > ∅ / [-stres] __ #
+*#kβˈiːndeki# | 91 : w > β / __ [-cons]
+*#kβˈiːndekiː# | 119 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#kβˈindeki# | 124 : [+syl] > [-long,-splng] 
+*#kˈindeki# | 158 : β > ∅ 
+*#t͡ʃˈindet͡ʃi# | 162 : k > t͡ʃ / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#t͡ʃˈindet͡ʃi#
+Balkan Romance stage form : *#t͡ʃˈindet͡ʃi#
+*#t͡ʃjˈindet͡ʃji# | 226 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+*#t͡ʃˈindet͡ʃi# | 229 : j > ∅ / [+cons,+front] __
+*#t͡ʃˈindet͡ʃj̊# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#t͡ʃˈindet͡ʃj# | 309 : {w;w̥;j̊} > {u;w;j} 
+Final form : *#t͡ʃˈindet͡ʃj#

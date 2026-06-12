@@ -1,0 +1,16 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :75:
+#mˌiːllˈˈeːsimum# >>> *#miʝˈesmo# ( GOLD : #milˈesimo#) :
+m ˌiː l l ˈeː s i m u m 
+Popular Latin stage form : *#mˌiːllˈˈeːsimum#
+Popular Latin stage form : *#mˌiːllˈˈeːsimum#
+*#mˌiːllˈˈeːsmum# | 25 : [+syl,-prim,-long] > ∅ / [+prim] ( [-syl] )* [+cor,+strid] __ [+cons,-back] ( [-syl] )* [+syl]
+*#mˌiːllˈˈeːsmu# | 34 : [+nas] > ∅ / [-stres] __ #
+*#mˌiːllˈˈeːsmo# | 59 : [+syl,-long] > [-hi] 
+*#mˌillˈesmo# | 60 : [+syl] > [-long,-splng] 
+*#mˌillˈezmo# | 122 : [-son,+cont] > [+voi] / [-cons] __ [+son]
+*#mˌiʎˈezmo# | 179 : {l l;n̪ n̪;ɲ ɲ} > {ʎ;ɲ;ɲ} / __ [+syl]
+*#mˌiʎˈesmo# | 273 : [+strid] > [-voi] 
+Middle Spanish stage form : *#mˌiʎˈesmo#
+*#miʎˈesmo# | 278 : [-prim] > [-stres,-prim,+syl,+son] 
+*#miʝˈesmo# | 279 : ʎ > ʝ 
+Final form : *#miʝˈesmo#

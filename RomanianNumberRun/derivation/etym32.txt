@@ -1,0 +1,11 @@
+Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :32:
+#ˈoktoː# >>> *#ˈopt# ( GOLD : #ˈopt#) :
+ˈo k t oː 
+*#ˈoptoː# | 100 : k > p / [+stres] __ [+ant,+cor,-voi]
+*#ˈopto# | 124 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ˈopto#
+Balkan Romance stage form : *#ˈopto#
+*#ˈoptu# | 177 : o > u / __ ( [-syl,+lab,+voi] ) #
+*#ˈoptw̥# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈopt# | 307 : w̥ > ∅ / [-syl] __ #
+Final form : *#ˈopt#

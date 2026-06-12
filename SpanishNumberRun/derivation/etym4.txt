@@ -1,0 +1,11 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :4:
+#prˈiːmum# >>> *#pɾˈimo# ( GOLD : #pɾimˈeɾo#) :
+p r ˈiː m u m 
+Popular Latin stage form : *#prˈiːmum#
+Popular Latin stage form : *#prˈiːmum#
+*#prˈiːmu# | 34 : [+nas] > ∅ / [-stres] __ #
+*#prˈiːmo# | 59 : [+syl,-long] > [-hi] 
+*#prˈimo# | 60 : [+syl] > [-long,-splng] 
+*#pɾˈimo# | 176 : r > ɾ 
+Middle Spanish stage form : *#pɾˈimo#
+Final form : *#pɾˈimo#

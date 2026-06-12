@@ -1,0 +1,22 @@
+Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :40:
+#duˈodekim# >>> *#dbo̯ˈadet͡ʃj# ( GOLD : #dˈojsprezet͡ʃe#) :
+d u ˈo d e k i m 
+*#dwˈodekim# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#dwˈodeki# | 36 : m > ∅ / [-stres] __ #
+*#dβˈodeki# | 91 : w > β / __ [-cons]
+*#dβˈodekiː# | 119 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#dβˈodeki# | 124 : [+syl] > [-long,-splng] 
+*#dbˈodeki# | 153 : β > b / # [+cons,-nas,+voi] __
+*#dbˈodet͡ʃi# | 162 : k > t͡ʃ / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#dbˈodet͡ʃi#
+Balkan Romance stage form : *#dbˈodet͡ʃi#
+*#dbˈɔdet͡ʃi# | 197 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas] )* [+syl,-hi,-back]
+*#dbˈɔadet͡ʃi# | 201 : ∅ > a / [+prim,-tense] __
+*#dbˈɔˈadet͡ʃi# | 202 : a > ˈa / [-tense,+stres] __
+*#dbɔ̯ˈadet͡ʃi# | 204 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
+*#dbo̯ˈadet͡ʃi# | 205 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dbo̯ˈadet͡ʃji# | 226 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+*#dbo̯ˈadet͡ʃi# | 229 : j > ∅ / [+cons,+front] __
+*#dbo̯ˈadet͡ʃj̊# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#dbo̯ˈadet͡ʃj# | 309 : {w;w̥;j̊} > {u;w;j} 
+Final form : *#dbo̯ˈadet͡ʃj#

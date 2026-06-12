@@ -1,0 +1,14 @@
+Derivation file for run '../RomanceNumeralAnalogy/SpanishNumberRun'; etymon number :7:
+#ˈin̪t̪eɡrum# >>> *#ˈen̪t̪eɡɾo# ( GOLD : #ˌen̪t̪ˈeɾo#) :
+ˈi n̪ t̪ e ɡ r u m 
+Popular Latin stage form : *#ˈin̪t̪eɡrum#
+Popular Latin stage form : *#ˈin̪t̪eɡrum#
+*#ˈin̪t̪eɡru# | 34 : [+nas] > ∅ / [-stres] __ #
+*#ˈin̪t̪eɣru# | 38 : [+back,+cons,-cont] > [+cont,0delrel] / [+syl] __ [+cons,-back]
+*#ˈin̪t̪ɛɣru# | 53 : [+syl,-long,-hi,-lo,+front] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈin̪t̪eɣru# | 57 : [-lo,-hi,-tense,+syl,-prim] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ˈen̪t̪eɣro# | 59 : [+syl,-long] > [-hi] 
+*#ˈen̪t̪eɡro# | 132 : ɣ > ɡ 
+*#ˈen̪t̪eɡɾo# | 176 : r > ɾ 
+Middle Spanish stage form : *#ˈen̪t̪eɡɾo#
+Final form : *#ˈen̪t̪eɡɾo#
