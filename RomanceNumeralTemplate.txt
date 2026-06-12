@@ -7,6 +7,7 @@ p r ˌiː m ˈɑː r i u m , ${1.ord.agent}.
 s ˈi n ɡ u l u m , ${1.distr}.
 s ˈi m p l u m , ${1.instr}.
 ˈi n̪ t̪ e ɡ r u m , ${1.fract}.
+
 d u ˈo , ${2.m.nom.card}.
 d u ˈoː s , ${2.m.acc.card}.
 d ˈu a e̯ , ${2.f.nom.card}. 
@@ -17,6 +18,7 @@ k ˈoː p u l ɑ , ${2.distr}
 p ˈɑ r i ɑ , ${2.distr}
 d ˌi m ˈe d i u m , ${2.fract}. 
 m ˌe d i e t ˈɑː t e m , ${2.fract.agent}. 
+
 t r ˈeː s , ${3.acc.card}.
 t r ˈeː s , ${3.nom.card}.
 t ˈe r t i u m , ${3.ord}.
@@ -24,54 +26,79 @@ t r ˈi p l u m , ${3.instr}.
 t r ˈiː n u m , ${3.distr}. 
 t r ˌi ˈe n t e m , ${3.fract}.
 t ˌe r t i ˈɑː r i u m , ${3.fract.agent}
+
 k w ˈɑ t t u o r , ${4.card}.
 k w ˈɑː r t u m , ${4.ord}.
 k w ˌɑː t ˈe r n u m , ${4.distr} 
 k w ˌɑ d r ˈɑ n t e m , ${4.fract}. Quārtum is the form actually inherited in most Romance. Perhaps because quadrantum is oo clase to quadraginta. Italian has both quadrante and quarto though. 
 k w ˌɑː r t ˈɑː r i u m , ${4.fract.agent}
+
 k w ˈiː n k w e , ${5.card}.
 k w ˈiː n t u m , ${5.ord}.
 k w ˌiː n ˈɑː r i u m , ${5.fract.agent}
+
 s ˈe k s , ${6.card}.
 s ˈe k s t u m , ${6.ord}.
 s ˌe k s t ˈɑː r i u m , ${6.fract.agent}
+
 s ˈe p t e m , ${7.card}.
 s ˈe p t i m u m , ${7.ord}.
 s ˌe p t ˈeː n u m , ${7.fract}.
+
 ˈo k t oː , ${8.card}.
 ˌo k t ˈɑː w u m , ${8.ord}.
 ˌo k t ˈɑ n t e m , ${8.fract}.
+
 n ˈo w e m , ${9.card}.
 n ˈoː n u m , ${9.ord}.
 n ˌo w ˈeː n u m , ${9.fract}.
+
 d ˈe k e m , ${10.card}.
 d ˈe k i m u m , ${10.ord}. 
 d ˌe k ˈeː n u m , ${10.fract}. Inherited in Catalan, and Ibero-Romance
 d ˌeː n ˈɑː r i u m , ${10.fract.agent}. Largely restricted to pecuniary meaning though. 
+
 ˈu n d e k i m , ${11.card}.
+
 d u ˈo d e k i m , ${12.card}.
+
 t r ˈeː d e k i m , ${13.card}.
+
 k w ˌɑ t t u ˈo r d e k i m , ${14.card}.
+
 k w ˈiː n d e k i m , ${15.card}.
+
 s ˈeː d e k i m , ${16.card}.
+
 d ˌeː k i e t s ˈe p t e m , ${17.card}.
+
 d ˌeː k i e t ˈo k t oː , ${18.card}.
+
 ˌuː n d eː w ˌiː ɡ ˈi n t i , ${19.card}.
+
 w ˌiː ɡ ˈi n t i , ${20.card}.
 w ˌiː k ˈeː n s i m u m , ${20.ord}.
+
 t r ˌiː ɡ ˈi n t ɑ , ${30.card}.
 t̪ r ˌiː k ˈeː s i m u m , ${30.ord}.
+
 k w ˌɑ d r ɑː ɡ ˈi n t ɑ m , ${40.card}.
 k w ˌɑ d r ɑː ɡ ˈeː s i m ɑ , ${40.ord}. Actually a Christian term {Lent} but related to the number.
+
 k w ˌiː n k w ɑː ɡ ˈi n t ɑ m , ${50.card}.
 k w ˌiː n k w ɑː ɡ ˈeː s i m ɑ  , ${50.ord}. Actually a Christian term but related to the number.
+
 s ˌe k s ɑː ɡ ˈi n t ɑ m , ${60.card}.
+
 s ˌe p t ɑː ɡ ˈi n t ɑ m , ${70.card}.
+
 ˌo k t ɑː ɡ ˈi n t ɑ m , ${80.card}.
+
 n ˌoː n ɑː ɡ ˈi n t ɑ m , ${90.card}.
+
 k ˈe n t u m , ${100.card}.
 k ˌe n t ˈeː s i m u m , ${100.ord}.
 k ˌe n t eː n ˈɑː r i u m , ${100.fract.agent}.
+
 m ˈiː l l e m , ${1000.card}.
 m ˌiː l l ˈeː s i m u m , ${1000.ord}.
-

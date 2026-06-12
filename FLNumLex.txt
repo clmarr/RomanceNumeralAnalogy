@@ -1,91 +1,120 @@
 $n̪ ˈuː l l u m , n̪ ˈu l l o , n̪ ˈy l , n̪ ˈy l , n̪ ˈy l , n̪ y l ${0.card}. Excluded as not really part of inherited paradigm here or elsewhere
 $r ˈe m , r ˈɛ m , r ˈi e̯ n̪ , r j ˈẽ n̪ , r j ˈẽː , ʁ j ɛ̃ ${nothing.card}. Popeset. n-liaison
-ˈuː n̪ u m , ˌu n̪ o , ˌy n̪ , ˌỹ n̪ , ˌỹː , œ̃ ${1.m.numeral.card}. Popeset. n-liaison
-ˈuː n̪ ɑ m , ˌu n̪ ɑ , ˌy n̪ ə , ˌỹ n̪ ə, ˌy n̪ ə , y n̪ ${1.f.numeral.card}. Popeset
+
+ˈuː n̪ u m , ˌu n̪ o , ˌy n̪ , ˌỹ n̪ , ˌỹː , œ̃ ${1.m.card}. Popeset. n-liaison
+ˈuː n̪ ɑ m , ˌu n̪ ɑ , ˌy n̪ ə , ˌỹ n̪ ə, ˌy n̪ ə , y n̪ ${1.f.card}. Popeset
 ˌuː n̪ u m , ˌu n̪ o , ˌy n̪ , ˌỹ n̪ , ˌỹː , œ̃ ${1.m.article.card}. 
 ˌuː n̪ ɑ m , ˌu n̪ ɑ , ˌy n̪ ə , ˌỹ n̪ ə, ˌy n̪ ə , y n̪ ${1.f.article.card}.
 p r ˈiː m u m , p r ˈi m o , p r ə m ˈi e̯ r , p r ə m j ˈe r , p r ə m j ˈe r , p ʁ ə m j e  ${1.ord}
 p r ˌiː m ˈɑː r i u m , p r ˌi m ˈɑ r j o , p r ə m ˈi e̯ r , p r ə m j ˈe r , p r ə m j ˈe r , p ʁ ə m j e${1.ord.agent}
 $ˌi n̪ s ˈi m u l , ˌe n̪ s ˈe m l o , ˌe n̪ s ˈe m b l ə , >* , ˌãː s ˈãː b l ə , ɑ̃ s ɑ̃ b l ${1.adv}. Popeset. ensemble. -- Removed, not really part of inherited paradigm.
+$s ˈi n̪ ɡ u l u m , s ˈe n̪ ɡ o l o , s ˈẽ ŋ ɡ l ə , s ˈã ŋ ɡ l ə , s ˈœ l , s œ l ${1.distr}. Replaced with SOLVM
 s ˈi m p l u m , s ˈe m p l o , >* , s ˈĩ m p l ə , s ˈẽː p l ə , s ˈɛ̃ p l ${1.instr}. Replaced by Latin borrowing into Old French. 
-s ˈi n̪ ɡ u l u m , s ˈe n̪ ɡ o l o , s ˈẽ ŋ ɡ l ə , s ˈã ŋ ɡ l ə , s ˈœ l , s œ l ${1.distr}. Replaced with SOLVM
 ˈi n̪ t̪ e ɡ r u m , ˌe n̪ t̪ ˈɛ ɡ r o , ˌẽ n̪ t̪ ˈi e̯ r , ˌã n̪ t̪ j ˈe r , ˌãː t̪ j ˈe r , ɑ̃ t̪ j e ${1.fract}. 
-d̪ u ˈoː s , >* ,  d̪ ˈo w s , d̪ ˈø s , d̪ ˈø s , d̪ ø ${2.acc.card}. Popeset. From accusative plural form. z- liaison.
+
 d̪ u ˈo , d̪ ˈu i , d ˈy j , d̪ ɥ ˈi , ... , ... ${2.m.nom.card}. 
 ... , d̪ ˈu i , d ˈy j , d̪ ɥ ˈi , ... , ... ${2.m.nom.card}. Analogical formation in Gallo-Romance or Proto-Romance.
+d̪ u ˈoː s , >* ,  d̪ ˈo w s , d̪ ˈø s , d̪ ˈø s , d̪ ø ${2.m.acc.card}. Popeset. From accusative plural form. z- liaison
 d̪ ˈu a e̯ , >* , ... , ... , ... , ... ${2.f.nom.card}. 
 d̪ ˈu ɑː s , >* , ... , ... , ... , ... ${2.f.acc.card}.
 s ˌe k ˈu n̪ d̪ u m , s ˌɛ k ˈo n̪ d̪ o , s ˌə ˈu n̪ t̪ , s ˌə ˈũ n̪ , d̪ ˌø s j ˈẽː m ə , d̪ ø z j ɛ m ${2.ord}. Secundus learned loan into Old French -- or from Occitan?  Form son shifted to mean "bran" in this and other Gallo-Romance varieties {Catalan segó}. Deuxieme analogical
 ... , ... , s ə k ˈu n̪ t̪ , s ə ɡ ˈũ n̪ t̪ , s ə ɡ ˈũː t̪ , s ə ɡ ɔ̃ t̪ ${2.ord}. Secundus learned loan into Old French -- or from Occitan?  
 d̪ ˈu p l u m , d̪ ˈo p l o , d̪ ˈu b l ə , d̪ ˈu b l ə , d̪ ˈu b l ə , d̪ u b l ${2.instr}. Popeset.
-k ˈoː p u l ɑ , k ˈo p l ɑ , k ˈu p l ə , k ˈu p l ə , k ˈu p l ə , k u p l ${2.distr}  
-p ˈɑ r i ɑ , p ˈa r j a , p ˈa j r ə , p ˈɛ r ə , p ˈɛ r ə , p ˈɛ ʁ ${2.distr}  
+$k ˈoː p u l ɑ , k ˈo p l ɑ , k ˈu p l ə , k ˈu p l ə , k ˈu p l ə , k u p l ${2.distr}  
+$p ˈɑ r i ɑ , p ˈa r j a , p ˈa j r ə , p ˈɛ r ə , p ˈɛ r ə , p ˈɛ ʁ ${2.distr}  
 d̪ ˌi m ˈe d̪ i u m , d̪ ˌe m ˈɛ d̪ j o , d̪ ˌə m ˈi , d̪ ˌə m ˈi , d̪ ˌə m ˈi , d̪ ə m i ${2.fract}. Popeset.
 m ˌe d̪ i e t̪ ˈɑː t̪ e m , m ˌɛ d̪ j ɛ t ˈɑ t ɛ , m ˌe j t̪ ˈi e̯ θ , m w ˌɛ t̪ j ˈe , m w ˌɛ t̪ j ˈe , m w a t̪ j e ${2.fract.agent}. Popeset. "Réfection" as per Rey however (Rey 1427-1428).
+
 t̪ r ˈeː s , t̪ r ˈe s , t̪ r ˈe j s , t̪ r w ˈɛ s , t̪ r w ˈɛ s , t̪ ʁ w a ${3.acc.card}. Popeset. z- liaison.
 t̪ r ˈeː s , t̪ r ˈe i , t̪ r ˈe j , t̪ r w ˈɛ , ... , ... ${3.nom.card}. 
 ... , t̪ r ˈe i , t̪ r ˈe j , t̪ r w ˈɛ , ... , ... ${3.nom.card}. Analogical formation in Gallo-Romance or Proto-Romance.
 t̪ ˈe r t̪ i u m , t̪ ˈɛ r t̪ j o , t̪ ˈi e̯ r t͡s , t̪ r w ˌɛ s i ˈe z m ə , t̪ r w ˌɛ s j ẽː m ə , t̪ ʁ w a z j ɛ m ${3.ord}.
 t̪ r ˈi p l u m , t̪ r ˈe p l o , t̪ r ˈe b l ə , t̪ r ˈi p l ə , t̪ r ˈi p l ə , t̪ ʁ i p l ${3.instr}. Replaced with Latin loan into Late Old French. Perhaps remove. 
-t̪ r ˈiː n̪ u m , t̪ r ˈi n̪ o , t̪ r ˈi n̪ , t̪ r ˈĩ n , t̪ r ˈĩː , t̪ ʁ i p l ${3.distr}. 
-t̪ r ˌi ˈe n̪ t̪ e m , t̪ ˈɛ r t̪ j o , t̪ ˈi e̯ r t͡s , t̪ j ˈe r s , t̪ j ˈe r s , t̪ j ɛ ʁ ${3.fract}.Popeset. Tiers moved from ordinal to fractional. {Third in English is polysemous for both}. Seen also in Catalanm, Spanish, Italian. 
+$t̪ r ˈiː n̪ u m , t̪ r ˈi n̪ o , t̪ r ˈi n̪ , t̪ r ˈĩ n , t̪ r ˈĩː , t̪ ʁ i p l ${3.distr}. 
+t̪ r ˌi ˈe n̪ t̪ e m , t̪ ˈɛ r t̪ j o , t̪ ˈi e̯ r t͡s , t̪ j ˈe r s , t̪ j ˈe r s , t̪ j ɛ ʁ ${3.fract}.Popeset. Tiers moved from ordinal to fractional. {Third in English is polysemous for both}. Seen also in Catalan, Spanish, Italian. 
 t̪ ˌe r t̪ i ˈɑː r i u m ,  t̪ ˌɛ r t̪ j ˈɑ r j u , t̪ ˈi e̯ r t͡s , t̪ j ˈe r s , t̪ j ˈe r s , t̪ j ɛ ʁ ${3.fract.agent}.
+
 k w ˈɑ t̪ t̪ u o r , >* , k w ˈa t̪ r ə , k ˈa t̪ r ə , k ˈa t̪ r ə , k a t̪ ʁ ${4.card}. Popeset. 
 k w ˈɑː r t̪ u m , k w ˈɑ r t̪ o , k w ˈa r t̪ , k a t̪ r i ˈɛ z m ə , k ˌa t̪ ʁ j ˈɛ̃ː m ə , k a t̪ ʁ i j ɛ m ${4.ord} 
 k w ˌɑː d̪ r ˈu p l u m , k w ˌɑ d̪ r ˈo p l o , >* , k w ˌa d̪ r ˈy p l ə , k w ˌa d̪ r ˈy p l ə , k w a d̪ ʁ y p l ${4.instr}. Old French quadruple is actually a Latin loan. Perhaps remove. 
 k w ˌɑː t̪ ˈe r n̪ u m , k w ˌɑ t̪ ˈɛ r n̪ o , k w ˌa ˈi e̯ r , k w ˌa d̪ r ˈy p l ə , k w ˌa d̪ r ˈy p l ə , k w a d̪ ʁ y p l ${4.distr}. Meaning changed to quire, notebook, then replaced. This shift started, with polysemy, in Proto-Romance. Replaced by Latin loan into Late Old French quadruple. Perhaps remove. 
 k w ˌɑ d̪ r ˈɑ n̪ t̪ e m , k w ˈɑ r t̪ o , k w ˈa r t̪ , k ˈa r t̪ , k ˈa r t̪ , k ˈa ʁ ${4.fract}. Quārtum is the form actually inherited in most Romance. Perhaps because quadrantum is oo clase to quadraginta. 
 k w ˌɑː r t̪ ˈɑː r i u m , k w ˌɑ r t̪ ˈɑ r j o , k w ˌa r t̪ ˈi e̯ r , k ˌa r t̪ j ˈe r , k ˌa r t̪ j ˈe r , k a ʁ t̪ j e ${4.fract.agent}
+
 k w ˈiː n̪ k w e , >* , t͡s ˈi n̪ k , s ˈĩ n̪ k , s ˈẽː k , s ɛ̃ k ${5.card}. Popeset. Possibly effected by lexical pressures.
 k w ˈiː n̪ t̪ u m , k w ˈi n̪ t̪ o , k w ˈi n̪ t̪ , k ˈĩ n̪ t̪ , s ˌẽː k j ˈɛ̃ m ə , s ɛ̃ k j ɛ m ${5.ord}. Quint preserved in royal titles only as kɛ̃. 
 k w ˌiː n̪ ˈɑː r i u m , k w ˌi n̪ ˈɑ r j o , t͡s ˌi ŋ k i ˈe z m ə , s ˌĩ ŋ k i ˈɛ z m ə , s ˌẽː k j ˈɛ̃ m ə , s ɛ̃ k j ɛ m ${5.fract.agent}. Cinquieme attested in 12th c. 
+
 s ˈe k s , s ˈɛ x s , s ˈi s , s ˈi s , s ˈi s , s i s ${6.card}. Popeset.Likely affected by lexical pressure. 
 s ˈe k s t̪ ɑ , s ˈɛ x s t̪ ɑ , s ˈi s t̪ ə , s ˌi s i ˈɛ z m ə , s ˌi z j ˈɛ̃ m ə , s i z j ɛ m ${6.ord}. Replacement in Old French
-s ˌe k s t̪ ˈɑː r i u m , s ˌɛ x s t̪ ˈɑ r j o , s ə s t̪ ˈi e̯ r , s ˌi s i ˈɛ z m ə , s ˌi z j ˈɛ̃ m ə , s i z j ɛ m ${6.fract.agent} 
+s ˌe k s t̪ ˈɑː r i u m , s ˌɛ x s t̪ ˈɑ r j o , s ə s t̪ ˈi e̯ r , s ˌi s i ˈɛ z m ə , s ˌi z j ˈɛ̃ m ə , s i z j ɛ m ${6.fract.agent}
+
 s ˈe p t̪ e m , s ˈɛ p t̪ ɛ , s ˈɛ t̪ , s ˈɛ t̪ , s ˈɛ t̪ , s ɛ t̪ ${7.card}. 
 s ˈe p t̪ i m u m , s ˈɛ p t̪ e m o , s ˈɛ ð m ə , s ˈɛ z m ə , s ˌɛ t̪ j ˈɛ̃ m ə , s ɛ t̪ j ˈɛ m  ${7.ord}.
 s ˌe p t̪ ˈeː n̪ u m , s ˌɛ p t̪ ˈe n̪ o ,  s ˈɛ ð m ə , s ˈɛ z m ə , s ˌɛ t̪ j ˈɛ̃ m ə , s ɛ t̪ j ˈɛ m  ${7.fract}.
+
 ˈo k t̪ oː , ˈɔ x t̪ o , ˈy j t̪ , ɥ ˈi t̪ , ɥ ˈi t̪ , ɥ i t̪ ${8.card}. Popeset. Likely affected by lexical pressure. 
 ˌo k t ˈɑː w u m , ˌɔ x t̪ ˈɑ β o , ˈy j ð m ə , ɥ ˈi z m ə , ɥ ˌi t̪ j ˈɛ̃ m ə , ɥ i t̪ j ɛ m ${8.ord}. Old French uidme, likely analogized from septimum > sedme, is the only form with the meaning "eighth"; formes in huiteve, themselves likely analogical {regular outcome is huitou}, have more specialized meaning in "eighth day after a fest". Then replaced analogically again with huitieme. 
 ˌo k t̪ ˈɑ n̪ t̪ e m , ˌɔ x t̪ ˈɑ n̪ t̪ ɛ , ˈy j ð m ə , ɥ ˈi z m ə , ɥ ˌi t̪ j ˈɛ̃ m ə , ɥ i t̪ j ɛ m ${8.fract}. Old French uidme, likely analogized from septimum > sedme, is the only form with the meaning "eighth"; formes in huiteve, themselves likely analogical {regular outcome is huitou}, have more specialized meaning in "eighth day after a fest". Then replaced analogically again with huitieme. 
+
 n̪ ˈo w e m , n̪ ˈɔ β ɛ , n̪ ˈy e̯ f , n̪ ˈø f , n̪ ˈø f , n̪ œ f ${9.card}. Popeset. Likely regular -- cf. boeuf. v- liaison.
 n̪ ˈoː n̪ u m , n̪ ˈo n̪ o , n̪ ˈu n̪ ə , n̪ ˈø z n̪ ə , n̪ ˌœ f j ˈɛ̃ m ə , n̪ œ v j ˈɛ m ${9.ord}. Analogized twice. 
 n̪ ˌo w ˈeː n̪ u m , n̪ ˌɔ β ˈe n̪ o , , n̪ ˈu n̪ ə , n̪ ˈø z n̪ ə , n̪ ˌœ f j ˈɛ̃ m ə , n̪ œ v j ˈɛ m ${9.ord}. Analogized thrice. 
+
 d̪ ˈe k e m , >* , d̪ ˈi t͡s , d̪ ˈi s , d̪ ˈi s , d̪ ˈi s ${10.card}. -s lost except utterance final, z- liaison
 d̪ ˈe k i m u m , >* , d̪ ˈi s m ə , d̪ ˈi z m ə , d̪ ˌi s j ˈɛ̃ː m ə , d̪ i z j ɛ m ${10.ord}. Popeset. dîme passed to "tithe" ultimately. 
 d̪ ˌe k ˈeː n̪ u m , d̪ ɛ c ˈe n̪ o , d̪ ˈi s m ə , d̪ ˈi z m ə , d̪ ˌi s j ˈɛ̃ː m ə , d̪ i z j ɛ m ${10.fract}. Popeset. dîme passed to "tithe" ultimately. 
 d̪ ˌeː n̪ ˈɑː r i u m , d̪ ˌe n̪ ˈɑ r j o , d̪ ə n̪ ˈi e̯ r , d̪ ˌi s ˈa j n̪ ə , d̪ ˌi s ˈɛ̃ː n̪ ə , d̪ i z ˈɛ n ${10.fract.agent}. Meaning passed to "money", replaced with dix + aine.
+
 u n̪ d̪ e k i m , >* , ˈu n̪ d͡z ə , ˈũ n̪ z ə , ˈũː z ə , ɔ̃ z ${11.card}. Popeset. 
+
 d̪ u ˈo d̪ e k i m , >* , d̪ ˈo d͡z ə , d̪ ˈu z ə , d̪ ˈu z ə , d̪ ˈu z ${12.card}.  
+
 t̪ r ˈeː d̪ e k i m , >* , t̪ r ˈe j d͡z ə , >* , t̪ r ˈɛː z ə , t̪ ʁ ɛ z ${13.card}.
+
 k w ˌɑ t̪ t̪ u ˈo r d̪ e k i m , >* , >* , k ˌa t̪ ˈɔ r z ə , k ˌa t̪ ˈɔ r z ə , k a t̪ ɔ ʁ z ${14.card}. 
+
 k w ˈiː n̪ d̪ e k i m , >* , >* , k ˈĩ n̪ z ə , k ˈẽː z ə , k ɛ̃ z ${15.card}. 
+
 s ˈeː d̪ e k i m , >* , s ˈe j d͡z ə , >* , s ˈɛː z ə , s ɛ z ${16.card}.
+
 d̪ ˌeː k i e t̪ s ˈe p t̪ e m , >* , >* , >* , d̪ ˌi s s ˈɛ t̪ , d̪ i s s ɛ t̪ ${17.card}. Septendecim does not seem to be inherited in Romance. 
+
 d̪ ˌeː k i e t ˈo k t̪ oː , >* , >* , >* , d̪ ˌi z ɥ ˈi t̪ , d̪ i z ɥ i t̪ ${18.card}.
+
 ˌuː n̪ d̪ eː w ˌiː ɡ ˈi n̪ t̪ i , >* , >* , >* , >* , d̪ i z n̪ œ f ${19.card}.
 ... , d̪ ˌe c j ɛ n̪ ˈɔ β ɛ ,>* , >* , >* , d̪ i z n̪ œ f ${19.card}. Analogical form in Gallo-Romance. 
+
 w ˌiː ɡ ˈi n̪ t̪ i , >* , >* , >* , v ˈẽː t̪ , v ɛ̃ t̪ ${20.card}. Popeset. vɛ̃ is regular: Pope s823, refer also to s297, s419. t̪ form used in liaison and 21 to 29, but not  in quatre-vingt, which may be seen as a separate lexeme. 
 w ˌiː k ˈeː n s i m u m , >* , >* , v ˌĩ n̪ t̪ j ˈɛ z m ə , v ˌẽː t̪ j ˈɛ̃ː m ə , v ɛ̃ t̪ j ɛ m ${20.ord}.
+
 t̪ r ˌiː ɡ ˈi n̪ t̪ ɑ , >* , >* , >* , t r ˈãː t ə , t̪ ʁ ɑ̃ t̪ ${30.card}.
 ... , t̪ r ˈe n̪ t̪ ɑ , >* , >* , t r ˈãː t ə , t̪ ʁ ɑ̃ t̪ ${30.card}. Analogical form in Gallo-Romance. 
 t̪ r ˌiː k ˈeː s i m u m , >* , >* , >* , t̪ r ˌãː t̪ j ˈɛ̃ː m ə , t̪ ʁ ɑ̃ t̪ j ˈɛ m ${30.ord}
+
 k w ˌɑ d̪ r ɑː ɡ ˈi n̪ t̪ ɑ m , >* , >* , >* , k ˌa r ˈãː t̪ ə , k a ʁ ɑ̃ t̪ ${40.card}. Popeset. $KS: -gintam changed to shortened form in all but w. ibero-rom
 ... , k w ˌɑ d̪ r ˈɑ n̪ t̪ ɑ , >* , >* , k ˌa r ˈãː t̪ ə , k a ʁ ɑ̃ t̪ ${40.card}. Analogical form in Gallo-Romance. 
 k w ˌɑ d̪ r ɑː ɡ ˈeː s i m ɑ , k w ˌɑ d̪ r ɑ ɡ ˈe s e m ɑ , k w ˌa r ˈe z m ə , k ˌa r ã n̪ t̪ j ˈɛ z m ə , k ˌa r ãː t̪ j ˈɛ̃ː m ə , k a ʁ ɑ̃ t̪ j ɛ m ${40.ord}. Surviving in -a as word for Lent, but related to "forty" concept still. Passes to such in French with replacement by -ieme form. 
+
 k w ˌiː n̪ k w ɑː ɡ ˈi n̪ t̪ ɑ m , c ˌi ŋ k w ˈɑ n̪ t̪ ɑ , t͡s ˌi ŋ k w ˈã n̪ t̪ ə , s ˌĩ ŋ k ˈã n̪ t̪ ə , s ˌẽː k ˈãː t̪ ə , s ɛ̃ k ɑ̃ t̪ ${50.card}. Pope is apparently unsure of the forms regarding cinquanta vs. cinquaginta for the origin.
 ... , c ˌi ŋ k w ˈɑ n̪ t̪ ɑ , t͡s ˌi ŋ k w ˈã n̪ t̪ ə , s ˌĩ ŋ k ˈã n̪ t̪ ə , s ˌẽː k ˈãː t̪ ə , s ɛ̃ k ɑ̃ t̪ ${50.card}. Analogical form in Gallo-Romance
 k w ˌiː n̪ k w ɑː ɡ ˈeː s i m ɑ , c ˌi ŋ k w ɑ ɡ ˈe s e m ɑ , >* , s ˌĩ ŋ k ˈɛ z m ə , s ˌẽː k ˌãː t̪ j ˈɛ̃ː m ə , s ɛ̃ k ɑ̃ t̪ j ɛ m ${50.ord}
+
 s ˌe k s ɑː ɡ ˈi n̪ t̪ ɑ m , >* , >* , >* , s w ˌɛ s ˈãː t̪ ə , s w a s ɑ̃ t̪ ${60.card}. Popeset.
 ... , s ˌɛ x s ˈɑ n̪ t̪ ɑ , >* , >* , s w ˌɛ s ˈãː t̪ ə , s w a s ɑ̃ t̪ ${60.card}. Analogical form in Gallo-Romance.
+
 s ˌe p t̪ ɑː ɡ ˈi n̪ t̪ ɑ m , >* , >* , >* , s w ˌɛ s ˌãː t̪ ə d̪ ˈi s , s w a s ɑ̃ d ˈi s ${70.card}. 
 ... , s ˌɛ t̪ t̪ ˈɑ n̪ t̪ ɑ , >* , >* , s w ˌɛ s ˌãː t̪ ə d̪ ˈi s , s w a s ɑ̃ d ˈi s ${70.card}. Analogical form in Gallo-Romance. Itself usurped by analogy. 
+
 ˌo k t̪ ɑː ɡ ˈi n̪ t̪ ɑ m , >* , ˌy j t̪ ˈa n̪ t̪ ə , k ˌa t̪ r ə v ˈĩ n̪ t̪ , k ˌa t̪ r ə v ˈẽː , k a t̪ ʁ ə v ˈɛ̃ ${80.card}.
 ... , ... , k w ˌa t̪ r ə v ˈi n̪ t̪  , k ˌa t̪ r ə v ˈĩ n̪ t̪ , k ˌa t̪ r ə v ˈẽː , k a t̪ ʁ ə v ˈɛ̃ ${80.card}. Reformulation likely occuring earlier, but clearly present by late Old French. TODO have insertion into Gallo-Romance if possible. 
+
 n̪ ˌoː n̪ ɑː ɡ ˈi n̪ t̪ ɑ m , >* , n ˌu n̪ ˈa n̪ t̪ ə , k ˌa t̪ r ə v ˌĩ n̪ d̪ ˈi s , k ˌa t̪ r ə v ˌẽː d̪ ˈi s , k a t̪ ʁ ə v ɛ̃ d̪ i s ${90.card}.
 ... , ... , k w ˌa t r ə v ˌi n̪ t̪ d̪ ˈi s , k ˌa t̪ r ə v ˌĩ n̪ d̪ ˈi s , k ˌa t̪ r ə v ˌẽː d̪ ˈi s , k a t̪ ʁ ə v ɛ̃ d̪ i s ${90.card}. Reformulation likely occurring earlier, but clearly present by late Old French. TODO insert into Gallo-Romance
+
 k ˈe n̪ t̪ u m , c ˈɛ n̪ t̪ o , t͡s ˈɛ̃ n̪ t̪ , s ˈã n̪ t̪ , s ˈãː t̪ , s ɑ̃ ${100.card}. 
 k ˌe n̪ t̪ ˈeː s i m u m , c ˌɛ n̪ t̪ ˈe s e m o , t͡s ˌɛ̃ n̪ t̪ ˈe z m ə , s ˌã n̪ t̪ j ˈɛ z m ə , s ãː t̪ j ˈɛ̃ː m ə , s ɑ̃ t̪ j ɛ m ${100.ord}. Analogized in later Old French. 
 k ˌe n̪ t̪ eː n̪ ˈɑː r i u m , c ˌɛ n̪ t̪ e n̪ ˈɑ r j o , t͡s ˌɛ̃ n̪ t̪ ə n̪ ˈi e̯ r , s ˌã n̪ t̪ j ˈɛ z m ə , s ãː t̪ j ˈɛ̃ː m ə , s ɑ̃ t̪ j ɛ m ${100.fract.agent}. Centenier became restricted in meaning. 
+
 m ˈiː l l e m , m ˈi l l ɛ , m ˈi l , m ˈi l , m ˈi l , m i l ${1000.card}.
 m ˌiː l l ˈeː s i m u m , m ˌi l l ˈe s e m o , m ˌi l ˈe z m ə , m ˌi l j ˈɛ z m ə , m ˌi l j ˈɛ̃ː m ə , m i l j ɛ m ${1000.ord}.

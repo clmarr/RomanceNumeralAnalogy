@@ -1,69 +1,96 @@
 =Classical Latin,Proto-Romanian,Modern Romanian
-n ˈuː l l u m , n e m ˈi k , n i m ˈi k ${0}.
+$n ˈuː l l u m , n e m ˈi k , n i m ˈi k ${0}.
 $r ˈe m , >* , ${nothing}.
+
 ˈuː n u m , ˈu n u , ˈu n u ${1.m.numeral.card}.
 ˈuː n ɑ m , ˈu n a , ˈu n a ${1.f.numeral.card}. Likely analogized
 ˌuː n u m , ˌu n , u n ${1.masc.article.card}. 
 ˌuː n ɑ m , ˌu n ə , o ${1.fem.article.card}. 
 p r ˈiː m u m , p r ˈi m , p r ˈi m ${1.ord}.
 p r ˌiː m ˈɑː r i u m , p r ˌi m ˈa r , p r i m ˈa r ${1.ord.agent}.
-ˌi n p ˌe r ˈu n ɑ , >* , ɨ m p r e ˈu n ə ${1.adv}.
+$ˌi n p ˌe r ˈu n ɑ , >* , ɨ m p r e ˈu n ə ${1.adv}.
 s ˈi n ɡ u l u m , s ˈi n ɡ u r u , s ˈi n ɡ u r ${1.distr}.
 s ˈi m p l u m , >* , s ˈi m p l u ${1.instr}. Likely loaned
 ˈi n̪ t̪ e ɡ r u m , ɨ n t r ˈe ɡ , ɨ n t r ˈe ɡ ${1.fract}.
+
 d u ˈoː s , d ˈo j , d ˈo j ${2.m.card}.
 d ˈu ɑː s , d ˈo w ə , d ˈo w ə ${2.f.card}.
 s ˌe k ˈu n d u m , > , d ˈo j l e a̯ ${2.ord}
 d ˈu p l u m , ˌɨ n d ˈo j , ˌɨ n d ˈo j t ${2.instr}. Dublu is a loan. 
-d ˌi m ˈe d i u m ,  d͡ʒ ˌu m ˈa t e , d o ˈi m e ${2.fract}. 
-m ˌe d i e t ˈɑː t e m , d͡ʒ j ˌu m i t ˈa t e , ʒ u m ə t ˈa t e ${2.loc}. 
+d ˌi m ˈe d i u m ,  d͡ʒ ˌu m ˈa t e , d o ˈi m e ${2.fract}.  Blend with loan from substrate akin to Proto-Albanian.
+m ˌe d i e t ˈɑː t e m , d͡ʒ j ˌu m i t ˈa t e , ʒ u m ə t ˈa t e ${2.loc}. Blend with loan from substrate akin to Proto-Albanian.
+
 t r ˈeː s , >* , t r ˈe j ${3.card}.
 t ˈe r t i u m , t ˈə r t͡s j , t r ˈe j l e̯ a ${3.ord}. Terțiu "ram in its third year" from the inherited form. 
 t r ˈi p l u m , >* , ɨ n t r ˈe j t ${3.instr}.
 t r ˌi ˈe n t e m , >* , t r e ˈi m e ${3.fract}.
 t r ˌi e n t ˈɑː r i u m , >* , t r e ˈi m e ${3.fract.agent}
+
 k w ˈɑ t t u o r , p ˈa t r u , p ˈa t r u ${4.card}.
 k w ˈɑː r t u m , >* , p ˈa t r u l e a̯ ${4.ord}.
 k w ˌɑ d r ˈɑ n t e m , >* , p ə t r ˈi m e${4.fract}. Quārtum is the form actually inherited in most Romance. Perhaps because quadrantum is oo clase to quadraginta. Italian has both quadrante and quarto though. 
 k w ˌɑː r t ˈɑː r i u m , >* , p ə t r ˈa r ${4.fract.agent}
+
 k w ˈiː n k w e , >* , t͡ʃ ˈi n t͡ʃ j ${5.card}.
 k w ˈiː n t u m , >* , t͡ʃ ˈi n t͡ʃ i l e a̯ ${5.ord}.
 k w ˌiː n ˈɑː r i u m , >* , t͡ʃ i n t͡ʃ ˈi m e ${5.fract.agent}
+
 s ˈe k s , ʃ ˈa s e , ʃ ˈa s e ${6.card}.
 s ˈe k s t u m , >* , ʃ ˈa s e l e a̯ ${6.ord}.
 s ˌe k s t ˈɑː r i u m , >* , ʃ e s ˈi m e ${6.fract.agent}
+
 s ˈe p t e m , ʃ ˈa p t e , ʃ ˈa p t e ${7.card}.
 s ˈe p t i m u m , >* , ʃ ˈa p t e l e a̯ ${7.ord}.
+
 ˈo k t oː , >* , ˈo p t ${8.card}.
 ˌo k t ˈɑː w u m , >* , ˈo p t u l e a̯ ${8.ord}.
+
 n ˈo w e m , >* , n ˈo w ə ${9.card}.
 n ˈoː n u m , >* , n ˈo w ə l e a̯ ${9.ord}.
+
 d ˈe k e m , >* , z ˈe t͡ʃ e ${10.card}.
 d ˈe k i m u m , >* , z ˈe t͡ʃ e l e a̯ ${10.ord}.
 d ˌeː n ˈɑː r i u m , >* , z e t͡ʃ ˈi m e ${10.distr}.
+
 ˈu n d e k i m , >* , ˈu n s p r e z e t͡ʃ e ${11.card}.
+
 d u ˈo d e k i m , >* , d ˈo j s p r e z e t͡ʃ e ${12.card}.
+
 t r ˈeː d e k i m , >* , t r ˈe j s p r e z e t͡ʃ e ${13.card}.
+
 k w ˌɑ t t u ˈo r d e k i m , >* , p ˈa j  s p r e z e t͡ʃ e ${14.card}.
+
 k w ˈiː n d e k i m , >* , t͡ʃ ˈi n t͡ʃ s p r e z e t͡ʃ e ${15.card}.
+
 s ˈeː d e k i m , >* , ʃ ˈa j s p r e z e t͡ʃ e ${16.card}.
+
 d ˌeː k i e t s ˈe p t e m , >* , ʃ ˈa p t e s p r e z e t͡ʃ e ${17.card}.
+
 d ˌeː k i e t ˈo k t oː , >* , ˈo p t s p r e z e t͡ʃ e ${18.card}.
+
 ˌuː n d eː w ˌiː ɡ ˈi n t i , >* , n ˈo w ə s p r e z e t͡ʃ e ${19.card}.
+
 w ˌiː ɡ ˈi n t i , >* , d o w ə z ˈe t͡ʃ j ${20.card}.
 w ˌiː k ˈeː n s i m u m , >* , ${20.ord}.
+
 t r ˌiː ɡ ˈi n t ɑ , >* , t r e j z ˈe t͡ʃ j ${30.card}.
 t̪ r ˌiː k ˈeː s i m u m , >* , t r e j z ˈe t͡ʃ i l e̯ a ${30.ord}.
+
 k w ˌɑ d r ɑː ɡ ˈi n t ɑ m , >* , p ˈa t r u z ˈe t͡ʃ j ${40.card}.
 k w ˌɑ d r ɑː ɡ ˈeː s i m ɑ , >* , p a t r u z ˈe t͡ʃ i l e a̯ ${40.ord}. Actually a Christian term {Lent} but related to the number.
+
 k w ˌiː n k w ɑː ɡ ˈi n t ɑ m , >* ,  t͡ʃ i n t͡ʃ z ˈe t͡ʃ j ${50.card}.
 k w ˌiː n k w ɑː ɡ ˈeː s i m ɑ  , >* , t͡ʃ i n t͡ʃ z ˈe t͡ʃ i l e a̯ ${50.ord}. Actually a Christian term but related to the number.
+
 s ˌe k s ɑː ɡ ˈi n t ɑ m , >* , ʃ a j z ˈe t͡ʃ j ${60.card}.
 s ˌe p t ɑː ɡ ˈi n t ɑ m , >* , ʃ a p t e z ˈe t͡ʃ j ${70.card}.
+
 ˌo k t ɑː ɡ ˈi n t ɑ m , >* , o p t z ˈe t͡ʃ j ${80.card}.
+
 n ˌoː n ɑː ɡ ˈi n t ɑ m , >* , n o w ə z ˈe t͡ʃ j ${90.card}.
+
 k ˈe n t u m , s ˈu t ə , s ˈu t ə ${100.card}.
 k ˌe n t ˈeː s i m u m , >* , s ˈu t ə l e a̯ ${100.ord}.
-m ˈiː l l e m , >* , m ˈi e ${1000.card}.
-m ˌiː l l ˈeː s i m u m , >* , m ˈi j l e a̯ ${1000.ord}.
 
+m ˈiː l l e m , >* , m ˈi e ${1000.card}.
+m ˌiː l l ˈeː s i m u m , >* , m ˈi j l e a̯ ${1000.ord}
