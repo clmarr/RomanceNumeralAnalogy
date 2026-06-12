@@ -1,12 +1,9 @@
-n ˈuː l l u m , ${0}.
-$r ˈe m , ${nothing}.
-ˌuː n u m , ${1.m.numeral.card}.
-ˌuː n ɑ m , ${1.f.numeral.card}.
+ˈuː n u m , ${1.m.numeral.card}.
+ˈuː n ɑ m , ${1.f.numeral.card}.
 ˌuː n u m , ${1.masc.article.card}. 
 ˌuː n ɑ m , ${1.fem.article.card}. 
 p r ˈiː m u m , ${1.ord}.
 p r ˌiː m ˈɑː r i u m , ${1.ord.agent}.
-ˌi n s ˈi m u l , ${1.adv}.
 s ˈi n ɡ u l u m , ${1.distr}.
 s ˈi m p l u m , ${1.instr}.
 ˈi n̪ t̪ e ɡ r u m , ${1.fract}.
@@ -19,14 +16,14 @@ d ˈu p l u m , ${2.instr}.
 k ˈoː p u l ɑ , ${2.distr}
 p ˈɑ r i ɑ , ${2.distr}
 d ˌi m ˈe d i u m , ${2.fract}. 
-m ˌe d i e t ˈɑː t e m , ${2.loc}. 
+m ˌe d i e t ˈɑː t e m , ${2.fract.agent}. 
 t r ˈeː s , ${3.acc.card}.
 t r ˈeː s , ${3.nom.card}.
 t ˈe r t i u m , ${3.ord}.
 t r ˈi p l u m , ${3.instr}.
 t r ˈiː n u m , ${3.distr}. 
 t r ˌi ˈe n t e m , ${3.fract}.
-t r ˌi e n t ˈɑː r i u m , ${3.fract.agent}
+t ˌe r t i ˈɑː r i u m , ${3.fract.agent}
 k w ˈɑ t t u o r , ${4.card}.
 k w ˈɑː r t u m , ${4.ord}.
 k w ˌɑː t ˈe r n u m , ${4.distr} 
@@ -40,13 +37,17 @@ s ˈe k s t u m , ${6.ord}.
 s ˌe k s t ˈɑː r i u m , ${6.fract.agent}
 s ˈe p t e m , ${7.card}.
 s ˈe p t i m u m , ${7.ord}.
+s ˌe p t ˈeː n u m , ${7.fract}.
 ˈo k t oː , ${8.card}.
 ˌo k t ˈɑː w u m , ${8.ord}.
+ˌo k t ˈɑ n t e m , ${8.fract}.
 n ˈo w e m , ${9.card}.
 n ˈoː n u m , ${9.ord}.
+n ˌo w ˈeː n u m , ${9.fract}.
 d ˈe k e m , ${10.card}.
-d ˈe k i m u m , ${10.ord}. Popeset. 
-d ˌeː n ˈɑː r i u m , ${10.distr}.
+d ˈe k i m u m , ${10.ord}. 
+d ˌe k ˈeː n u m , ${10.fract}. Inherited in Catalan, and Ibero-Romance
+d ˌeː n ˈɑː r i u m , ${10.fract.agent}. Largely restricted to pecuniary meaning though. 
 ˈu n d e k i m , ${11.card}.
 d u ˈo d e k i m , ${12.card}.
 t r ˈeː d e k i m , ${13.card}.

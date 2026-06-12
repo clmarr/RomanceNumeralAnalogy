@@ -1,12 +1,12 @@
-n̪ ˈuː l l u m , n̪ ˈu l l o , n̪ ˈy l , n̪ ˈy l , n̪ ˈy l , n̪ y l ${0.card}. 
+$n̪ ˈuː l l u m , n̪ ˈu l l o , n̪ ˈy l , n̪ ˈy l , n̪ ˈy l , n̪ y l ${0.card}. Excluded as not really part of inherited paradigm here or elsewhere
 $r ˈe m , r ˈɛ m , r ˈi e̯ n̪ , r j ˈẽ n̪ , r j ˈẽː , ʁ j ɛ̃ ${nothing.card}. Popeset. n-liaison
-ˌuː n̪ u m , ˌu n̪ o , ˌy n̪ , ˌỹ n̪ , ˌỹː , œ̃ ${1.m.numeral.card}. Popeset. n-liaison
-ˌuː n̪ ɑ m , ˌu n̪ ɑ , ˌy n̪ ə , ˌỹ n̪ ə, ˌy n̪ ə , y n̪ ${1.f.numeral.card}. Popeset
+ˈuː n̪ u m , ˌu n̪ o , ˌy n̪ , ˌỹ n̪ , ˌỹː , œ̃ ${1.m.numeral.card}. Popeset. n-liaison
+ˈuː n̪ ɑ m , ˌu n̪ ɑ , ˌy n̪ ə , ˌỹ n̪ ə, ˌy n̪ ə , y n̪ ${1.f.numeral.card}. Popeset
 ˌuː n̪ u m , ˌu n̪ o , ˌy n̪ , ˌỹ n̪ , ˌỹː , œ̃ ${1.m.article.card}. 
 ˌuː n̪ ɑ m , ˌu n̪ ɑ , ˌy n̪ ə , ˌỹ n̪ ə, ˌy n̪ ə , y n̪ ${1.f.article.card}.
 p r ˈiː m u m , p r ˈi m o , p r ə m ˈi e̯ r , p r ə m j ˈe r , p r ə m j ˈe r , p ʁ ə m j e  ${1.ord}
 p r ˌiː m ˈɑː r i u m , p r ˌi m ˈɑ r j o , p r ə m ˈi e̯ r , p r ə m j ˈe r , p r ə m j ˈe r , p ʁ ə m j e${1.ord.agent}
-ˌi n̪ s ˈi m u l , ˌe n̪ s ˈe m l o , ˌe n̪ s ˈe m b l ə , >* , ˌãː s ˈãː b l ə , ɑ̃ s ɑ̃ b l ${1.adv}. Popeset. ensemble. 
+$ˌi n̪ s ˈi m u l , ˌe n̪ s ˈe m l o , ˌe n̪ s ˈe m b l ə , >* , ˌãː s ˈãː b l ə , ɑ̃ s ɑ̃ b l ${1.adv}. Popeset. ensemble. -- Removed, not really part of inherited paradigm.
 s ˈi m p l u m , s ˈe m p l o , >* , s ˈĩ m p l ə , s ˈẽː p l ə , s ˈɛ̃ p l ${1.instr}. Replaced by Latin borrowing into Old French. 
 s ˈi n̪ ɡ u l u m , s ˈe n̪ ɡ o l o , s ˈẽ ŋ ɡ l ə , s ˈã ŋ ɡ l ə , s ˈœ l , s œ l ${1.distr}. Replaced with SOLVM
 ˈi n̪ t̪ e ɡ r u m , ˌe n̪ t̪ ˈɛ ɡ r o , ˌẽ n̪ t̪ ˈi e̯ r , ˌã n̪ t̪ j ˈe r , ˌãː t̪ j ˈe r , ɑ̃ t̪ j e ${1.fract}. 
@@ -29,7 +29,7 @@ t̪ ˈe r t̪ i u m , t̪ ˈɛ r t̪ j o , t̪ ˈi e̯ r t͡s , t̪ r w ˌɛ s i
 t̪ r ˈi p l u m , t̪ r ˈe p l o , t̪ r ˈe b l ə , t̪ r ˈi p l ə , t̪ r ˈi p l ə , t̪ ʁ i p l ${3.instr}. Replaced with Latin loan into Late Old French. Perhaps remove. 
 t̪ r ˈiː n̪ u m , t̪ r ˈi n̪ o , t̪ r ˈi n̪ , t̪ r ˈĩ n , t̪ r ˈĩː , t̪ ʁ i p l ${3.distr}. 
 t̪ r ˌi ˈe n̪ t̪ e m , t̪ ˈɛ r t̪ j o , t̪ ˈi e̯ r t͡s , t̪ j ˈe r s , t̪ j ˈe r s , t̪ j ɛ ʁ ${3.fract}.Popeset. Tiers moved from ordinal to fractional. {Third in English is polysemous for both}. Seen also in Catalanm, Spanish, Italian. 
-t̪ r ˌi e n̪ t̪ ˈɑː r i u m ,  t̪ ˈɛ r t̪ j o , t̪ ˈi e̯ r t͡s , t̪ j ˈe r s , t̪ j ˈe r s , t̪ j ɛ ʁ ${3.fract.agent}.
+t̪ ˌe r t̪ i ˈɑː r i u m ,  t̪ ˌɛ r t̪ j ˈɑ r j u , t̪ ˈi e̯ r t͡s , t̪ j ˈe r s , t̪ j ˈe r s , t̪ j ɛ ʁ ${3.fract.agent}.
 k w ˈɑ t̪ t̪ u o r , >* , k w ˈa t̪ r ə , k ˈa t̪ r ə , k ˈa t̪ r ə , k a t̪ ʁ ${4.card}. Popeset. 
 k w ˈɑː r t̪ u m , k w ˈɑ r t̪ o , k w ˈa r t̪ , k a t̪ r i ˈɛ z m ə , k ˌa t̪ ʁ j ˈɛ̃ː m ə , k a t̪ ʁ i j ɛ m ${4.ord} 
 k w ˌɑː d̪ r ˈu p l u m , k w ˌɑ d̪ r ˈo p l o , >* , k w ˌa d̪ r ˈy p l ə , k w ˌa d̪ r ˈy p l ə , k w a d̪ ʁ y p l ${4.instr}. Old French quadruple is actually a Latin loan. Perhaps remove. 
@@ -44,14 +44,18 @@ s ˈe k s t̪ ɑ , s ˈɛ x s t̪ ɑ , s ˈi s t̪ ə , s ˌi s i ˈɛ z m ə , 
 s ˌe k s t̪ ˈɑː r i u m , s ˌɛ x s t̪ ˈɑ r j o , s ə s t̪ ˈi e̯ r , s ˌi s i ˈɛ z m ə , s ˌi z j ˈɛ̃ m ə , s i z j ɛ m ${6.fract.agent} 
 s ˈe p t̪ e m , s ˈɛ p t̪ ɛ , s ˈɛ t̪ , s ˈɛ t̪ , s ˈɛ t̪ , s ɛ t̪ ${7.card}. 
 s ˈe p t̪ i m u m , s ˈɛ p t̪ e m o , s ˈɛ ð m ə , s ˈɛ z m ə , s ˌɛ t̪ j ˈɛ̃ m ə , s ɛ t̪ j ˈɛ m  ${7.ord}.
+s ˌe p t̪ ˈeː n̪ u m , s ˌɛ p t̪ ˈe n̪ o ,  s ˈɛ ð m ə , s ˈɛ z m ə , s ˌɛ t̪ j ˈɛ̃ m ə , s ɛ t̪ j ˈɛ m  ${7.fract}.
 ˈo k t̪ oː , ˈɔ x t̪ o , ˈy j t̪ , ɥ ˈi t̪ , ɥ ˈi t̪ , ɥ i t̪ ${8.card}. Popeset. Likely affected by lexical pressure. 
 ˌo k t ˈɑː w u m , ˌɔ x t̪ ˈɑ β o , ˈy j ð m ə , ɥ ˈi z m ə , ɥ ˌi t̪ j ˈɛ̃ m ə , ɥ i t̪ j ɛ m ${8.ord}. Old French uidme, likely analogized from septimum > sedme, is the only form with the meaning "eighth"; formes in huiteve, themselves likely analogical {regular outcome is huitou}, have more specialized meaning in "eighth day after a fest". Then replaced analogically again with huitieme. 
+ˌo k t̪ ˈɑ n̪ t̪ e m , ˌɔ x t̪ ˈɑ n̪ t̪ ɛ , ˈy j ð m ə , ɥ ˈi z m ə , ɥ ˌi t̪ j ˈɛ̃ m ə , ɥ i t̪ j ɛ m ${8.fract}. Old French uidme, likely analogized from septimum > sedme, is the only form with the meaning "eighth"; formes in huiteve, themselves likely analogical {regular outcome is huitou}, have more specialized meaning in "eighth day after a fest". Then replaced analogically again with huitieme. 
 n̪ ˈo w e m , n̪ ˈɔ β ɛ , n̪ ˈy e̯ f , n̪ ˈø f , n̪ ˈø f , n̪ œ f ${9.card}. Popeset. Likely regular -- cf. boeuf. v- liaison.
-n̪ ˈoː n̪ u m , n̪ ˈo n̪ o , n̪ ˈu n̪ ə , n̪ ˈø z n̪ ə , n̪ ˌœ f j ˈɛ̃ m ə , n̪ œ v j ˈɛ m ${9.ord}
+n̪ ˈoː n̪ u m , n̪ ˈo n̪ o , n̪ ˈu n̪ ə , n̪ ˈø z n̪ ə , n̪ ˌœ f j ˈɛ̃ m ə , n̪ œ v j ˈɛ m ${9.ord}. Analogized twice. 
+n̪ ˌo w ˈeː n̪ u m , n̪ ˌɔ β ˈe n̪ o , , n̪ ˈu n̪ ə , n̪ ˈø z n̪ ə , n̪ ˌœ f j ˈɛ̃ m ə , n̪ œ v j ˈɛ m ${9.ord}. Analogized thrice. 
 d̪ ˈe k e m , >* , d̪ ˈi t͡s , d̪ ˈi s , d̪ ˈi s , d̪ ˈi s ${10.card}. -s lost except utterance final, z- liaison
 d̪ ˈe k i m u m , >* , d̪ ˈi s m ə , d̪ ˈi z m ə , d̪ ˌi s j ˈɛ̃ː m ə , d̪ i z j ɛ m ${10.ord}. Popeset. dîme passed to "tithe" ultimately. 
-d̪ ˌeː n̪ ˈɑː r i u m , d̪ ˌe n̪ ˈɑ r j o , d̪ ə n̪ ˈi e̯ r , d̪ ˈi z m ə , d̪ ˌi s j ˈɛ̃ː m ə , d̪ i z j ɛ m ${10.fract.agent}. Analogized twice. 
-ˈu n̪ d̪ e k i m , >* , ˈu n̪ d͡z ə , ˈũ n̪ z ə , ˈũː z ə , ɔ̃ z ${11.card}. Popeset. 
+d̪ ˌe k ˈeː n̪ u m , d̪ ɛ c ˈe n̪ o , d̪ ˈi s m ə , d̪ ˈi z m ə , d̪ ˌi s j ˈɛ̃ː m ə , d̪ i z j ɛ m ${10.fract}. Popeset. dîme passed to "tithe" ultimately. 
+d̪ ˌeː n̪ ˈɑː r i u m , d̪ ˌe n̪ ˈɑ r j o , d̪ ə n̪ ˈi e̯ r , d̪ ˌi s ˈa j n̪ ə , d̪ ˌi s ˈɛ̃ː n̪ ə , d̪ i z ˈɛ n ${10.fract.agent}. Meaning passed to "money", replaced with dix + aine.
+u n̪ d̪ e k i m , >* , ˈu n̪ d͡z ə , ˈũ n̪ z ə , ˈũː z ə , ɔ̃ z ${11.card}. Popeset. 
 d̪ u ˈo d̪ e k i m , >* , d̪ ˈo d͡z ə , d̪ ˈu z ə , d̪ ˈu z ə , d̪ ˈu z ${12.card}.  
 t̪ r ˈeː d̪ e k i m , >* , t̪ r ˈe j d͡z ə , >* , t̪ r ˈɛː z ə , t̪ ʁ ɛ z ${13.card}.
 k w ˌɑ t̪ t̪ u ˈo r d̪ e k i m , >* , >* , k ˌa t̪ ˈɔ r z ə , k ˌa t̪ ˈɔ r z ə , k a t̪ ɔ ʁ z ${14.card}. 

@@ -1,0 +1,50 @@
+=Classical Latin,Late Latin,Old Italian,Modern Italian
+ˈuː n u s , ˈu n o , ˈu n o , ˈu n o ${1.m.numeral}
+ˈuː n ɑ , ˈu n a , ˈu n a , ˈu n a ${1.f.numeral}
+ˌuː n u m , >* , u n , u n ${1.m.article}
+ˌuː n ɑ , >* , >* , u n a ${1.f.article}
+p r ˈiː m u m , p r ˈi m o , p r ˈi m o , p r ˈi m o ${1.ord}.
+p r ˌiː m ˈɑː r i u m , p r ˌi m ˈɑ r j o , p r i m ˈa j o , p r i m ˈa j o ${1.ord.agent}. Now archaic. 
+ˌi n s ˈe m e l , >* , ˌi n s ˈɛ m e , ˌi n s j ˈɛ m e ${1.adv}.
+s ˈi n ɡ u l u m , ${1.distr}.
+ˈi n̪ t̪ e ɡ r u m , ${1.fract}.
+d ˈu oː , >* , d ˈu o , d ˈu e ${2.m.nom}. Replaced by nom.f form. Old Italian duo. 
+d ˈu iː , >* , d ˈu i , d ˈu e ${2.m.nom}. Replaced by nom.f form. This itself is analogical too. Old Italian dui. 
+d ˈu oː s , >* , d ˈu o j , d ˈu e ${2.m.acc}. Replaced by nom.f form. Old Italian duoi. 
+d ˈu a e̯ , >* , d ˈu e , d ˈu e ${2.f.nom}. 
+d ˈu ɑː s , >* , d ˈu a , d ˈu e ${2.f.acc}. Replaced by nom.f form. Old Italian dua. 
+t r ˈeː s , >* , t r ˈe , t r ˈe ${3.acc}.
+k w ˈɑ t t u o r , ${4}.
+k w ˈiː n k w e , ${5}.
+s ˈe k s , ${6}.
+s ˈe p t e m , ${7}.
+ˈo k t oː , ${8}.
+n ˈo w e m , ${9}.
+d ˈe k e m , ${10}.
+ˈu n d e k i m , ${11}.
+d u ˈo d e k i m , ${12}.
+t r ˈeː d e k i m , ${13}.
+k w ˌɑ t t u ˈo r d e k i m , ${14}.
+k w ˈiː n d e k i m , ${15}.
+s ˈeː d e k i m , ${16}.
+d ˌeː k i e t s ˈe p t e m , ${17}.
+d ˌeː k i e t ˈo k t oː , ${18}.
+ˌuː n d eː w ˌiː ɡ ˈi n t i , ${19}.
+... , ${19}.
+w ˌiː ɡ ˈi n t i , ${20}.
+t r ˌiː ɡ ˈi n t ɑ , ${30}.
+... , ${30}.
+k w ˌɑ d r ɑː ɡ ˈi n t ɑ m , ${40}.
+... , ${40}.
+k w ˌiː n k w ɑː ɡ ˈi n t ɑ m , ${50}.
+... , ${50}.
+s ˌe k s ɑː ɡ ˈi n t ɑ m , ${60}.
+... , ${60}.
+s ˌe p t ɑː ɡ ˈi n t ɑ m , ${70}.
+... , ${70}.
+ˌo k t ɑː ɡ ˈi n t ɑ m , ${80}.
+... , ${80}.
+n ˌoː n ɑː ɡ ˈi n t ɑ m , ${90}.
+... , ${90}.
+k ˈe n t u m , ${100}.
+m ˈiː l l e m , ${1000}.

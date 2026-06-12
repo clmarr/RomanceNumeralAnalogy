@@ -1,0 +1,83 @@
+=Classical Latin,Old Spanish,Modern Spanish
+ˈuː n̪ u m , ˈu n̪ o , ˈu n̪ o ${1.m.numeral.card}.
+ˈuː n̪ ɑ m , ˈu n̪ a , ˈu n̪ a ${1.f.numeral.card}.
+ˌuː n̪ u m , ˌu n̪ , u n̪ ${1.masc.article.card}. 
+ˌuː n̪ ɑ m , ˌu n̪ a , u n̪ a ${1.fem.article.card}. 
+p r ˈiː m u m , p ɾ ˈi m o , p ɾ i m ˈe ɾ o ${1.ord}. Primo comes to mean first cousin, but did mean first in Old Spanish
+p r ˌiː m ˈɑː r i u m , p ɾ i m ˈe ɾ o , p ɾ i m ˈe ɾ o ${1.ord.agent}.
+s ˈi n̪ ɡ u l u m , s ˈe n̪ ɲ o s , s ˈe n̪ d̪ o s ${1.distr}. Regularǃ Unsure of OSp form tho. 
+s ˈi m p l u m , s ˈi m p l e , s ˈi m p l e ${1.instr}. Loaned in OSp
+ˈi n̪ t̪ e ɡ r u m , ˌe n̪ t̪ ˈe ɡ ɾ o , ˌe n̪ t̪ ˈe ɾ o ${1.fract}.
+d̪ u ˈo , d̪ ˈo s , d̪ ˈo s ${2.m.nom.card}.
+d̪ u ˈoː s , d̪ ˈo s , d̪ ˈo s ${2.m.acc.card}.
+d̪ ˈu a e̯ , d̪ ˈu a s , d̪ ˈu a s ${2.f.nom.card}. 
+d̪ ˈu ɑː s , d̪ ˈu a s , d̪ ˈu a s ${2.f.acc.card}.
+s ˌe k ˈu n̪ d̪ u m , s ˌe ɡ ˈu n̪ d̪ o , s ˌe ɡ ˈu n̪ d̪ o ${2.ord}
+d̪ ˈu p l u m , d̪ ˈo b l o , d̪ ˈo b l e ${2.instr}. Analogy in or since OSp. 
+p ˈɑː r , p ˈa ɾ , p ˈa ɾ ${2.distr}
+m ˈe d̪ i u m , m ˈe j o , m ˈe d̪ j o ${2.fract}. Borrowed in or since OSp. TODO perhaps remove. 
+m ˌe d̪ i e t̪ ˈɑː t̪ e m , m ˌe j t̪ ˈa d̪ , m i t̪ ˈa d̪ ${2.fract.agent}. 
+t r ˈeː s , t̪ r ˈe s , t̪ r ˈe s ${3.acc.card}.https://en.wiktionary.org/wiki/tercera#Spanish
+t̪ r ˈeː s , t̪ r ˈe s , t̪ r ˈe ${3.nom.card}.
+t̪ ˈe r t̪ i u m , t̪ ˈe ɾ t͡s o , t̪ e ɾ θ ˈe ɾ o ${3.ord}. From fract. agent. 
+t r ˈi p l u m , t̪ ɾ ˈi p l o , t̪ ɾ ˈi p l o ${3.instr}. Actuallly a loan. 
+t̪ r ˈiː n̪ u m , t̪ ɾ ˈe n̪ o , t̪ ˈe ɾ n̪ o ${3.distr}. Old Sp form actually the Proto-Ibero-Romance ancestor of the Aragonese, no modern Spanish reflex. terno seems to be another loan, not from Lat ternus, but testing below just to be sure. 
+t̪ ˈe r n̪ u m , t̪ ˈe ɾ n̪ o , t̪ ˈe ɾ n̪ o ${3.distr}. See above.
+t r ˌi ˈe n t e m , t̪ ˌe ɾ t͡s ˈe ɾ o , t̪ ˈe ɾ θ j o ${3.fract}.
+t ˌe r t i ˈɑː r i u m , t̪ ˌe ɾ t͡s ˈe ɾ o , t̪ ˈe ɾ θ j o ${3.fract.agent}. Borrowed from Latin for final stage. 
+k w ˈɑ t̪ t̪ u o r , k w ˈa t̪ ɾ o , k w ˈa t̪ ɾ o ${4.card}.
+k w ˈɑː r t̪ u m , k w ˈa ɾ t̪ o , k w ˈa ɾ t̪ o ${4.ord}.
+k w ˌɑː t̪ ˈe r n̪ u m , k w ˌa d̪ ˈe ɾ n̪ o , k w ˌa d̪ ɾ ˈu p l e ${4.distr}. Semi-learned cuaderno -> "notebook" like in other languages, then loaned again.
+k w ˌɑ d̪ r ˈɑ n̪ t̪ e m , k w ˌa d̪ ɾ ˈa n̪ t̪ e , k w ˌa d̪ ɾ ˈa n̪ t̪ e ${4.fract}. Quārtum is the form actually inherited in most Romance. Perhaps because quadrantum is oo clase to quadraginta. Italian has both quadrante and quarto though. 
+k w ˌɑː r t̪ ˈɑː r i u m ,  k w ˌa d̪ ɾ ˈa n̪ t̪ e , k w ˌa d̪ ɾ ˈa n̪ t̪ e ${4.fract.agent}
+k w ˈiː n̪ k w e , t͡s ˈi n̪ k o , θ ˈi n̪ k o ${5.card}.
+k w ˈiː n̪ t̪ u m , k ˈi n̪ t̪ o , k ˈi n̪ t̪ o ${5.ord}.
+k w ˌiː n ˈɑː r i u m , k ˈi n̪ t̪ o , k ˈi n̪ t̪ o ${5.fract.agent}
+s ˈe k s , s ˈe j s , s ˈe j s ${6.card}.
+s ˈe k s t̪ u m , s j ˈe s t̪ a , s ˈe k s t̪ o ${6.ord}.
+s ˈe k s t̪ u m , s ˈe s m a , s ˈe k s t̪ o ${6.ord}. sesma became a unit. Likely analogical form septima. 
+s ˌe k s t̪ ˈɑː r i u m , s ˌe s t̪ ˈe r o , s ˈe k s t̪ o ${6.fract.agent}
+s ˈe p t̪ e m , s j ˈe t̪ e , s j ˈe t̪ e ${7.card}.
+s ˈe p t̪ i m u m , s j ˈe t̪ m o , s ˈe t̪ i m o ${7.ord}.
+s ˌe p t̪ ˈeː n u m , s ˌe t̪ ˈe n̪ o , s ˈe t̪ i m o ${7.fract}.
+ˈo k t̪ oː , ˈo t͡ʃ o , ˈo t͡ʃ o ${8.card}.
+ˌo k t̪ ˈɑː w u m , ˌo t͡ʃ ˈa β o , o t͡ʃ ˈa b o ${8.ord}. Now analogized further to octavo
+ˌo k t̪ ˈɑ n̪ t̪ e m , ˌo t͡ʃ ˈa β o , o t͡ʃ ˈa b o ${8.fract}. Now analogized further to octavo
+n̪ ˈo w e m , n̪ w ˈe β e , n̪ w ˈe b e ${9.card}.
+n̪ ˈoː n̪ u m , n̪ ˈo n̪ o , n̪ ˌo b ˈe n̪ o ${9.ord}. Now largely syncretic with noveno. 
+n̪ ˌo w ˈeː n̪ u m , n̪ ˌo β ˈe n̪ o , n̪ ˌo b ˈe n o ${9.fract}.
+d̪ ˈe k e m , d j ˈe t͡s , d j ˈe θ ${10.card}.
+d̪ ˈe k i m u m , d̪ j ˈe d͡z m o , d̪ e θ ˈe n̪ o ${10.ord}.  
+d̪ ˌeː k ˈeː n u m , d̪ ˌe t͡s ˈe n̪ o , d̪ e θ ˈe n̪ o ${10.fract}.
+d̪ ˌeː n̪ ˈɑː r i u m , d̪ ˌi n̪ ˈe ɾ o , d̪ e θ ˈe n̪ o ${10.fract.agent}. Now as "money". "Set of ten" now as deceno.
+ˈu n̪ d̪ e k i m , ˈo n̪ d͡z e , ˈo n̪ θ e ${11.card}. Ordinals for this up to nineteen are just loans. 
+d̪ u ˈo d̪ e k i m , d̪ ˈo d͡z e , d̪ ˈo θ e ${12.card}.
+t̪ r ˈeː d̪ e k i m , t̪ ɾ ˈe d͡z e , t̪ ɾ ˈe θ e ${13.card}.
+k w ˌɑ t̪ t̪ u ˈo r d̪ e k i m , k ˌa t̪ ˈo ɾ d͡z e , k a t̪ ˈo ɾ θ e ${14.card}.
+k w ˈiː n̪ d̪ e k i m , k ˈi n̪ d͡z e , k ˈi n̪ θ e ${15.card}.
+s ˈeː d̪ e k i m , s ˈe d͡z e , d̪ j e θ i s ˈe j s ${16.card}.
+d̪ ˌeː k i e t̪ s ˈe p t̪ e m , d̪ j e t͡s i s j ˈe t̪ e , d̪ j e θ i s j ˈe t̪ e ${17.card}.
+d ˌeː k i e t ˈo k t oː , d̪ i t͡s ˈo t͡ʃ o , d̪ j e θ ˈo t͡ʃ o ${18.card}.
+ˌuː n d eː w ˌiː ɡ ˈi n t i , d̪ i d͡z e n̪ w e f , d̪ j e θ i n̪ w ˈe b e ${19.card}.
+w ˌiː ɡ ˈi n̪ t̪ i , β ˈe i n̪ t̪ e , b ˈe i n̪ t̪ e ${20.card}.
+w ˌiː k ˈeː n̪ s i m u m , β ˌe i n̪ t̪ e ˈa β o , b e i n̪ t̪ e ˈa b o ${20.ord}. Vigesimo is a modern learned loan. 
+t̪ˈ r ˌiː ɡ ˈi n̪ t̪ ɑ , t̪ ɾ ˌe j ˈe n̪ t̪ a , t̪ ɾ ˈe i n̪ t̪ a ${30.card}.
+t̪ r ˌiː k ˈeː s i m u m , t̪ ɾ ˌe i n̪ t̪ e ˈa β o , t̪ ɾ e i n̪ t̪ e ˈa b o ${30.ord}.
+k w ˌɑ d̪ r ɑː ɡ ˈi n̪ t̪ ɑ m , k w ˌa ɾ a ˈe n̪ t̪ a , k w a ɾ ˈe n̪ t̪ a ${40.card}.
+k w ˌɑ d̪ r ɑː ɡ ˈeː s i m ɑ , k w ˌa ɾ ˌa n̪ t̪ ˈa β o , k w a ɾ a n̪ t̪ ˈa b o ${40.ord}. Actually a Christian term {Lent} but related to the number.
+k w ˌiː n̪ k w ɑː ɡ ˈi n̪ t̪ ɑ m , t͡s ˌi n̪ k w a ˈe n̪ t̪ a , θ i n̪ k w ˈe n̪ t̪ a ${50.card}.
+k w ˌiː n̪ k w ɑː ɡ ˈeː s i m ɑ , >* , θ i n̪ k w e n̪ t̪ ˈa b o ${50.ord}. Actually a Christian term but related to the number.
+s ˌe k s ɑː ɡ ˈi n̪ t̪ ɑ m , s ˌe s a ˈe n̪ t̪ o , s e s ˈe n̪ t̪ o ${60.card}.
+s ˌe k s ɑː ɡ ˈeː s i m u m , >* , s e s e n̪ t̪ ˈa b o ${60.ord}.
+s ˌe p t̪ u ɑː ɡ ˈi n̪ t̪ ɑ m , s ˌe t̪ a ˈe n̪ t̪ a , s e t̪ ˈe n̪ t̪ a ${70.card}.
+s ˌe p t̪ u ɑː ɡ ˈeː s i m u m , >* , s e t̪ e n̪ t̪ ˈa b o ${70.ord}.
+ˌo k t̪ ɑː ɡ ˈi n̪ t̪ ɑ m , ˌo t͡ʃ a ˈe n̪ t̪ a , o t͡ʃ ˈe n̪ t̪ a ${80.card}.
+ˌo p t̪ oː ɡ ˈˈeː s i m u m , >* , o t͡ʃ e n̪ t̪ ˈa b o ${80.ord}.
+n̪ ˌoː n̪ ɑː ɡ ˈi n̪ t̪ ɑ m , n̪ ˌo β a ˈe n̪ t̪ a , n̪ o b ˈe n̪ t̪ a ${90.card}.
+n̪ ˌoː n̪ ɑː ɡ ˈeː s i m u m , >* , n̪ o b e n̪ t̪ ˈa b o ${90.ord}.
+k ˈe n̪ t̪ u m , t͡s j ˈe n̪ t̪ o , θ j ˈe n̪ t̪ o ${100.card}.
+k ˌe n̪ t̪ ˈeː s i m u m , t͡s ˌe n̪ t̪ ˈa β o , θ e n̪ t̪ ˈa b o ${100.ord}. Centimo is from French, centesimo is learned loan. 
+k ˌe n̪ t̪ ˈeː n̪ u m , t͡s ˌe n̪ t̪ ˈe n̪ o , θ e n̪ t̪ ˈe n o ${100.fract}
+$k ˌe n̪ t̪ eː n ˈɑː r i u m , ${100.fract.agent}. Only as loan, centenario
+m ˈiː l l e m , m ˈi l , m ˈi l ${1000.card}.
+m ˌiː l l ˈeː s i m u m , >* , m i l ˈe s i m o ${1000.ord}. Likely a loan. 

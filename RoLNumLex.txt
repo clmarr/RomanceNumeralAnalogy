@@ -18,7 +18,7 @@ d ˈu p l u m , ˌɨ n d ˈo j , ˌɨ n d ˈo j t ${2.instr}. Dublu is a loan.
 d ˌi m ˈe d i u m ,  d͡ʒ ˌu m ˈa t e , d o ˈi m e ${2.fract}. 
 m ˌe d i e t ˈɑː t e m , d͡ʒ j ˌu m i t ˈa t e , ʒ u m ə t ˈa t e ${2.loc}. 
 t r ˈeː s , >* , t r ˈe j ${3.card}.
-t ˈe r t i u m , >* , t r ˈe j l e̯ a ${3.ord}.
+t ˈe r t i u m , t ˈə r t͡s j , t r ˈe j l e̯ a ${3.ord}. Terțiu "ram in its third year" from the inherited form. 
 t r ˈi p l u m , >* , ɨ n t r ˈe j t ${3.instr}.
 t r ˌi ˈe n t e m , >* , t r e ˈi m e ${3.fract}.
 t r ˌi e n t ˈɑː r i u m , >* , t r e ˈi m e ${3.fract.agent}
