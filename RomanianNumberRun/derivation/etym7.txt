@@ -1,11 +1,11 @@
 Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :7:
 #sˈimplum# >>> *#sˈimplu# ( GOLD : #sˈimplu#) :
 s ˈi m p l u m 
-*#sˈimplu# | 36 : m > ∅ / [-stres] __ #
-*#sˈemplu# | 120 : [+syl,-long,+hi,-back] > [-hi] 
+*#sˈimplu# | 37 : m > ∅ / [-stres] __ #
+*#sˈemplu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
 Balkan Romance stage form : *#sˈemplu#
 Balkan Romance stage form : *#sˈemplu#
-*#sˈimplu# | 261 : ˈe > ˈi / __ [+cons,+nas] [-nas]
-*#sˈimplw# | 303 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
-*#sˈimplu# | 309 : {w;w̥;j̊} > {u;w;j} 
+*#sˈimplu# | 262 : ˈe > ˈi / __ [+cons,+nas] [-nas]
+*#sˈimplw# | 304 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
+*#sˈimplu# | 310 : {w;w̥;j̊} > {u;w;j} 
 Final form : *#sˈimplu#

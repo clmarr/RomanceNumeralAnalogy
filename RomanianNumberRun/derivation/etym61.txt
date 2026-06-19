@@ -2,20 +2,20 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 #kˌentˈeːsimum# >>> *#t͡ʃintˈesem# ( GOLD : #sˈutəlea̯#) :
 k ˌe n t ˈeː s i m u m 
 *#kentˈeːsimum# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kentˈeːsimu# | 36 : m > ∅ / [-stres] __ #
-*#kentˈeːsemu# | 120 : [+syl,-long,+hi,-back] > [-hi] 
-*#kentˈesemu# | 124 : [+syl] > [-long,-splng] 
-*#t͡ʃentˈesemu# | 162 : k > t͡ʃ / __ [-cons,-back,-lo]
+*#kentˈeːsimu# | 37 : m > ∅ / [-stres] __ #
+*#kentˈeːsemu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#kentˈesemu# | 127 : [+syl] > [-long,-splng] 
+*#t͡ʃentˈesemu# | 165 : k > t͡ʃ / __ [-cons,-back,-lo]
 Balkan Romance stage form : *#t͡ʃentˈesemu#
 Balkan Romance stage form : *#t͡ʃentˈesemu#
-*#t͡ʃentˈɛsemu# | 197 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas] )* [+syl,-hi,-back]
-*#t͡ʃentˈɛasemu# | 201 : ∅ > a / [+prim,-tense] __
-*#t͡ʃentˈɛˈasemu# | 202 : a > ˈa / [-tense,+stres] __
-*#t͡ʃentɛ̯ˈasemu# | 204 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
-*#t͡ʃente̯ˈasemu# | 205 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#t͡ʃinte̯ˈasimu# | 257 : e > i / [+cons] __ [+cons,+nas]
-*#t͡ʃintˈesimu# | 284 : {e̯ a;e̯ ˈa} > {e;ˈe} / __ ( [-syl] )* [+syl,+front,-lo,-back]
-*#t͡ʃintˈesimw̥# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#t͡ʃintˈesim# | 307 : w̥ > ∅ / [-syl] __ #
-*#t͡ʃintˈesem# | 345 : i > e / s __ m
+*#t͡ʃentˈɛsemu# | 200 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] )* [+syl,-hi,-back]
+*#t͡ʃentˈɛasemu# | 202 : ∅ > a / [+prim,-tense] __
+*#t͡ʃentˈɛˈasemu# | 203 : a > ˈa / [-tense,+stres] __
+*#t͡ʃentɛ̯ˈasemu# | 205 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
+*#t͡ʃente̯ˈasemu# | 206 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#t͡ʃinte̯ˈasimu# | 258 : e > i / [+cons] __ [+cons,+nas]
+*#t͡ʃintˈesimu# | 285 : {e̯ a;e̯ ˈa} > {e;ˈe} / __ ( [-syl] )* [+syl,+front,-lo,-back]
+*#t͡ʃintˈesimw̥# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#t͡ʃintˈesim# | 308 : w̥ > ∅ / [-syl] __ #
+*#t͡ʃintˈesem# | 346 : i > e / s __ m
 Final form : *#t͡ʃintˈesem#

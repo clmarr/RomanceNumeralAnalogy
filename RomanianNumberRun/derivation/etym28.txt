@@ -1,15 +1,15 @@
 Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :28:
 #sˈekstum# >>> *#ʃˈest# ( GOLD : #ʃˈaselea̯#) :
 s ˈe k s t u m 
-*#sˈekstu# | 36 : m > ∅ / [-stres] __ #
-*#sˈestu# | 96 : [-son] > ∅ / __ [+strid] [-son]
-*#sˈɛstu# | 118 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈekstu# | 37 : m > ∅ / [-stres] __ #
+*#sˈestu# | 99 : [-son] > ∅ / __ [+strid] [-son]
+*#sˈɛstu# | 121 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
 Balkan Romance stage form : *#sˈɛstu#
 Balkan Romance stage form : *#sˈɛstu#
-*#sjˈɛstu# | 171 : ∅ > j / # [+cons] __ [-cons,-tense]
-*#sjˈestu# | 175 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ʃjˈestu# | 228 : {l;n;s} > {ʎ;ɲ;ʃ} / __ j
-*#ʃˈestu# | 229 : j > ∅ / [+cons,+front] __
-*#ʃˈestw̥# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ʃˈest# | 307 : w̥ > ∅ / [-syl] __ #
+*#sjˈɛstu# | 174 : ∅ > j / # [+cons] __ [-cons,-tense]
+*#sjˈestu# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ʃjˈestu# | 229 : {l;n;s} > {ʎ;ɲ;ʃ} / __ j
+*#ʃˈestu# | 230 : j > ∅ / [+cons,+front] __
+*#ʃˈestw̥# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ʃˈest# | 308 : w̥ > ∅ / [-syl] __ #
 Final form : *#ʃˈest#

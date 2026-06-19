@@ -2,24 +2,24 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 #wˌiːkˈeːnsimum# >>> *#vet͡ʃˈesem# ( GOLD : >*) :
 w ˌiː k ˈeː n s i m u m 
 *#wiːkˈeːnsimum# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#wiːkˈeːnsimu# | 36 : m > ∅ / [-stres] __ #
-*#wiːkˈeːsimu# | 39 : [+syl] n > [+long] ∅/ [+cons] __ [-son,+cont]
-*#βiːkˈeːsimu# | 91 : w > β / __ [-cons]
-*#βiːkˈeːsemu# | 120 : [+syl,-long,+hi,-back] > [-hi] 
-*#βikˈesemu# | 124 : [+syl] > [-long,-splng] 
-*#vikˈesemu# | 144 : β > v / # ( e n ) ( k o n ) ( r e ) __
-*#vit͡ʃˈesemu# | 162 : k > t͡ʃ / __ [-cons,-back,-lo]
+*#wiːkˈeːnsimu# | 37 : m > ∅ / [-stres] __ #
+*#wiːkˈeːsimu# | 40 : [+syl] n > [+long] ∅/ [+cons] __ [-son,+cont]
+*#βiːkˈeːsimu# | 94 : w > β / __ [-cons]
+*#βiːkˈeːsemu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#βikˈesemu# | 127 : [+syl] > [-long,-splng] 
+*#vikˈesemu# | 147 : β > v / # ( e n ) ( k o n ) ( r e ) __
+*#vit͡ʃˈesemu# | 165 : k > t͡ʃ / __ [-cons,-back,-lo]
 Balkan Romance stage form : *#vit͡ʃˈesemu#
 Balkan Romance stage form : *#vit͡ʃˈesemu#
-*#vit͡ʃˈɛsemu# | 197 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas] )* [+syl,-hi,-back]
-*#vit͡ʃˈɛasemu# | 201 : ∅ > a / [+prim,-tense] __
-*#vit͡ʃˈɛˈasemu# | 202 : a > ˈa / [-tense,+stres] __
-*#vit͡ʃɛ̯ˈasemu# | 204 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
-*#vit͡ʃe̯ˈasemu# | 205 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vet͡ʃe̯ˈasemu# | 225 : i > e / [+cons] __ [+cons,+delrel]
-*#vet͡ʃe̯ˈasimu# | 257 : e > i / [+cons] __ [+cons,+nas]
-*#vet͡ʃˈesimu# | 284 : {e̯ a;e̯ ˈa} > {e;ˈe} / __ ( [-syl] )* [+syl,+front,-lo,-back]
-*#vet͡ʃˈesimw̥# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#vet͡ʃˈesim# | 307 : w̥ > ∅ / [-syl] __ #
-*#vet͡ʃˈesem# | 345 : i > e / s __ m
+*#vit͡ʃˈɛsemu# | 200 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] )* [+syl,-hi,-back]
+*#vit͡ʃˈɛasemu# | 202 : ∅ > a / [+prim,-tense] __
+*#vit͡ʃˈɛˈasemu# | 203 : a > ˈa / [-tense,+stres] __
+*#vit͡ʃɛ̯ˈasemu# | 205 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
+*#vit͡ʃe̯ˈasemu# | 206 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#vet͡ʃe̯ˈasemu# | 226 : i > e / [+cons] __ [+cons,+delrel]
+*#vet͡ʃe̯ˈasimu# | 258 : e > i / [+cons] __ [+cons,+nas]
+*#vet͡ʃˈesimu# | 285 : {e̯ a;e̯ ˈa} > {e;ˈe} / __ ( [-syl] )* [+syl,+front,-lo,-back]
+*#vet͡ʃˈesimw̥# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vet͡ʃˈesim# | 308 : w̥ > ∅ / [-syl] __ #
+*#vet͡ʃˈesem# | 346 : i > e / s __ m
 Final form : *#vet͡ʃˈesem#

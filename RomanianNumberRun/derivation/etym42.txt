@@ -4,26 +4,26 @@ k w ˌɑ t t u ˈo r d e k i m
 *#kwˌɑttwˈordekim# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#kwˌattwˈordekim# | 13 : [+lo,+back] > [-back,+front] 
 *#kwattwˈordekim# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kwattwˈordeki# | 36 : m > ∅ / [-stres] __ #
-*#kβattβˈordeki# | 91 : w > β / __ [-cons]
-*#pβattβˈordeki# | 106 : k > p / __ β [-cons,+lo]
-*#pβattβˈordekiː# | 119 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#pβattβˈordeki# | 124 : [+syl] > [-long,-splng] 
-*#pattˈordeki# | 158 : β > ∅ 
-*#patˈordeki# | 161 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
-*#patˈordet͡ʃi# | 162 : k > t͡ʃ / __ [-cons,-back,-lo]
+*#kwattwˈordeki# | 37 : m > ∅ / [-stres] __ #
+*#kβattβˈordeki# | 94 : w > β / __ [-cons]
+*#pβattβˈordeki# | 109 : k > p / __ β [-cons,+lo]
+*#pβattβˈordekiː# | 122 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#pβattβˈordeki# | 127 : [+syl] > [-long,-splng] 
+*#pattˈordeki# | 161 : β > ∅ 
+*#patˈordeki# | 164 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
+*#patˈordet͡ʃi# | 165 : k > t͡ʃ / __ [-cons,-back,-lo]
 Balkan Romance stage form : *#patˈordet͡ʃi#
 Balkan Romance stage form : *#patˈordet͡ʃi#
-*#patˈoɾdet͡ʃi# | 166 : r > ɾ 
-*#patˈɔɾdet͡ʃi# | 197 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas] )* [+syl,-hi,-back]
-*#patˈɔaɾdet͡ʃi# | 201 : ∅ > a / [+prim,-tense] __
-*#patˈɔˈaɾdet͡ʃi# | 202 : a > ˈa / [-tense,+stres] __
-*#patɔ̯ˈaɾdet͡ʃi# | 204 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
-*#pato̯ˈaɾdet͡ʃi# | 205 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pəto̯ˈaɾdet͡ʃi# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
-*#pəto̯ˈaɾdet͡ʃji# | 226 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
-*#pəto̯ˈaɾdet͡ʃi# | 229 : j > ∅ / [+cons,+front] __
-*#pəto̯ˈardet͡ʃi# | 299 : ɾ > r 
-*#pəto̯ˈardet͡ʃj̊# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#pəto̯ˈardet͡ʃj# | 309 : {w;w̥;j̊} > {u;w;j} 
+*#patˈoɾdet͡ʃi# | 169 : r > ɾ 
+*#patˈɔɾdet͡ʃi# | 200 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] )* [+syl,-hi,-back]
+*#patˈɔaɾdet͡ʃi# | 202 : ∅ > a / [+prim,-tense] __
+*#patˈɔˈaɾdet͡ʃi# | 203 : a > ˈa / [-tense,+stres] __
+*#patɔ̯ˈaɾdet͡ʃi# | 205 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
+*#pato̯ˈaɾdet͡ʃi# | 206 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pəto̯ˈaɾdet͡ʃi# | 221 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
+*#pəto̯ˈaɾdet͡ʃji# | 227 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+*#pəto̯ˈaɾdet͡ʃi# | 230 : j > ∅ / [+cons,+front] __
+*#pəto̯ˈardet͡ʃi# | 300 : ɾ > r 
+*#pəto̯ˈardet͡ʃj̊# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pəto̯ˈardet͡ʃj# | 310 : {w;w̥;j̊} > {u;w;j} 
 Final form : *#pəto̯ˈardet͡ʃj#

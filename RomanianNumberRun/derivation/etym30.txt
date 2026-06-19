@@ -1,18 +1,18 @@
 Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :30:
 #sˈeptem# >>> *#ʃˈapte# ( GOLD : #ʃˈapte#) :
 s ˈe p t e m 
-*#sˈepte# | 36 : m > ∅ / [-stres] __ #
-*#sˈɛpte# | 118 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈepte# | 37 : m > ∅ / [-stres] __ #
+*#sˈɛpte# | 121 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
 Balkan Romance stage form : *#sˈɛpte#
 Balkan Romance stage form : *#sˈɛpte#
-*#sjˈɛpte# | 171 : ∅ > j / # [+cons] __ [-cons,-tense]
-*#sjˈepte# | 175 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sjˈɛpte# | 197 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas] )* [+syl,-hi,-back]
-*#sjˈɛapte# | 201 : ∅ > a / [+prim,-tense] __
-*#sjˈɛˈapte# | 202 : a > ˈa / [-tense,+stres] __
-*#sjɛ̯ˈapte# | 204 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
-*#sje̯ˈapte# | 205 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ʃje̯ˈapte# | 228 : {l;n;s} > {ʎ;ɲ;ʃ} / __ j
-*#ʃe̯ˈapte# | 229 : j > ∅ / [+cons,+front] __
-*#ʃˈapte# | 278 : e̯ ˈa > ˈa / ʃ __
+*#sjˈɛpte# | 174 : ∅ > j / # [+cons] __ [-cons,-tense]
+*#sjˈepte# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sjˈɛpte# | 200 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] )* [+syl,-hi,-back]
+*#sjˈɛapte# | 202 : ∅ > a / [+prim,-tense] __
+*#sjˈɛˈapte# | 203 : a > ˈa / [-tense,+stres] __
+*#sjɛ̯ˈapte# | 205 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
+*#sje̯ˈapte# | 206 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ʃje̯ˈapte# | 229 : {l;n;s} > {ʎ;ɲ;ʃ} / __ j
+*#ʃe̯ˈapte# | 230 : j > ∅ / [+cons,+front] __
+*#ʃˈapte# | 279 : e̯ ˈa > ˈa / ʃ __
 Final form : *#ʃˈapte#

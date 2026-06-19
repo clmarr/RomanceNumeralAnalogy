@@ -1,12 +1,12 @@
 Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :17:
 #trˈiplum# >>> *#trˈeplu# ( GOLD : #ɨntrˈejt#) :
 t r ˈi p l u m 
-*#trˈiplu# | 36 : m > ∅ / [-stres] __ #
-*#trˈeplu# | 120 : [+syl,-long,+hi,-back] > [-hi] 
+*#trˈiplu# | 37 : m > ∅ / [-stres] __ #
+*#trˈeplu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
 Balkan Romance stage form : *#trˈeplu#
 Balkan Romance stage form : *#trˈeplu#
-*#tɾˈeplu# | 166 : r > ɾ 
-*#trˈeplu# | 299 : ɾ > r 
-*#trˈeplw# | 303 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
-*#trˈeplu# | 309 : {w;w̥;j̊} > {u;w;j} 
+*#tɾˈeplu# | 169 : r > ɾ 
+*#trˈeplu# | 300 : ɾ > r 
+*#trˈeplw# | 304 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
+*#trˈeplu# | 310 : {w;w̥;j̊} > {u;w;j} 
 Final form : *#trˈeplu#

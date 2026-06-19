@@ -1,12 +1,12 @@
 Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :24:
 #kwˈiːnkwe# >>> *#t͡ʃˈint͡ʃe# ( GOLD : #t͡ʃˈint͡ʃj#) :
 k w ˈiː n k w e 
-*#kβˈiːnkβe# | 91 : w > β / __ [-cons]
-*#kβˈinkβe# | 124 : [+syl] > [-long,-splng] 
-*#kˈinke# | 158 : β > ∅ 
-*#t͡ʃˈint͡ʃe# | 162 : k > t͡ʃ / __ [-cons,-back,-lo]
+*#kβˈiːnkβe# | 94 : w > β / __ [-cons]
+*#kβˈinkβe# | 127 : [+syl] > [-long,-splng] 
+*#kˈinke# | 161 : β > ∅ 
+*#t͡ʃˈint͡ʃe# | 165 : k > t͡ʃ / __ [-cons,-back,-lo]
 Balkan Romance stage form : *#t͡ʃˈint͡ʃe#
 Balkan Romance stage form : *#t͡ʃˈint͡ʃe#
-*#t͡ʃjˈint͡ʃe# | 226 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
-*#t͡ʃˈint͡ʃe# | 229 : j > ∅ / [+cons,+front] __
+*#t͡ʃjˈint͡ʃe# | 227 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+*#t͡ʃˈint͡ʃe# | 230 : j > ∅ / [+cons,+front] __
 Final form : *#t͡ʃˈint͡ʃe#

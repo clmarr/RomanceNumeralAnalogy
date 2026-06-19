@@ -4,12 +4,12 @@ m ˌe d i e t ˈɑː t e m
 *#mˌedjetˈɑːtem# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#mˌedjetˈaːtem# | 13 : [+lo,+back] > [-back,+front] 
 *#medjetˈaːtem# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#medjetˈaːte# | 36 : m > ∅ / [-stres] __ #
-*#medjetˈate# | 124 : [+syl] > [-long,-splng] 
-*#meddjetˈate# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#medd͡ʒjetˈate# | 131 : {d;t} > {d͡ʒ;t͡ʃ} / __ j
-*#medd͡ʒetˈate# | 134 : j > ∅ / [+delrel] __
-*#med͡ʒetˈate# | 161 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
+*#medjetˈaːte# | 37 : m > ∅ / [-stres] __ #
+*#medjetˈate# | 127 : [+syl] > [-long,-splng] 
+*#meddjetˈate# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#medd͡ʒjetˈate# | 134 : {d;t} > {d͡ʒ;t͡ʃ} / __ j
+*#medd͡ʒetˈate# | 137 : j > ∅ / [+delrel] __
+*#med͡ʒetˈate# | 164 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
 Balkan Romance stage form : *#med͡ʒetˈate#
 Balkan Romance stage form : *#med͡ʒetˈate#
 Final form : *#med͡ʒetˈate#

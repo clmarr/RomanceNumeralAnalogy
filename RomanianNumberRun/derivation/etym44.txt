@@ -1,20 +1,20 @@
 Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :44:
 #sˈeːdekim# >>> *#sˈedet͡ʃj# ( GOLD : #ʃˈajsprezet͡ʃe#) :
 s ˈeː d e k i m 
-*#sˈeːdeki# | 36 : m > ∅ / [-stres] __ #
-*#sˈeːdekiː# | 119 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#sˈedeki# | 124 : [+syl] > [-long,-splng] 
-*#sˈedet͡ʃi# | 162 : k > t͡ʃ / __ [-cons,-back,-lo]
+*#sˈeːdeki# | 37 : m > ∅ / [-stres] __ #
+*#sˈeːdekiː# | 122 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#sˈedeki# | 127 : [+syl] > [-long,-splng] 
+*#sˈedet͡ʃi# | 165 : k > t͡ʃ / __ [-cons,-back,-lo]
 Balkan Romance stage form : *#sˈedet͡ʃi#
 Balkan Romance stage form : *#sˈedet͡ʃi#
-*#sˈɛdet͡ʃi# | 197 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas] )* [+syl,-hi,-back]
-*#sˈɛadet͡ʃi# | 201 : ∅ > a / [+prim,-tense] __
-*#sˈɛˈadet͡ʃi# | 202 : a > ˈa / [-tense,+stres] __
-*#sɛ̯ˈadet͡ʃi# | 204 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
-*#se̯ˈadet͡ʃi# | 205 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#se̯ˈadet͡ʃji# | 226 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
-*#se̯ˈadet͡ʃi# | 229 : j > ∅ / [+cons,+front] __
-*#sˈedet͡ʃi# | 284 : {e̯ a;e̯ ˈa} > {e;ˈe} / __ ( [-syl] )* [+syl,+front,-lo,-back]
-*#sˈedet͡ʃj̊# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#sˈedet͡ʃj# | 309 : {w;w̥;j̊} > {u;w;j} 
+*#sˈɛdet͡ʃi# | 200 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] )* [+syl,-hi,-back]
+*#sˈɛadet͡ʃi# | 202 : ∅ > a / [+prim,-tense] __
+*#sˈɛˈadet͡ʃi# | 203 : a > ˈa / [-tense,+stres] __
+*#sɛ̯ˈadet͡ʃi# | 205 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
+*#se̯ˈadet͡ʃi# | 206 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#se̯ˈadet͡ʃji# | 227 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+*#se̯ˈadet͡ʃi# | 230 : j > ∅ / [+cons,+front] __
+*#sˈedet͡ʃi# | 285 : {e̯ a;e̯ ˈa} > {e;ˈe} / __ ( [-syl] )* [+syl,+front,-lo,-back]
+*#sˈedet͡ʃj̊# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#sˈedet͡ʃj# | 310 : {w;w̥;j̊} > {u;w;j} 
 Final form : *#sˈedet͡ʃj#

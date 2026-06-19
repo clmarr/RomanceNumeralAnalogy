@@ -4,15 +4,15 @@ s ˌe k s t ˈɑː r i u m
 *#sˌekstˈɑːrjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#sˌekstˈaːrjum# | 13 : [+lo,+back] > [-back,+front] 
 *#sekstˈaːrjum# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#sekstˈaːrju# | 36 : m > ∅ / [-stres] __ #
-*#sestˈaːrju# | 96 : [-son] > ∅ / __ [+strid] [-son]
-*#sestˈarju# | 124 : [+syl] > [-long,-splng] 
-*#sestˈajru# | 140 : r j > j r / [+stres] __
+*#sekstˈaːrju# | 37 : m > ∅ / [-stres] __ #
+*#sestˈaːrju# | 99 : [-son] > ∅ / __ [+strid] [-son]
+*#sestˈarju# | 127 : [+syl] > [-long,-splng] 
+*#sestˈajru# | 143 : r j > j r / [+stres] __
 Balkan Romance stage form : *#sestˈajru#
 Balkan Romance stage form : *#sestˈajru#
-*#sestˈajɾu# | 166 : r > ɾ 
-*#sestˈajru# | 299 : ɾ > r 
-*#sestˈajrw̥# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#sestˈajr# | 307 : w̥ > ∅ / [-syl] __ #
-*#sestˈar# | 313 : j > ∅ / __ r #
+*#sestˈajɾu# | 169 : r > ɾ 
+*#sestˈajru# | 300 : ɾ > r 
+*#sestˈajrw̥# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#sestˈajr# | 308 : w̥ > ∅ / [-syl] __ #
+*#sestˈar# | 314 : j > ∅ / __ r #
 Final form : *#sestˈar#

@@ -4,18 +4,18 @@ t r ˌi e n t ˈɑː r i u m
 *#trˌientˈɑːrjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#trˌientˈaːrjum# | 13 : [+lo,+back] > [-back,+front] 
 *#trientˈaːrjum# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#trientˈaːrju# | 36 : m > ∅ / [-stres] __ #
-*#triintˈaːrju# | 113 : [+syl,-lo,-long,-stres] > [+hi] / [+syl] __
-*#trintˈaːrju# | 115 : [+syl,αhi,βlo,ɣfront,ðback] > ∅ / __ [+syl,αhi,βlo,ɣfront,ðback]
-*#trentˈaːrju# | 120 : [+syl,-long,+hi,-back] > [-hi] 
-*#trentˈarju# | 124 : [+syl] > [-long,-splng] 
-*#trentˈajru# | 140 : r j > j r / [+stres] __
+*#trientˈaːrju# | 37 : m > ∅ / [-stres] __ #
+*#triintˈaːrju# | 116 : [+syl,-lo,-long,-stres] > [+hi] / [+syl] __
+*#trintˈaːrju# | 118 : [+syl,αhi,βlo,ɣfront,ðback] > ∅ / __ [+syl,αhi,βlo,ɣfront,ðback]
+*#trentˈaːrju# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#trentˈarju# | 127 : [+syl] > [-long,-splng] 
+*#trentˈajru# | 143 : r j > j r / [+stres] __
 Balkan Romance stage form : *#trentˈajru#
 Balkan Romance stage form : *#trentˈajru#
-*#tɾentˈajɾu# | 166 : r > ɾ 
-*#tɾintˈajɾu# | 257 : e > i / [+cons] __ [+cons,+nas]
-*#trintˈajru# | 299 : ɾ > r 
-*#trintˈajrw̥# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#trintˈajr# | 307 : w̥ > ∅ / [-syl] __ #
-*#trintˈar# | 313 : j > ∅ / __ r #
+*#tɾentˈajɾu# | 169 : r > ɾ 
+*#tɾintˈajɾu# | 258 : e > i / [+cons] __ [+cons,+nas]
+*#trintˈajru# | 300 : ɾ > r 
+*#trintˈajrw̥# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#trintˈajr# | 308 : w̥ > ∅ / [-syl] __ #
+*#trintˈar# | 314 : j > ∅ / __ r #
 Final form : *#trintˈar#

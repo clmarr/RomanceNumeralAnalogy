@@ -3,20 +3,20 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 k w ˌiː n k w ɑː ɡ ˈi n t ɑ m 
 *#kwˌiːnkwaːɡˈintam# | 13 : [+lo,+back] > [-back,+front] 
 *#kwiːnkwaːɡˈintam# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kwiːnkwaːɡˈinta# | 36 : m > ∅ / [-stres] __ #
-*#kβiːnkβaːɡˈinta# | 91 : w > β / __ [-cons]
-*#kβiːnpβaːɡˈinta# | 106 : k > p / __ β [-cons,+lo]
-*#kβiːmpβaːɡˈinta# | 108 : n > m / __ [+lab,-strid,+cons] β
-*#kβiːmpβaːɡˈenta# | 120 : [+syl,-long,+hi,-back] > [-hi] 
-*#kβimpβaɡˈenta# | 124 : [+syl] > [-long,-splng] 
-*#kimpaɡˈenta# | 158 : β > ∅ 
-*#t͡ʃimpaɡˈenta# | 162 : k > t͡ʃ / __ [-cons,-back,-lo]
-*#t͡ʃimpad͡ʒˈenta# | 163 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
+*#kwiːnkwaːɡˈinta# | 37 : m > ∅ / [-stres] __ #
+*#kβiːnkβaːɡˈinta# | 94 : w > β / __ [-cons]
+*#kβiːnpβaːɡˈinta# | 109 : k > p / __ β [-cons,+lo]
+*#kβiːmpβaːɡˈinta# | 111 : n > m / __ [+lab,-strid,+cons] β
+*#kβiːmpβaːɡˈenta# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#kβimpβaɡˈenta# | 127 : [+syl] > [-long,-splng] 
+*#kimpaɡˈenta# | 161 : β > ∅ 
+*#t͡ʃimpaɡˈenta# | 165 : k > t͡ʃ / __ [-cons,-back,-lo]
+*#t͡ʃimpad͡ʒˈenta# | 166 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
 Balkan Romance stage form : *#t͡ʃimpad͡ʒˈenta#
 Balkan Romance stage form : *#t͡ʃimpad͡ʒˈenta#
-*#t͡ʃimpad͡ʒˈentə# | 219 : [-cons,+lo,-stres,-long] > ə / @ __ #
-*#t͡ʃimpəd͡ʒˈentə# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
-*#t͡ʃjimpəd͡ʒˈentə# | 226 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
-*#t͡ʃimpəd͡ʒˈentə# | 229 : j > ∅ / [+cons,+front] __
-*#t͡ʃimpəd͡ʒˈintə# | 261 : ˈe > ˈi / __ [+cons,+nas] [-nas]
+*#t͡ʃimpad͡ʒˈentə# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ #
+*#t͡ʃimpəd͡ʒˈentə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
+*#t͡ʃjimpəd͡ʒˈentə# | 227 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+*#t͡ʃimpəd͡ʒˈentə# | 230 : j > ∅ / [+cons,+front] __
+*#t͡ʃimpəd͡ʒˈintə# | 262 : ˈe > ˈi / __ [+cons,+nas] [-nas]
 Final form : *#t͡ʃimpəd͡ʒˈintə#

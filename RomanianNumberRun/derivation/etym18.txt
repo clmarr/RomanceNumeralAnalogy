@@ -2,14 +2,14 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 #trˌiˈentem# >>> *#trˈinte# ( GOLD : #treˈime#) :
 t r ˌi ˈe n t e m 
 *#triˈentem# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#triˈente# | 36 : m > ∅ / [-stres] __ #
-*#trjˈente# | 117 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#trjˈɛnte# | 118 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#triˈente# | 37 : m > ∅ / [-stres] __ #
+*#trjˈente# | 120 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
+*#trjˈɛnte# | 121 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
 Balkan Romance stage form : *#trjˈɛnte#
 Balkan Romance stage form : *#trjˈɛnte#
-*#tɾjˈɛnte# | 166 : r > ɾ 
-*#tɾjˈente# | 169 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#tɾjˈinte# | 261 : ˈe > ˈi / __ [+cons,+nas] [-nas]
-*#tɾˈinte# | 289 : j > ∅ / [-hi] ( [-cons,+syl,-lo] )* __ [-cons,+syl,+hi,+front]
-*#trˈinte# | 299 : ɾ > r 
+*#tɾjˈɛnte# | 169 : r > ɾ 
+*#tɾjˈente# | 172 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#tɾjˈinte# | 262 : ˈe > ˈi / __ [+cons,+nas] [-nas]
+*#tɾˈinte# | 290 : j > ∅ / [-hi] ( [-cons,+syl,-lo] )* __ [-cons,+syl,+hi,+front]
+*#trˈinte# | 300 : ɾ > r 
 Final form : *#trˈinte#

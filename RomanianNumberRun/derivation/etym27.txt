@@ -1,13 +1,13 @@
 Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :27:
 #sˈeks# >>> *#ʃˈep# ( GOLD : #ʃˈase#) :
 s ˈe k s 
-*#sˈeps# | 100 : k > p / [+stres] __ [+ant,+cor,-voi]
-*#sˈɛps# | 118 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɛp# | 165 : s > ∅ / __ #
+*#sˈeps# | 103 : k > p / [+stres] __ [+ant,+cor,-voi]
+*#sˈɛps# | 121 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈɛp# | 168 : s > ∅ / __ #
 Balkan Romance stage form : *#sˈɛp#
 Balkan Romance stage form : *#sˈɛp#
-*#sjˈɛp# | 171 : ∅ > j / # [+cons] __ [-cons,-tense]
-*#sjˈep# | 175 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ʃjˈep# | 228 : {l;n;s} > {ʎ;ɲ;ʃ} / __ j
-*#ʃˈep# | 229 : j > ∅ / [+cons,+front] __
+*#sjˈɛp# | 174 : ∅ > j / # [+cons] __ [-cons,-tense]
+*#sjˈep# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ʃjˈep# | 229 : {l;n;s} > {ʎ;ɲ;ʃ} / __ j
+*#ʃˈep# | 230 : j > ∅ / [+cons,+front] __
 Final form : *#ʃˈep#

@@ -1,22 +1,22 @@
 Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :41:
 #trˈeːdekim# >>> *#trˈedet͡ʃj# ( GOLD : #trˈejsprezet͡ʃe#) :
 t r ˈeː d e k i m 
-*#trˈeːdeki# | 36 : m > ∅ / [-stres] __ #
-*#trˈeːdekiː# | 119 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#trˈedeki# | 124 : [+syl] > [-long,-splng] 
-*#trˈedet͡ʃi# | 162 : k > t͡ʃ / __ [-cons,-back,-lo]
+*#trˈeːdeki# | 37 : m > ∅ / [-stres] __ #
+*#trˈeːdekiː# | 122 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#trˈedeki# | 127 : [+syl] > [-long,-splng] 
+*#trˈedet͡ʃi# | 165 : k > t͡ʃ / __ [-cons,-back,-lo]
 Balkan Romance stage form : *#trˈedet͡ʃi#
 Balkan Romance stage form : *#trˈedet͡ʃi#
-*#tɾˈedet͡ʃi# | 166 : r > ɾ 
-*#tɾˈɛdet͡ʃi# | 197 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas] )* [+syl,-hi,-back]
-*#tɾˈɛadet͡ʃi# | 201 : ∅ > a / [+prim,-tense] __
-*#tɾˈɛˈadet͡ʃi# | 202 : a > ˈa / [-tense,+stres] __
-*#tɾɛ̯ˈadet͡ʃi# | 204 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
-*#tɾe̯ˈadet͡ʃi# | 205 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#tɾe̯ˈadet͡ʃji# | 226 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
-*#tɾe̯ˈadet͡ʃi# | 229 : j > ∅ / [+cons,+front] __
-*#tɾˈedet͡ʃi# | 284 : {e̯ a;e̯ ˈa} > {e;ˈe} / __ ( [-syl] )* [+syl,+front,-lo,-back]
-*#trˈedet͡ʃi# | 299 : ɾ > r 
-*#trˈedet͡ʃj̊# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#trˈedet͡ʃj# | 309 : {w;w̥;j̊} > {u;w;j} 
+*#tɾˈedet͡ʃi# | 169 : r > ɾ 
+*#tɾˈɛdet͡ʃi# | 200 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] )* [+syl,-hi,-back]
+*#tɾˈɛadet͡ʃi# | 202 : ∅ > a / [+prim,-tense] __
+*#tɾˈɛˈadet͡ʃi# | 203 : a > ˈa / [-tense,+stres] __
+*#tɾɛ̯ˈadet͡ʃi# | 205 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
+*#tɾe̯ˈadet͡ʃi# | 206 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#tɾe̯ˈadet͡ʃji# | 227 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+*#tɾe̯ˈadet͡ʃi# | 230 : j > ∅ / [+cons,+front] __
+*#tɾˈedet͡ʃi# | 285 : {e̯ a;e̯ ˈa} > {e;ˈe} / __ ( [-syl] )* [+syl,+front,-lo,-back]
+*#trˈedet͡ʃi# | 300 : ɾ > r 
+*#trˈedet͡ʃj̊# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#trˈedet͡ʃj# | 310 : {w;w̥;j̊} > {u;w;j} 
 Final form : *#trˈedet͡ʃj#

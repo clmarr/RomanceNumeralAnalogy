@@ -2,11 +2,11 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 #dˈuɑːs# >>> *#dˈaj# ( GOLD : #dˈowə#) :
 d ˈu ɑː s 
 *#dˈuaːs# | 13 : [+lo,+back] > [-back,+front] 
-*#duˈaːs# | 111 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ @
-*#dwˈaːs# | 117 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#dwˈas# | 124 : [+syl] > [-long,-splng] 
-*#dˈas# | 128 : w > ∅ / __ [+syl]
-*#dˈaj# | 164 : s > j / [+stres] __ #
+*#duˈaːs# | 114 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ @
+*#dwˈaːs# | 120 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
+*#dwˈas# | 127 : [+syl] > [-long,-splng] 
+*#dˈas# | 131 : w > ∅ / __ [+syl]
+*#dˈaj# | 167 : s > j / [+stres] __ #
 Balkan Romance stage form : *#dˈaj#
 Balkan Romance stage form : *#dˈaj#
 Final form : *#dˈaj#

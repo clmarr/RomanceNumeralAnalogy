@@ -3,14 +3,14 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 n ˌoː n ɑː ɡ ˈi n t ɑ m 
 *#nˌoːnaːɡˈintam# | 13 : [+lo,+back] > [-back,+front] 
 *#noːnaːɡˈintam# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#noːnaːɡˈinta# | 36 : m > ∅ / [-stres] __ #
-*#noːnaːɡˈenta# | 120 : [+syl,-long,+hi,-back] > [-hi] 
-*#nonaɡˈenta# | 124 : [+syl] > [-long,-splng] 
-*#nonad͡ʒˈenta# | 163 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
+*#noːnaːɡˈinta# | 37 : m > ∅ / [-stres] __ #
+*#noːnaːɡˈenta# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#nonaɡˈenta# | 127 : [+syl] > [-long,-splng] 
+*#nonad͡ʒˈenta# | 166 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
 Balkan Romance stage form : *#nonad͡ʒˈenta#
 Balkan Romance stage form : *#nonad͡ʒˈenta#
-*#nunad͡ʒˈenta# | 178 : o > u / __ ( [-syl,-lab] ) [+syl]
-*#nunad͡ʒˈentə# | 219 : [-cons,+lo,-stres,-long] > ə / @ __ #
-*#nunəd͡ʒˈentə# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
-*#nunəd͡ʒˈintə# | 261 : ˈe > ˈi / __ [+cons,+nas] [-nas]
+*#nunad͡ʒˈenta# | 181 : o > u / __ ( [-syl,-lab] ) [+syl]
+*#nunad͡ʒˈentə# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ #
+*#nunəd͡ʒˈentə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
+*#nunəd͡ʒˈintə# | 262 : ˈe > ˈi / __ [+cons,+nas] [-nas]
 Final form : *#nunəd͡ʒˈintə#

@@ -3,13 +3,13 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 s ˌe p t ɑː ɡ ˈi n t ɑ m 
 *#sˌeptaːɡˈintam# | 13 : [+lo,+back] > [-back,+front] 
 *#septaːɡˈintam# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#septaːɡˈinta# | 36 : m > ∅ / [-stres] __ #
-*#septaːɡˈenta# | 120 : [+syl,-long,+hi,-back] > [-hi] 
-*#septaɡˈenta# | 124 : [+syl] > [-long,-splng] 
-*#septad͡ʒˈenta# | 163 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
+*#septaːɡˈinta# | 37 : m > ∅ / [-stres] __ #
+*#septaːɡˈenta# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#septaɡˈenta# | 127 : [+syl] > [-long,-splng] 
+*#septad͡ʒˈenta# | 166 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
 Balkan Romance stage form : *#septad͡ʒˈenta#
 Balkan Romance stage form : *#septad͡ʒˈenta#
-*#septad͡ʒˈentə# | 219 : [-cons,+lo,-stres,-long] > ə / @ __ #
-*#septəd͡ʒˈentə# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
-*#septəd͡ʒˈintə# | 261 : ˈe > ˈi / __ [+cons,+nas] [-nas]
+*#septad͡ʒˈentə# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ #
+*#septəd͡ʒˈentə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
+*#septəd͡ʒˈintə# | 262 : ˈe > ˈi / __ [+cons,+nas] [-nas]
 Final form : *#septəd͡ʒˈintə#

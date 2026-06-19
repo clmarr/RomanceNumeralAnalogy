@@ -2,9 +2,9 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 #sˌekˈundum# >>> *#sekˈund# ( GOLD : #dˈojlea̯#) :
 s ˌe k ˈu n d u m 
 *#sekˈundum# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#sekˈundu# | 36 : m > ∅ / [-stres] __ #
+*#sekˈundu# | 37 : m > ∅ / [-stres] __ #
 Balkan Romance stage form : *#sekˈundu#
 Balkan Romance stage form : *#sekˈundu#
-*#sekˈundw̥# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#sekˈund# | 307 : w̥ > ∅ / [-syl] __ #
+*#sekˈundw̥# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#sekˈund# | 308 : w̥ > ∅ / [-syl] __ #
 Final form : *#sekˈund#

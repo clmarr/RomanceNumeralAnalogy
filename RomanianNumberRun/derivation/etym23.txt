@@ -4,17 +4,17 @@ k w ˌɑː r t ˈɑː r i u m
 *#kwˌɑːrtˈɑːrjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#kwˌaːrtˈaːrjum# | 13 : [+lo,+back] > [-back,+front] 
 *#kwaːrtˈaːrjum# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kwaːrtˈaːrju# | 36 : m > ∅ / [-stres] __ #
-*#kaːrtˈaːrju# | 76 : w > ∅ / # ( i n ) ( [-syl] )* k __ [+syl,+long,+lo,+front] [+voi]
-*#kartˈarju# | 124 : [+syl] > [-long,-splng] 
-*#kartˈajru# | 140 : r j > j r / [+stres] __
+*#kwaːrtˈaːrju# | 37 : m > ∅ / [-stres] __ #
+*#kaːrtˈaːrju# | 78 : w > ∅ / # ( i n ) ( [-syl] )* k __ [+syl,+long,+lo,+front] [+voi]
+*#kartˈarju# | 127 : [+syl] > [-long,-splng] 
+*#kartˈajru# | 143 : r j > j r / [+stres] __
 Balkan Romance stage form : *#kartˈajru#
 Balkan Romance stage form : *#kartˈajru#
-*#kaɾtˈajɾu# | 166 : r > ɾ 
-*#kəɾtˈajɾu# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
-*#kɨɾtˈajɾu# | 270 : ə > ɨ / __ ɾ [+cons,-cont,+cor,+ant]
-*#kɨrtˈajru# | 299 : ɾ > r 
-*#kɨrtˈajrw̥# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kɨrtˈajr# | 307 : w̥ > ∅ / [-syl] __ #
-*#kɨrtˈar# | 313 : j > ∅ / __ r #
+*#kaɾtˈajɾu# | 169 : r > ɾ 
+*#kəɾtˈajɾu# | 221 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
+*#kɨɾtˈajɾu# | 271 : ə > ɨ / __ ɾ [+cons,-cont,+cor,+ant]
+*#kɨrtˈajru# | 300 : ɾ > r 
+*#kɨrtˈajrw̥# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kɨrtˈajr# | 308 : w̥ > ∅ / [-syl] __ #
+*#kɨrtˈar# | 314 : j > ∅ / __ r #
 Final form : *#kɨrtˈar#

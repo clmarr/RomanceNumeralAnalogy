@@ -2,20 +2,20 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 #ˌuːndeːwˌiːɡˈinti# >>> *#undejnd͡ʒˈint͡sj# ( GOLD : #nˈowəsprezet͡ʃe#) :
 ˌuː n d eː w ˌiː ɡ ˈi n t i 
 *#uːndeːwiːɡˈinti# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#uːndeːβiːɡˈinti# | 91 : w > β / __ [-cons]
-*#uːndeːβiːɡˈintiː# | 119 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#uːndeːβiːɡˈentiː# | 120 : [+syl,-long,+hi,-back] > [-hi] 
-*#undeβiɡˈenti# | 124 : [+syl] > [-long,-splng] 
-*#undeiɡˈenti# | 158 : β > ∅ 
-*#undeid͡ʒˈenti# | 163 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
+*#uːndeːβiːɡˈinti# | 94 : w > β / __ [-cons]
+*#uːndeːβiːɡˈintiː# | 122 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#uːndeːβiːɡˈentiː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#undeβiɡˈenti# | 127 : [+syl] > [-long,-splng] 
+*#undeiɡˈenti# | 161 : β > ∅ 
+*#undeid͡ʒˈenti# | 166 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
 Balkan Romance stage form : *#undeid͡ʒˈenti#
 Balkan Romance stage form : *#undeid͡ʒˈenti#
-*#undeid͡ʒˈentji# | 226 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
-*#undeid͡ʒˈent͡sji# | 230 : [-cont,+ant,+cor,-delrel,-son] > [+delrel,+strid,-cont,+cons,0tense] / __ j
-*#undeid͡ʒˈent͡si# | 232 : j > ∅ / [+delrel] __
-*#undeid͡ʒˈint͡si# | 261 : ˈe > ˈi / __ [+cons,+nas] [-nas]
-*#undeid͡ʒˈint͡sj̊# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#undeid͡ʒˈint͡sj# | 309 : {w;w̥;j̊} > {u;w;j} 
-*#undeind͡ʒˈint͡sj# | 331 : ∅ > n / [+front,+hi] __ [+delrel,-cont,+voi] [+syl,+hi,+front] n
-*#undejnd͡ʒˈint͡sj# | 349 : i > j / [+syl] __
+*#undeid͡ʒˈentji# | 227 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+*#undeid͡ʒˈent͡sji# | 231 : [-cont,+ant,+cor,-delrel,-son] > [+delrel,+strid,-cont,+cons,0tense] / __ j
+*#undeid͡ʒˈent͡si# | 233 : j > ∅ / [+delrel] __
+*#undeid͡ʒˈint͡si# | 262 : ˈe > ˈi / __ [+cons,+nas] [-nas]
+*#undeid͡ʒˈint͡sj̊# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#undeid͡ʒˈint͡sj# | 310 : {w;w̥;j̊} > {u;w;j} 
+*#undeind͡ʒˈint͡sj# | 332 : ∅ > n / [+front,+hi] __ [+delrel,-cont,+voi] [+syl,+hi,+front] n
+*#undejnd͡ʒˈint͡sj# | 350 : i > j / [+syl] __
 Final form : *#undejnd͡ʒˈint͡sj#

@@ -3,9 +3,9 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 ˌuː n ɑ m 
 *#ˌuːnam# | 13 : [+lo,+back] > [-back,+front] 
 *#uːnam# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#uːna# | 36 : m > ∅ / [-stres] __ #
-*#una# | 124 : [+syl] > [-long,-splng] 
+*#uːna# | 37 : m > ∅ / [-stres] __ #
+*#una# | 127 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#una#
 Balkan Romance stage form : *#una#
-*#unə# | 219 : [-cons,+lo,-stres,-long] > ə / @ __ #
+*#unə# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ #
 Final form : *#unə#

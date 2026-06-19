@@ -1,22 +1,22 @@
 Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :31:
 #sˈeptimum# >>> *#ʃˈaptim# ( GOLD : #ʃˈaptelea̯#) :
 s ˈe p t i m u m 
-*#sˈeptimu# | 36 : m > ∅ / [-stres] __ #
-*#sˈɛptimu# | 118 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɛptemu# | 120 : [+syl,-long,+hi,-back] > [-hi] 
+*#sˈeptimu# | 37 : m > ∅ / [-stres] __ #
+*#sˈɛptimu# | 121 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈɛptemu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
 Balkan Romance stage form : *#sˈɛptemu#
 Balkan Romance stage form : *#sˈɛptemu#
-*#sjˈɛptemu# | 171 : ∅ > j / # [+cons] __ [-cons,-tense]
-*#sjˈeptemu# | 175 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sjˈɛptemu# | 197 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas] )* [+syl,-hi,-back]
-*#sjˈɛaptemu# | 201 : ∅ > a / [+prim,-tense] __
-*#sjˈɛˈaptemu# | 202 : a > ˈa / [-tense,+stres] __
-*#sjɛ̯ˈaptemu# | 204 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
-*#sje̯ˈaptemu# | 205 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ʃje̯ˈaptemu# | 228 : {l;n;s} > {ʎ;ɲ;ʃ} / __ j
-*#ʃe̯ˈaptemu# | 229 : j > ∅ / [+cons,+front] __
-*#ʃe̯ˈaptimu# | 257 : e > i / [+cons] __ [+cons,+nas]
-*#ʃˈaptimu# | 278 : e̯ ˈa > ˈa / ʃ __
-*#ʃˈaptimw̥# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ʃˈaptim# | 307 : w̥ > ∅ / [-syl] __ #
+*#sjˈɛptemu# | 174 : ∅ > j / # [+cons] __ [-cons,-tense]
+*#sjˈeptemu# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sjˈɛptemu# | 200 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] )* [+syl,-hi,-back]
+*#sjˈɛaptemu# | 202 : ∅ > a / [+prim,-tense] __
+*#sjˈɛˈaptemu# | 203 : a > ˈa / [-tense,+stres] __
+*#sjɛ̯ˈaptemu# | 205 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
+*#sje̯ˈaptemu# | 206 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ʃje̯ˈaptemu# | 229 : {l;n;s} > {ʎ;ɲ;ʃ} / __ j
+*#ʃe̯ˈaptemu# | 230 : j > ∅ / [+cons,+front] __
+*#ʃe̯ˈaptimu# | 258 : e > i / [+cons] __ [+cons,+nas]
+*#ʃˈaptimu# | 279 : e̯ ˈa > ˈa / ʃ __
+*#ʃˈaptimw̥# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ʃˈaptim# | 308 : w̥ > ∅ / [-syl] __ #
 Final form : *#ʃˈaptim#

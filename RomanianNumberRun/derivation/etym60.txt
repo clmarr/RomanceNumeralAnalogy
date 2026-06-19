@@ -1,13 +1,13 @@
 Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :60:
 #kˈentum# >>> *#t͡ʃˈint# ( GOLD : #sˈutə#) :
 k ˈe n t u m 
-*#kˈentu# | 36 : m > ∅ / [-stres] __ #
-*#kˈɛntu# | 118 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#t͡ʃˈɛntu# | 162 : k > t͡ʃ / __ [-cons,-back,-lo]
+*#kˈentu# | 37 : m > ∅ / [-stres] __ #
+*#kˈɛntu# | 121 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t͡ʃˈɛntu# | 165 : k > t͡ʃ / __ [-cons,-back,-lo]
 Balkan Romance stage form : *#t͡ʃˈɛntu#
 Balkan Romance stage form : *#t͡ʃˈɛntu#
-*#t͡ʃˈentu# | 169 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#t͡ʃˈintu# | 261 : ˈe > ˈi / __ [+cons,+nas] [-nas]
-*#t͡ʃˈintw̥# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#t͡ʃˈint# | 307 : w̥ > ∅ / [-syl] __ #
+*#t͡ʃˈentu# | 172 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#t͡ʃˈintu# | 262 : ˈe > ˈi / __ [+cons,+nas] [-nas]
+*#t͡ʃˈintw̥# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#t͡ʃˈint# | 308 : w̥ > ∅ / [-syl] __ #
 Final form : *#t͡ʃˈint#

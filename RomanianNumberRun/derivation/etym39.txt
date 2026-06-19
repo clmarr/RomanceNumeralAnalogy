@@ -1,14 +1,14 @@
 Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon number :39:
 #ˈundekim# >>> *#ˈundet͡ʃj# ( GOLD : #ˈunsprezet͡ʃe#) :
 ˈu n d e k i m 
-*#ˈundeki# | 36 : m > ∅ / [-stres] __ #
-*#ˈundekiː# | 119 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#ˈundeki# | 124 : [+syl] > [-long,-splng] 
-*#ˈundet͡ʃi# | 162 : k > t͡ʃ / __ [-cons,-back,-lo]
+*#ˈundeki# | 37 : m > ∅ / [-stres] __ #
+*#ˈundekiː# | 122 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#ˈundeki# | 127 : [+syl] > [-long,-splng] 
+*#ˈundet͡ʃi# | 165 : k > t͡ʃ / __ [-cons,-back,-lo]
 Balkan Romance stage form : *#ˈundet͡ʃi#
 Balkan Romance stage form : *#ˈundet͡ʃi#
-*#ˈundet͡ʃji# | 226 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
-*#ˈundet͡ʃi# | 229 : j > ∅ / [+cons,+front] __
-*#ˈundet͡ʃj̊# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ˈundet͡ʃj# | 309 : {w;w̥;j̊} > {u;w;j} 
+*#ˈundet͡ʃji# | 227 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+*#ˈundet͡ʃi# | 230 : j > ∅ / [+cons,+front] __
+*#ˈundet͡ʃj̊# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈundet͡ʃj# | 310 : {w;w̥;j̊} > {u;w;j} 
 Final form : *#ˈundet͡ʃj#

@@ -2,13 +2,13 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 #kwˈɑːrtum# >>> *#kˈart# ( GOLD : #pˈatrulea̯#) :
 k w ˈɑː r t u m 
 *#kwˈaːrtum# | 13 : [+lo,+back] > [-back,+front] 
-*#kwˈaːrtu# | 36 : m > ∅ / [-stres] __ #
-*#kˈaːrtu# | 75 : w > ∅ / # ( i n ) ( [-syl] )* k __ [+syl,+prim,+lo,+front] [+voi]
-*#kˈartu# | 124 : [+syl] > [-long,-splng] 
+*#kwˈaːrtu# | 37 : m > ∅ / [-stres] __ #
+*#kˈaːrtu# | 77 : w > ∅ / # ( i n ) ( [-syl] )* k __ [+syl,+prim,+lo,+front] [+voi]
+*#kˈartu# | 127 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#kˈartu#
 Balkan Romance stage form : *#kˈartu#
-*#kˈaɾtu# | 166 : r > ɾ 
-*#kˈartu# | 299 : ɾ > r 
-*#kˈartw̥# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kˈart# | 307 : w̥ > ∅ / [-syl] __ #
+*#kˈaɾtu# | 169 : r > ɾ 
+*#kˈartu# | 300 : ɾ > r 
+*#kˈartw̥# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kˈart# | 308 : w̥ > ∅ / [-syl] __ #
 Final form : *#kˈart#

@@ -3,27 +3,27 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 k w ˌɑ d r ɑː ɡ ˈeː s i m ɑ 
 *#kwˌadraːɡˈeːsima# | 13 : [+lo,+back] > [-back,+front] 
 *#kwadraːɡˈeːsima# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kwarraːɡˈeːsima# | 30 : d > r / [+syl,+lo] __ r
-*#kβarraːɡˈeːsima# | 91 : w > β / __ [-cons]
-*#pβarraːɡˈeːsima# | 106 : k > p / __ β [-cons,+lo]
-*#pβarraːɡˈeːsema# | 120 : [+syl,-long,+hi,-back] > [-hi] 
-*#pβarraɡˈesema# | 124 : [+syl] > [-long,-splng] 
-*#parraɡˈesema# | 158 : β > ∅ 
-*#parrad͡ʒˈesema# | 163 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
+*#kwarraːɡˈeːsima# | 31 : d > r / [+syl,+lo] __ r
+*#kβarraːɡˈeːsima# | 94 : w > β / __ [-cons]
+*#pβarraːɡˈeːsima# | 109 : k > p / __ β [-cons,+lo]
+*#pβarraːɡˈeːsema# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#pβarraɡˈesema# | 127 : [+syl] > [-long,-splng] 
+*#parraɡˈesema# | 161 : β > ∅ 
+*#parrad͡ʒˈesema# | 166 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
 Balkan Romance stage form : *#parrad͡ʒˈesema#
 Balkan Romance stage form : *#parrad͡ʒˈesema#
-*#paɾɾad͡ʒˈesema# | 166 : r > ɾ 
-*#parrad͡ʒˈesema# | 167 : ɾ ɾ > r r 
-*#parrad͡ʒˈɛsema# | 197 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas] )* [+syl,-hi,-back]
-*#parrad͡ʒˈɛasema# | 201 : ∅ > a / [+prim,-tense] __
-*#parrad͡ʒˈɛˈasema# | 202 : a > ˈa / [-tense,+stres] __
-*#parrad͡ʒɛ̯ˈasema# | 204 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
-*#parrad͡ʒe̯ˈasema# | 205 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#parrad͡ʒe̯ˈasemə# | 219 : [-cons,+lo,-stres,-long] > ə / @ __ #
-*#pərrəd͡ʒe̯ˈasemə# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
-*#pərrəd͡ʒe̯ˈasimə# | 257 : e > i / [+cons] __ [+cons,+nas]
-*#pərrəd͡ʒˈesimə# | 284 : {e̯ a;e̯ ˈa} > {e;ˈe} / __ ( [-syl] )* [+syl,+front,-lo,-back]
-*#pəɾəd͡ʒˈesimə# | 294 : r r > ɾ 
-*#pərəd͡ʒˈesimə# | 299 : ɾ > r 
-*#pərəd͡ʒˈesemə# | 345 : i > e / s __ m
+*#paɾɾad͡ʒˈesema# | 169 : r > ɾ 
+*#parrad͡ʒˈesema# | 170 : ɾ ɾ > r r 
+*#parrad͡ʒˈɛsema# | 200 : [+syl,-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] )* [+syl,-hi,-back]
+*#parrad͡ʒˈɛasema# | 202 : ∅ > a / [+prim,-tense] __
+*#parrad͡ʒˈɛˈasema# | 203 : a > ˈa / [-tense,+stres] __
+*#parrad͡ʒɛ̯ˈasema# | 205 : [-cons,-tense] > [-syl,0stres,0prim] / __ [+syl]
+*#parrad͡ʒe̯ˈasema# | 206 : [-syl,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#parrad͡ʒe̯ˈasemə# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ #
+*#pərrəd͡ʒe̯ˈasemə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
+*#pərrəd͡ʒe̯ˈasimə# | 258 : e > i / [+cons] __ [+cons,+nas]
+*#pərrəd͡ʒˈesimə# | 285 : {e̯ a;e̯ ˈa} > {e;ˈe} / __ ( [-syl] )* [+syl,+front,-lo,-back]
+*#pəɾəd͡ʒˈesimə# | 295 : r r > ɾ 
+*#pərəd͡ʒˈesimə# | 300 : ɾ > r 
+*#pərəd͡ʒˈesemə# | 346 : i > e / s __ m
 Final form : *#pərəd͡ʒˈesemə#

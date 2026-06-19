@@ -2,19 +2,19 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 #wˌiːɡˈinti# >>> *#ved͡ʒˈint͡sj# ( GOLD : #dowəzˈet͡ʃj#) :
 w ˌiː ɡ ˈi n t i 
 *#wiːɡˈinti# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#βiːɡˈinti# | 91 : w > β / __ [-cons]
-*#βiːɡˈintiː# | 119 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#βiːɡˈentiː# | 120 : [+syl,-long,+hi,-back] > [-hi] 
-*#βiɡˈenti# | 124 : [+syl] > [-long,-splng] 
-*#viɡˈenti# | 144 : β > v / # ( e n ) ( k o n ) ( r e ) __
-*#vid͡ʒˈenti# | 163 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
+*#βiːɡˈinti# | 94 : w > β / __ [-cons]
+*#βiːɡˈintiː# | 122 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#βiːɡˈentiː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#βiɡˈenti# | 127 : [+syl] > [-long,-splng] 
+*#viɡˈenti# | 147 : β > v / # ( e n ) ( k o n ) ( r e ) __
+*#vid͡ʒˈenti# | 166 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
 Balkan Romance stage form : *#vid͡ʒˈenti#
 Balkan Romance stage form : *#vid͡ʒˈenti#
-*#ved͡ʒˈenti# | 225 : i > e / [+cons] __ [+cons,+delrel]
-*#ved͡ʒˈentji# | 226 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
-*#ved͡ʒˈent͡sji# | 230 : [-cont,+ant,+cor,-delrel,-son] > [+delrel,+strid,-cont,+cons,0tense] / __ j
-*#ved͡ʒˈent͡si# | 232 : j > ∅ / [+delrel] __
-*#ved͡ʒˈint͡si# | 261 : ˈe > ˈi / __ [+cons,+nas] [-nas]
-*#ved͡ʒˈint͡sj̊# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ved͡ʒˈint͡sj# | 309 : {w;w̥;j̊} > {u;w;j} 
+*#ved͡ʒˈenti# | 226 : i > e / [+cons] __ [+cons,+delrel]
+*#ved͡ʒˈentji# | 227 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+*#ved͡ʒˈent͡sji# | 231 : [-cont,+ant,+cor,-delrel,-son] > [+delrel,+strid,-cont,+cons,0tense] / __ j
+*#ved͡ʒˈent͡si# | 233 : j > ∅ / [+delrel] __
+*#ved͡ʒˈint͡si# | 262 : ˈe > ˈi / __ [+cons,+nas] [-nas]
+*#ved͡ʒˈint͡sj̊# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ved͡ʒˈint͡sj# | 310 : {w;w̥;j̊} > {u;w;j} 
 Final form : *#ved͡ʒˈint͡sj#

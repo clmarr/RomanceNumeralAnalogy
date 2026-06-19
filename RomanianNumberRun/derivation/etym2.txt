@@ -2,10 +2,10 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 #ˌuːnum# >>> *#un# ( GOLD : #un#) :
 ˌuː n u m 
 *#uːnum# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#uːnu# | 36 : m > ∅ / [-stres] __ #
-*#unu# | 124 : [+syl] > [-long,-splng] 
+*#uːnu# | 37 : m > ∅ / [-stres] __ #
+*#unu# | 127 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#unu#
 Balkan Romance stage form : *#unu#
-*#unw̥# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#un# | 307 : w̥ > ∅ / [-syl] __ #
+*#unw̥# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#un# | 308 : w̥ > ∅ / [-syl] __ #
 Final form : *#un#

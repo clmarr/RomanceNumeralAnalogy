@@ -3,21 +3,21 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 d ˌi m ˈe d i u m 
 *#dˌimˈedjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#dimˈedjum# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#dimˈedju# | 36 : m > ∅ / [-stres] __ #
-*#dimˈɛdju# | 118 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#demˈɛdju# | 120 : [+syl,-long,+hi,-back] > [-hi] 
-*#demˈɛddju# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#demˈɛdd͡ʒju# | 131 : {d;t} > {d͡ʒ;t͡ʃ} / __ j
-*#demˈɛdd͡ʒu# | 134 : j > ∅ / [+delrel] __
-*#demˈɛdd͡zu# | 137 : {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ( [+son,-syl] )* __
-*#demˈɛd͡zu# | 161 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
+*#dimˈedju# | 37 : m > ∅ / [-stres] __ #
+*#dimˈɛdju# | 121 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#demˈɛdju# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#demˈɛddju# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#demˈɛdd͡ʒju# | 134 : {d;t} > {d͡ʒ;t͡ʃ} / __ j
+*#demˈɛdd͡ʒu# | 137 : j > ∅ / [+delrel] __
+*#demˈɛdd͡zu# | 140 : {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ( [+son,-syl] )* __
+*#demˈɛd͡zu# | 164 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
 Balkan Romance stage form : *#demˈɛd͡zu#
 Balkan Romance stage form : *#demˈɛd͡zu#
-*#demjˈɛd͡zu# | 172 : ∅ > j / [-cons] [+cons] __ [-cons,-tense]
-*#demjˈed͡zu# | 175 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dimjˈed͡zu# | 257 : e > i / [+cons] __ [+cons,+nas]
-*#dimjˈezu# | 271 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-*#dimjˈezw̥# | 304 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#dimjˈez# | 307 : w̥ > ∅ / [-syl] __ #
-*#demjˈez# | 343 : i > e / # [+cons,-nas] __ [+nas] [+cont,-lo]
+*#demjˈɛd͡zu# | 175 : ∅ > j / [-cons] [+cons] __ [-cons,-tense]
+*#demjˈed͡zu# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dimjˈed͡zu# | 258 : e > i / [+cons] __ [+cons,+nas]
+*#dimjˈezu# | 272 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+*#dimjˈezw̥# | 305 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#dimjˈez# | 308 : w̥ > ∅ / [-syl] __ #
+*#demjˈez# | 344 : i > e / # [+cons,-nas] __ [+nas] [+cont,-lo]
 Final form : *#demjˈez#

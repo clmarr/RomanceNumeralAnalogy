@@ -3,14 +3,14 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 ˌo k t ɑː ɡ ˈi n t ɑ m 
 *#ˌoktaːɡˈintam# | 13 : [+lo,+back] > [-back,+front] 
 *#oktaːɡˈintam# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#oktaːɡˈinta# | 36 : m > ∅ / [-stres] __ #
-*#optaːɡˈinta# | 103 : k > p / __ t
-*#optaːɡˈenta# | 120 : [+syl,-long,+hi,-back] > [-hi] 
-*#optaɡˈenta# | 124 : [+syl] > [-long,-splng] 
-*#optad͡ʒˈenta# | 163 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
+*#oktaːɡˈinta# | 37 : m > ∅ / [-stres] __ #
+*#optaːɡˈinta# | 106 : k > p / __ t
+*#optaːɡˈenta# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#optaɡˈenta# | 127 : [+syl] > [-long,-splng] 
+*#optad͡ʒˈenta# | 166 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
 Balkan Romance stage form : *#optad͡ʒˈenta#
 Balkan Romance stage form : *#optad͡ʒˈenta#
-*#optad͡ʒˈentə# | 219 : [-cons,+lo,-stres,-long] > ə / @ __ #
-*#optəd͡ʒˈentə# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
-*#optəd͡ʒˈintə# | 261 : ˈe > ˈi / __ [+cons,+nas] [-nas]
+*#optad͡ʒˈentə# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ #
+*#optəd͡ʒˈentə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
+*#optəd͡ʒˈintə# | 262 : ˈe > ˈi / __ [+cons,+nas] [-nas]
 Final form : *#optəd͡ʒˈintə#

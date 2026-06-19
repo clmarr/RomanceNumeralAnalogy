@@ -3,15 +3,15 @@ Derivation file for run '../RomanceNumeralAnalogy/RomanianNumberRun'; etymon num
 s ˌe k s ɑː ɡ ˈi n t ɑ m 
 *#sˌeksaːɡˈintam# | 13 : [+lo,+back] > [-back,+front] 
 *#seksaːɡˈintam# | 19 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#seksaːɡˈinta# | 36 : m > ∅ / [-stres] __ #
-*#sessaːɡˈinta# | 104 : k > s / [+syl,-stres] __ [+ant,+cor,-voi]
-*#sessaːɡˈenta# | 120 : [+syl,-long,+hi,-back] > [-hi] 
-*#sessaɡˈenta# | 124 : [+syl] > [-long,-splng] 
-*#sesaɡˈenta# | 161 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
-*#sesad͡ʒˈenta# | 163 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
+*#seksaːɡˈinta# | 37 : m > ∅ / [-stres] __ #
+*#sessaːɡˈinta# | 107 : k > s / [+syl,-stres] __ [+ant,+cor,-voi]
+*#sessaːɡˈenta# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#sessaɡˈenta# | 127 : [+syl] > [-long,-splng] 
+*#sesaɡˈenta# | 164 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
+*#sesad͡ʒˈenta# | 166 : ɡ > d͡ʒ / __ [+syl,-back,-lo]
 Balkan Romance stage form : *#sesad͡ʒˈenta#
 Balkan Romance stage form : *#sesad͡ʒˈenta#
-*#sesad͡ʒˈentə# | 219 : [-cons,+lo,-stres,-long] > ə / @ __ #
-*#sesəd͡ʒˈentə# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
-*#sesəd͡ʒˈintə# | 261 : ˈe > ˈi / __ [+cons,+nas] [-nas]
+*#sesad͡ʒˈentə# | 220 : [-cons,+lo,-stres,-long] > ə / @ __ #
+*#sesəd͡ʒˈentə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __ [-syl]
+*#sesəd͡ʒˈintə# | 262 : ˈe > ˈi / __ [+cons,+nas] [-nas]
 Final form : *#sesəd͡ʒˈintə#
