@@ -11,26 +11,26 @@ Early Gallo-Roman stage form : *#on̪d̪ɛce#
 *#ũn̪d̪ɛce# | 162 : [+round,-hi] > [+tense,+hi,+nas,-cons,-lat,+cont,0delrel] / __ [+nas]
 *#ũn̪d̪ɛt͡sʲe# | 176 : {c;ɟ} > {t͡sʲ;d͡ʒ} 
 Middle Gallo-Roman stage form : *#ũn̪d̪ɛt͡sʲe#
-*#ũn̪d̪ət͡sʲe# | 257 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+syl] ( [-syl] )* #
-*#ən̪d̪ət͡sʲe# | 261 : [-stres,-lo,+syl] > ə / __ [-syl]
-*#ən̪d̪ət͡sʲə# | 262 : [-stres,-lo,+syl] > ə / __ #
-*#ə̯n̪d̪ə̯t͡sʲə̯# | 269 : ə > ə̯ 
-*#ən̪d̪ə̯t͡sʲə̯# | 281 : ə̯ > ə / __ [+nas,+cons] [-son]
-*#ən̪d̪ə̯t͡sʲə# | 288 : ə̯ > ə / ə̯ ( [-syl] )* __ #
-*#ən̪d̪t͡sʲə# | 294 : ə̯ > ∅ 
-*#ən̪d͡zə# | 298 : d̪ t͡sʲ > d͡z / __ ə
+*#ũn̪d̪ət͡sʲe# | 258 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+syl] ( [-syl] )* #
+*#ũn̪d̪ət͡sʲə# | 263 : [-stres,-lo,+syl,-nas] > ə / __ #
+*#ən̪d̪ət͡sʲə# | 264 : [-stres,-lo,+syl,+tense] > ə 
+*#ə̯n̪d̪ə̯t͡sʲə̯# | 270 : ə > ə̯ 
+*#ən̪d̪ə̯t͡sʲə̯# | 282 : ə̯ > ə / __ [+nas,+cons] [-son]
+*#ən̪d̪ə̯t͡sʲə# | 289 : ə̯ > ə / ə̯ ( [-syl] )* __ #
+*#ən̪d̪t͡sʲə# | 295 : ə̯ > ∅ 
+*#ən̪d͡zə# | 299 : d̪ t͡sʲ > d͡z / __ ə
 Later Gallo-Roman stage form : *#ən̪d͡zə#
-*#en̪d͡zə# | 514 : ə > e / __ [+nas] [-nas,+cons] ( [-syl] )* [+syl]
-*#ẽn̪d͡zə# | 519 : [+front,-hi,+syl] > [+nas] / __ [+nas,-syl]
+*#en̪d͡zə# | 515 : ə > e / __ [+nas] [-nas,+cons] ( [-syl] )* [+syl]
+*#ẽn̪d͡zə# | 520 : [+front,-hi,+syl] > [+nas] / __ [+nas,-syl]
 Old French I stage form : *#ẽn̪d͡zə#
-*#ɛ̃n̪d͡zə# | 567 : [+front,-hi,-lo,+syl,+nas] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ãn̪d͡zə# | 570 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+*#ɛ̃n̪d͡zə# | 568 : [+front,-hi,-lo,+syl,+nas] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ãn̪d͡zə# | 571 : [+nas,-hi,+syl,+front] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
 *#ãn̪zə# | 627 : [+delrel] > [+cont,0delrel] 
 Old French II stage form : *#ãn̪zə#
 *#ãːzə# | 663 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
 Middle French stage form : *#ãːzə#
-*#ãːzə̯# | 702 : ə > ə̯ / __ #
-*#ɑ̃ːzə̯# | 703 : [+lo,+long,+syl] > [+back,-front] 
+*#ãːzə̯# | 700 : ə > ə̯ / __ #
+*#ɑ̃ːzə̯# | 701 : [+lo,+long,+syl] > [+back,-front] 
 *#ɑ̃ːz# | 720 : ə̯ > ∅ 
-*#ɑ̃z# | 738 : [+syl,+long] > [-long,-splng] 
+*#ɑ̃z# | 736 : [+long] > [-long,-splng] 
 Final form : *#ɑ̃z#

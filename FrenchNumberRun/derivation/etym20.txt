@@ -8,8 +8,8 @@ Early Gallo-Roman stage form : *#t̪rˈeːi#
 *#t̪rˈiːj# | 187 : [+hi,-stres] > [-syl,0stres,0prim] / [+prim] __ #
 Middle Gallo-Roman stage form : *#t̪rˈiːj#
 Later Gallo-Roman stage form : *#t̪rˈiːj#
-*#t̪rˈij# | 452 : [+syl] > [-long,-splng] 
-*#t̪rˈi# | 470 : j > ∅ / [+hi,+front,+tense] __
+*#t̪rˈij# | 453 : [+syl] > [-long,-splng] 
+*#t̪rˈi# | 471 : j > ∅ / [+hi,+front,+tense] __
 Old French I stage form : *#t̪rˈi#
 Old French II stage form : *#t̪rˈi#
 Middle French stage form : *#t̪rˈi#

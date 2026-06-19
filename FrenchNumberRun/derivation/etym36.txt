@@ -14,23 +14,23 @@ Early Gallo-Roman stage form : *#sˌɛst̪ˈɑrʝo#
 *#sˌɛst̪ˈarʲo# | 193 : [+lo] > [+front,-back] 
 *#sˌɛst̪ˈaːrʲo# | 218 : [+prim] > [+long] / __ ( [+cons] ) [+syl]
 Middle Gallo-Roman stage form : *#sˌɛst̪ˈaːrʲo#
-*#sˌɛst̪jˈɛːro# | 260 : ˈaː rʲ > j ˈɛː r / [+syl] ( [-syl] )* __ [+syl] #
-*#sˌɛst̪jˈɛːrə# | 262 : [-stres,-lo,+syl] > ə / __ #
-*#sˌɛst̪jˈɛːrə̯# | 269 : ə > ə̯ 
-*#sˌɛst̪jˈɛːr# | 294 : ə̯ > ∅ 
-*#sˌɛst̪jˈie̯r# | 369 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
-*#sˌɛst̪ˈie̯r# | 389 : j > ∅ / [+cons] __ [+hi,+front,-round,+son] e̯
-*#sˌɨst̪ˈie̯r# | 420 : ˌɛ > ˌɨ / __ [+cor,-nas,+cont] [+cons,-nas]
-*#sˌɛst̪ˈie̯r# | 426 : {ˌɨ;ˌɯ} > {ˌɛ;ˌɔ} 
+*#sˌɛst̪jˈɛːro# | 261 : ˈaː rʲ > j ˈɛː r / [+syl] ( [-syl] )* __ [+syl] #
+*#sˌɛst̪jˈɛːrə# | 263 : [-stres,-lo,+syl,-nas] > ə / __ #
+*#sˌɛst̪jˈɛːrə̯# | 270 : ə > ə̯ 
+*#sˌɛst̪jˈɛːr# | 295 : ə̯ > ∅ 
+*#sˌɛst̪jˈie̯r# | 370 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
+*#sˌɛst̪ˈie̯r# | 390 : j > ∅ / [+cons] __ [+hi,+front,-round,+son] e̯
+*#sˌɨst̪ˈie̯r# | 421 : ˌɛ > ˌɨ / __ [+cor,-nas,+cont] [+cons,-nas]
+*#sˌɛst̪ˈie̯r# | 427 : {ˌɨ;ˌɯ} > {ˌɛ;ˌɔ} 
 Later Gallo-Roman stage form : *#sˌɛst̪ˈie̯r#
 Old French I stage form : *#sˌɛst̪ˈie̯r#
-*#sˌɛxt̪ˈie̯r# | 587 : [-distr,+strid,-voi] > x / [-cons] __ [+cons]
-*#sˌɛxt̪jˈer# | 590 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+*#sˌɛxt̪ˈie̯r# | 588 : [-distr,+strid,-voi] > x / [-cons] __ [+cons]
+*#sˌɛxt̪jˈer# | 591 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
 *#sˌɛːt̪jˈer# | 633 : [+syl] x > [+long] ∅/ __ [+cons]
 Old French II stage form : *#sˌɛːt̪jˈer#
 Middle French stage form : *#sˌɛːt̪jˈer#
-*#sˌɛːt̪jˈeɹ# | 711 : r > ɹ / [-cons] __ #
-*#sˌɛːt̪jˈe# | 731 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
-*#sɛːt̪je# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-*#sɛt̪je# | 738 : [+syl,+long] > [-long,-splng] 
+*#sˌɛːt̪jˈeɹ# | 704 : r > ɹ / [-cons] __ #
+*#sˌɛːt̪jˈe# | 706 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
+*#sɛːt̪je# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
+*#sɛt̪je# | 736 : [+long] > [-long,-splng] 
 Final form : *#sɛt̪je#

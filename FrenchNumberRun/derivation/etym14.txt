@@ -6,12 +6,12 @@ Early Gallo-Roman stage form : ...
 Middle Gallo-Roman stage form : ...
 Later Gallo-Roman stage form : ...
 Old French I stage form : ...
-*#səkˈũn̪t̪# | 608 : [+syl,-front] > [+nas] / __ [+nas,-syl]
+*#səkˈũn̪t̪# | 609 : [+syl,-front] > [+nas] / __ [+nas,-syl]
 Old French II stage form : *#səkˈũn̪t̪#
 *#səkˈũːt̪# | 663 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
 Middle French stage form : *#səkˈũːt̪#
 *#səkˈũː# | 718 : [-son] > ∅ / __ #
-*#səkũː# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-*#səkũ# | 738 : [+syl,+long] > [-long,-splng] 
-*#səkɔ̃# | 739 : ũ > ɔ̃ 
+*#səkũː# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
+*#səkũ# | 736 : [+long] > [-long,-splng] 
+*#səkɔ̃# | 737 : ũ > ɔ̃ 
 Final form : *#səkɔ̃#

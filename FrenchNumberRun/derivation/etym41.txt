@@ -17,19 +17,19 @@ Early Gallo-Roman stage form : *#ˌɔxtˈɑːo#
 *#ˌɔçtˈaːw# | 202 : [+back,+hi,+cont,-son] > [-back,+front] / __ [+cor]
 *#ˌɔçtʲˈaːw# | 210 : [+cor,+ant,-lat] > [+hi,+front] / [+hi,+front,+cons] __
 *#ˌuçtʲˈaːw# | 226 : ˌɔ > ˌu / __ [+cons,+hi,+front] [+cons,+hi,+front]
-*#ˌuçtʲˈaw# | 230 : [+syl] > [-long,-splng] / __ w
-*#ˌuçtʲˈɔw# | 231 : {a;ˌa;ˈa} > {ɔ;ˌɔ;ˈɔ} / __ w
+*#ˌuçtʲˈaw# | 231 : [+syl] > [-long,-splng] / __ [-syl,+back,+hi,+round]
+*#ˌuçtʲˈɔw# | 232 : {a;ˌa;ˈa} > {ɔ;ˌɔ;ˈɔ} / __ [-syl,+back,+hi,+round]
 Middle Gallo-Roman stage form : *#ˌuçtʲˈɔw#
-*#ˌʉçtʲˈɔw# | 370 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+*#ˌʉçtʲˈɔw# | 371 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
 Later Gallo-Roman stage form : *#ˌʉçtʲˈɔw#
-*#ˌʉʝtʲˈɔw# | 463 : ç > ʝ 
-*#ˌʉjtʲˈɔw# | 469 : ʝ > j 
-*#ˌyjtʲˈɔw# | 506 : [+hi,+round,-back] > [+front] 
+*#ˌʉʝtʲˈɔw# | 464 : ç > ʝ 
+*#ˌʉjtʲˈɔw# | 470 : ʝ > j 
+*#ˌyjtʲˈɔw# | 507 : [+hi,+round,-back] > [+front] 
 Old French I stage form : *#ˌyjtʲˈɔw#
-*#ˌyjtʲˈu# | 606 : [-hi,-lo,+back,+round] w > [+hi,+tense,-cons,-lat,+cont,0delrel] ∅
-*#ɥˌitʲˈu# | 616 : [+front,+round,+syl,+hi,βstres,ɣprim] [-round,-syl,-cons] > [-syl,0stres,0prim] [+syl,βstres,ɣprim,+son]
+*#ˌyjtʲˈu# | 607 : [-hi,-lo,+back,+round] [+hi,+back,+round,-syl] > [+hi,+tense,-cons,-lat,+cont,0delrel] ∅
+*#ɥˌitʲˈu# | 617 : [+front,+round,+syl,+hi,βstres,ɣprim] [-round,-syl,-cons] > [-syl,0stres,0prim] [+syl,βstres,ɣprim,+son]
 Old French II stage form : *#ɥˌitʲˈu#
 *#ɥˌitˈu# | 657 : [+ant,+front] > [-front,-hi] 
 Middle French stage form : *#ɥˌitˈu#
-*#ɥitu# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+*#ɥitu# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
 Final form : *#ɥitu#

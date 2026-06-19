@@ -13,22 +13,22 @@ Early Gallo-Roman stage form : *#prˌimˈɑrʝo#
 *#prˌimˈarʲo# | 193 : [+lo] > [+front,-back] 
 *#prˌimˈaːrʲo# | 218 : [+prim] > [+long] / __ ( [+cons] ) [+syl]
 Middle Gallo-Roman stage form : *#prˌimˈaːrʲo#
-*#prˌimjˈɛːro# | 260 : ˈaː rʲ > j ˈɛː r / [+syl] ( [-syl] )* __ [+syl] #
-*#prˌimjˈɛːrə# | 262 : [-stres,-lo,+syl] > ə / __ #
-*#prˌimjˈɛːrə̯# | 269 : ə > ə̯ 
-*#prˌimjˈɛːr# | 294 : ə̯ > ∅ 
-*#prˌimjˈie̯r# | 369 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
-*#prˌimˈie̯r# | 389 : j > ∅ / [+cons] __ [+hi,+front,-round,+son] e̯
+*#prˌimjˈɛːro# | 261 : ˈaː rʲ > j ˈɛː r / [+syl] ( [-syl] )* __ [+syl] #
+*#prˌimjˈɛːrə# | 263 : [-stres,-lo,+syl,-nas] > ə / __ #
+*#prˌimjˈɛːrə̯# | 270 : ə > ə̯ 
+*#prˌimjˈɛːr# | 295 : ə̯ > ∅ 
+*#prˌimjˈie̯r# | 370 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
+*#prˌimˈie̯r# | 390 : j > ∅ / [+cons] __ [+hi,+front,-round,+son] e̯
 Later Gallo-Roman stage form : *#prˌimˈie̯r#
 Old French I stage form : *#prˌimˈie̯r#
-*#prˌimjˈer# | 590 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-*#prˌĩmjˈer# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+*#prˌimjˈer# | 591 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+*#prˌĩmjˈer# | 621 : [+syl] > [+nas] / __ [+nas,+cons]
 Old French II stage form : *#prˌĩmjˈer#
 *#prˌimjˈer# | 649 : [+nas,+front,+hi,+syl] > [-nas] / __ [+nas,+cons] [-cons]
 Middle French stage form : *#prˌimjˈer#
-*#prˌimjˈeɹ# | 711 : r > ɹ / [-cons] __ #
-*#prˌimjˈe# | 731 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
-*#pʀˌimjˈe# | 735 : r > ʀ 
-*#pʀimje# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-*#pʁimje# | 744 : ʀ > ʁ 
+*#prˌimjˈeɹ# | 704 : r > ɹ / [-cons] __ #
+*#prˌimjˈe# | 706 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
+*#pʀˌimjˈe# | 733 : r > ʀ 
+*#pʀimje# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
+*#pʁimje# | 742 : ʀ > ʁ 
 Final form : *#pʁimje#

@@ -14,31 +14,31 @@ Early Gallo-Roman stage form : *#t̪rˌicˈeːsemo#
 *#t̪rˌicˈiːzemo# | 160 : ˈeː > ˈiː / [+cons,+hi,+front] __
 *#t̪rˌit͡sʲˈiːzemo# | 176 : {c;ɟ} > {t͡sʲ;d͡ʒ} 
 Middle Gallo-Roman stage form : *#t̪rˌit͡sʲˈiːzemo#
-*#t̪rˌit͡sʲˈiːzəmo# | 257 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+syl] ( [-syl] )* #
-*#t̪rˌit͡sʲˈiːzəmə# | 262 : [-stres,-lo,+syl] > ə / __ #
-*#t̪rˌit͡sʲˈiːzə̯mə̯# | 269 : ə > ə̯ 
-*#t̪rˌit͡sʲˈiːzə̯mə# | 288 : ə̯ > ə / ə̯ ( [-syl] )* __ #
-*#t̪rˌit͡sʲˈiːzmə# | 294 : ə̯ > ∅ 
-*#t̪rˌid͡zʲˈiːzmə# | 346 : [-voi] > [+voi] / [-cons] __ [-cons]
-*#t̪rˌid͡zʲˈizmə# | 350 : [+syl] > [-long,-splng] / __ [-syl] [+cons,+nas]
-*#t̪rˌijd͡zˈizmə# | 382 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ;d͡ʒʲ;t͡ʃʲ} > {j t̪;j d̪;j s;j z;j n̪;j d͡z;j d͡ʒ;j t͡ʃ} 
-*#t̪rˌijd͡zʲˈizmə# | 387 : [+cor] > [+hi,+front] / [+front,+hi] __ [+hi,+front]
-*#t̪rˌijd͡zˈizmə# | 388 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ;lʲ;rʲ;d͡ʒʲ;t͡ʃʲ} > {t̪;d̪;s;z;n̪;d͡z;l;r;d͡ʒ;t͡ʃ} / [+front,+tense,-lo,+syl] [+hi] __
-*#t̪rˌijzˈizmə# | 391 : d͡z > z / [-cons] __ [-cons]
+*#t̪rˌit͡sʲˈiːzəmo# | 258 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+syl] ( [-syl] )* #
+*#t̪rˌit͡sʲˈiːzəmə# | 263 : [-stres,-lo,+syl,-nas] > ə / __ #
+*#t̪rˌit͡sʲˈiːzə̯mə̯# | 270 : ə > ə̯ 
+*#t̪rˌit͡sʲˈiːzə̯mə# | 289 : ə̯ > ə / ə̯ ( [-syl] )* __ #
+*#t̪rˌit͡sʲˈiːzmə# | 295 : ə̯ > ∅ 
+*#t̪rˌid͡zʲˈiːzmə# | 347 : [-voi] > [+voi] / [-cons] __ [-cons]
+*#t̪rˌid͡zʲˈizmə# | 351 : [+syl] > [-long,-splng] / __ [-syl] [+cons,+nas]
+*#t̪rˌijd͡zˈizmə# | 383 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ;d͡ʒʲ;t͡ʃʲ} > {j t̪;j d̪;j s;j z;j n̪;j d͡z;j d͡ʒ;j t͡ʃ} 
+*#t̪rˌijd͡zʲˈizmə# | 388 : [+cor] > [+hi,+front] / [+front,+hi] __ [+hi,+front]
+*#t̪rˌijd͡zˈizmə# | 389 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ;lʲ;rʲ;d͡ʒʲ;t͡ʃʲ} > {t̪;d̪;s;z;n̪;d͡z;l;r;d͡ʒ;t͡ʃ} / [+front,+tense,-lo,+syl] [+hi] __
+*#t̪rˌijzˈizmə# | 392 : d͡z > z / [-cons] __ [-cons]
 Later Gallo-Roman stage form : *#t̪rˌijzˈizmə#
-*#t̪rˌizˈizmə# | 470 : j > ∅ / [+hi,+front,+tense] __
+*#t̪rˌizˈizmə# | 471 : j > ∅ / [+hi,+front,+tense] __
 Old French I stage form : *#t̪rˌizˈizmə#
-*#t̪rˌizˈiːzmə# | 548 : [+prim] > [+long] / @ __ z [+cons]
-*#t̪rˌizˈiːmə# | 550 : z > ∅ / __ [+cons]
-*#t̪rˌizˈĩːmə# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+*#t̪rˌizˈiːzmə# | 549 : [+prim] > [+long] / @ __ z [+cons]
+*#t̪rˌizˈiːmə# | 551 : z > ∅ / __ [+cons]
+*#t̪rˌizˈĩːmə# | 621 : [+syl] > [+nas] / __ [+nas,+cons]
 Old French II stage form : *#t̪rˌizˈĩːmə#
 *#t̪rˌizˈiːmə# | 649 : [+nas,+front,+hi,+syl] > [-nas] / __ [+nas,+cons] [-cons]
 Middle French stage form : *#t̪rˌizˈiːmə#
-*#t̪rˌizˈiːmə̯# | 702 : ə > ə̯ / __ #
-*#t̪rˌiːzˈiːmə̯# | 707 : [+syl] > [+long] / __ z [+syl]
+*#t̪rˌizˈiːmə̯# | 700 : ə > ə̯ / __ #
+*#t̪rˌiːzˈiːmə̯# | 709 : [+syl] > [+long] / __ z [+syl]
 *#t̪rˌiːzˈiːm# | 720 : ə̯ > ∅ 
-*#t̪ʀˌiːzˈiːm# | 735 : r > ʀ 
-*#t̪ʀiːziːm# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-*#t̪ʀizim# | 738 : [+syl,+long] > [-long,-splng] 
-*#t̪ʁizim# | 744 : ʀ > ʁ 
+*#t̪ʀˌiːzˈiːm# | 733 : r > ʀ 
+*#t̪ʀiːziːm# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
+*#t̪ʀizim# | 736 : [+long] > [-long,-splng] 
+*#t̪ʁizim# | 742 : ʀ > ʁ 
 Final form : *#t̪ʁizim#

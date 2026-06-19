@@ -11,18 +11,18 @@ Late Latin stage form : *#kwˈɑrt̪o#
 Early Gallo-Roman stage form : *#kwˈɑrt̪o#
 *#kwˈart̪o# | 193 : [+lo] > [+front,-back] 
 Middle Gallo-Roman stage form : *#kwˈart̪o#
-*#kwˈart̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
-*#kwˈart̪ə̯# | 269 : ə > ə̯ 
-*#kwˈart̪# | 294 : ə̯ > ∅ 
+*#kwˈart̪ə# | 263 : [-stres,-lo,+syl,-nas] > ə / __ #
+*#kwˈart̪ə̯# | 270 : ə > ə̯ 
+*#kwˈart̪# | 295 : ə̯ > ∅ 
 Later Gallo-Roman stage form : *#kwˈart̪#
 Old French I stage form : *#kwˈart̪#
-*#kˈart̪# | 604 : [-syl,+round] > ∅ / [+back,-cont] __
+*#kˈart̪# | 605 : [-syl,+round] > ∅ / [+back,-cont] __
 Old French II stage form : *#kˈart̪#
 Middle French stage form : *#kˈart̪#
-*#kˈaɹt̪# | 712 : r > ɹ / [-cons] __ [+cons]
+*#kˈaɹt̪# | 705 : r > ɹ / [-cons] __ [+cons]
 *#kˈaɹ# | 718 : [-son] > ∅ / __ #
-*#kˈar# | 733 : ɹ > r 
-*#kˈaʀ# | 735 : r > ʀ 
-*#kaʀ# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-*#kaʁ# | 744 : ʀ > ʁ 
+*#kˈar# | 731 : ɹ > r 
+*#kˈaʀ# | 733 : r > ʀ 
+*#kaʀ# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
+*#kaʁ# | 742 : ʀ > ʁ 
 Final form : *#kaʁ#

@@ -6,16 +6,16 @@ Early Gallo-Roman stage form : ...
 Middle Gallo-Roman stage form : ...
 Later Gallo-Roman stage form : ...
 Old French I stage form : ...
-*#kˌat̪rəvˈin̪t̪# | 604 : [-syl,+round] > ∅ / [+back,-cont] __
-*#kˌat̪rəvˈĩn̪t̪# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+*#kˌat̪rəvˈin̪t̪# | 605 : [-syl,+round] > ∅ / [+back,-cont] __
+*#kˌat̪rəvˈĩn̪t̪# | 621 : [+syl] > [+nas] / __ [+nas,+cons]
 Old French II stage form : *#kˌat̪rəvˈĩn̪t̪#
 *#kˌat̪rəvˈẽn̪t̪# | 651 : [+nas,+front,-round,-lo,+syl] > [-hi] 
 *#kˌat̪rəvˈẽːt̪# | 663 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
 Middle French stage form : *#kˌat̪rəvˈẽːt̪#
-*#kˌat̪rəvˈɛ̃ːt̪# | 688 : [+front,-lo,+nas,+syl,-round] > [-hi,-tense,-cons,-lat,+cont,0delrel] / [+cons] __
+*#kˌat̪rəvˈɛ̃ːt̪# | 686 : [+front,-lo,+nas,+syl,-round] > [-hi,-tense,-cons,-lat,+cont,0delrel] / [+cons] __
 *#kˌat̪rəvˈɛ̃ː# | 718 : [-son] > ∅ / __ #
-*#kˌat̪ʀəvˈɛ̃ː# | 735 : r > ʀ 
-*#kat̪ʀəvɛ̃ː# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-*#kat̪ʀəvɛ̃# | 738 : [+syl,+long] > [-long,-splng] 
-*#kat̪ʁəvɛ̃# | 744 : ʀ > ʁ 
+*#kˌat̪ʀəvˈɛ̃ː# | 733 : r > ʀ 
+*#kat̪ʀəvɛ̃ː# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
+*#kat̪ʀəvɛ̃# | 736 : [+long] > [-long,-splng] 
+*#kat̪ʁəvɛ̃# | 742 : ʀ > ʁ 
 Final form : *#kat̪ʁəvɛ̃#

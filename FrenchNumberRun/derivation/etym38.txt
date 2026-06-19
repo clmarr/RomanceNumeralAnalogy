@@ -8,25 +8,25 @@ Late Latin stage form : *#sˈɛpt̪emo#
 Early Gallo-Roman stage form : *#sˈɛpt̪emo#
 *#sˈɛt̪t̪emo# | 195 : [+lab,-nas,-round,-cont] > t̪ / __ [-cont,+cor,-voi]
 Middle Gallo-Roman stage form : *#sˈɛt̪t̪emo#
-*#sˈɛt̪t̪əmo# | 257 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+syl] ( [-syl] )* #
-*#sˈɛt̪t̪əmə# | 262 : [-stres,-lo,+syl] > ə / __ #
-*#sˈɛt̪t̪ə̯mə̯# | 269 : ə > ə̯ 
-*#sˈɛt̪t̪ə̯mə# | 288 : ə̯ > ə / ə̯ ( [-syl] )* __ #
-*#sˈɛt̪t̪mə# | 294 : ə̯ > ∅ 
-*#sˈɛt̪mə# | 335 : {d̪ d̪;d̪ d̪ʲ;t̪ t̪;t̪ t̪ʲ;ɡ ɡ;k k;r r;r rʲ;b b;b bʲ;p p;p pʲ} > {d̪;d̪ʲ;t̪;t̪ʲ;ɡ;k;r;rʲ;b;bʲ;p;pʲ} / __ [+cons,+nas]
-*#sˈɛd̪mə# | 348 : t̪ > d̪ / __ [+nas,+cons]
-*#sˈɛðmə# | 374 : d̪ > ð / [+syl] __ [+nas]
+*#sˈɛt̪t̪əmo# | 258 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+syl] ( [-syl] )* #
+*#sˈɛt̪t̪əmə# | 263 : [-stres,-lo,+syl,-nas] > ə / __ #
+*#sˈɛt̪t̪ə̯mə̯# | 270 : ə > ə̯ 
+*#sˈɛt̪t̪ə̯mə# | 289 : ə̯ > ə / ə̯ ( [-syl] )* __ #
+*#sˈɛt̪t̪mə# | 295 : ə̯ > ∅ 
+*#sˈɛt̪mə# | 336 : {d̪ d̪;d̪ d̪ʲ;t̪ t̪;t̪ t̪ʲ;ɡ ɡ;k k;r r;r rʲ;b b;b bʲ;p p;p pʲ} > {d̪;d̪ʲ;t̪;t̪ʲ;ɡ;k;r;rʲ;b;bʲ;p;pʲ} / __ [+cons,+nas]
+*#sˈɛd̪mə# | 349 : t̪ > d̪ / __ [+nas,+cons]
+*#sˈɛðmə# | 375 : d̪ > ð / [+syl] __ [+nas]
 Later Gallo-Roman stage form : *#sˈɛðmə#
 Old French I stage form : *#sˈɛðmə#
-*#sˈɛzmə# | 538 : ð > z / __ m
-*#sˈɛːzmə# | 548 : [+prim] > [+long] / @ __ z [+cons]
-*#sˈɛːmə# | 550 : z > ∅ / __ [+cons]
-*#sˈɛ̃ːmə# | 609 : [+syl,-hi] > [+nas] / __ [+nas,-syl]
+*#sˈɛzmə# | 539 : ð > z / __ m
+*#sˈɛːzmə# | 549 : [+prim] > [+long] / @ __ z [+cons]
+*#sˈɛːmə# | 551 : z > ∅ / __ [+cons]
+*#sˈɛ̃ːmə# | 610 : [+syl,-hi] > [+nas] / __ [+nas,-syl]
 Old French II stage form : *#sˈɛ̃ːmə#
 Middle French stage form : *#sˈɛ̃ːmə#
-*#sˈɛːmə# | 690 : [+front,-lo,+nas,+syl] > [-nas] / __ [+nas,+cons] [-cons]
-*#sˈɛːmə̯# | 702 : ə > ə̯ / __ #
+*#sˈɛːmə# | 688 : [+front,-lo,+nas,+syl] > [-nas] / __ [+nas,+cons] [-cons]
+*#sˈɛːmə̯# | 700 : ə > ə̯ / __ #
 *#sˈɛːm# | 720 : ə̯ > ∅ 
-*#sɛːm# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-*#sɛm# | 738 : [+syl,+long] > [-long,-splng] 
+*#sɛːm# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
+*#sɛm# | 736 : [+long] > [-long,-splng] 
 Final form : *#sɛm#

@@ -8,10 +8,10 @@ Early Gallo-Roman stage form : *#d̪ˈuːi#
 *#d̪ˈʉːj# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
 Middle Gallo-Roman stage form : *#d̪ˈʉːj#
 Later Gallo-Roman stage form : *#d̪ˈʉːj#
-*#d̪ˈʉj# | 452 : [+syl] > [-long,-splng] 
-*#d̪ˈyj# | 506 : [+hi,+round,-back] > [+front] 
+*#d̪ˈʉj# | 453 : [+syl] > [-long,-splng] 
+*#d̪ˈyj# | 507 : [+hi,+round,-back] > [+front] 
 Old French I stage form : *#d̪ˈyj#
-*#d̪ɥˈi# | 616 : [+front,+round,+syl,+hi,βstres,ɣprim] [-round,-syl,-cons] > [-syl,0stres,0prim] [+syl,βstres,ɣprim,+son]
+*#d̪ɥˈi# | 617 : [+front,+round,+syl,+hi,βstres,ɣprim] [-round,-syl,-cons] > [-syl,0stres,0prim] [+syl,βstres,ɣprim,+son]
 Old French II stage form : *#d̪ɥˈi#
 Middle French stage form : *#d̪ɥˈi#
 Final form : ...

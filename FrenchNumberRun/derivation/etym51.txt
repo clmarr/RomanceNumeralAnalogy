@@ -16,23 +16,23 @@ Early Gallo-Roman stage form : *#d̪wˈɔːðɛce#
 *#d̪ˈuo̯ðɛt͡sʲe# | 201 : w > ∅ / [+cons,-back] __
 *#d̪ˈʉo̯ðɛt͡sʲe# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
 Middle Gallo-Roman stage form : *#d̪ˈʉo̯ðɛt͡sʲe#
-*#d̪ˈʉo̯ðət͡sʲe# | 257 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+syl] ( [-syl] )* #
-*#d̪ˈʉo̯ðət͡sʲə# | 262 : [-stres,-lo,+syl] > ə / __ #
-*#d̪ˈʉo̯ðə̯t͡sʲə̯# | 269 : ə > ə̯ 
-*#d̪ˈʉo̯ðə̯t͡sʲə# | 288 : ə̯ > ə / ə̯ ( [-syl] )* __ #
-*#d̪ˈʉo̯ðt͡sʲə# | 294 : ə̯ > ∅ 
+*#d̪ˈʉo̯ðət͡sʲe# | 258 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+syl] ( [-syl] )* #
+*#d̪ˈʉo̯ðət͡sʲə# | 263 : [-stres,-lo,+syl,-nas] > ə / __ #
+*#d̪ˈʉo̯ðə̯t͡sʲə̯# | 270 : ə > ə̯ 
+*#d̪ˈʉo̯ðə̯t͡sʲə# | 289 : ə̯ > ə / ə̯ ( [-syl] )* __ #
+*#d̪ˈʉo̯ðt͡sʲə# | 295 : ə̯ > ∅ 
 Later Gallo-Roman stage form : *#d̪ˈʉo̯ðt͡sʲə#
-*#d̪ˈʉo̯t͡sʲə# | 495 : ð > ∅ / __ [-cont]
-*#d̪ˈyo̯t͡sʲə# | 506 : [+hi,+round,-back] > [+front] 
-*#d̪ˈye̯t͡sʲə# | 520 : o̯ > e̯ 
+*#d̪ˈʉo̯t͡sʲə# | 496 : [+cor,-son,+cont,+voi,-strid] > ∅ / __ [-cont]
+*#d̪ˈyo̯t͡sʲə# | 507 : [+hi,+round,-back] > [+front] 
+*#d̪ˈye̯t͡sʲə# | 521 : o̯ > e̯ 
 Old French I stage form : *#d̪ˈye̯t͡sʲə#
-*#d̪ˈøt͡sʲə# | 576 : [+hi,+round,+tense,+prim] e̯ > ˈø
+*#d̪ˈøt͡sʲə# | 577 : [+hi,+round,+tense,+prim] e̯ > ˈø
 *#d̪ˈøsʲə# | 627 : [+delrel] > [+cont,0delrel] 
 Old French II stage form : *#d̪ˈøsʲə#
 *#d̪ˈøsə# | 657 : [+ant,+front] > [-front,-hi] 
 Middle French stage form : *#d̪ˈøsə#
-*#d̪ˈøsə̯# | 702 : ə > ə̯ / __ #
+*#d̪ˈøsə̯# | 700 : ə > ə̯ / __ #
 *#d̪ˈøs# | 720 : ə̯ > ∅ 
 *#d̪ˈœs# | 724 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
-*#d̪œs# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+*#d̪œs# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
 Final form : *#d̪œs#

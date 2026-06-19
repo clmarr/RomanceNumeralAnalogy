@@ -9,9 +9,9 @@ d̪ ˈu a e̯
 Late Latin stage form : *#d̪ˈoɛ#
 *#d̪ˈoːɛ# | 106 : [+prim] > [+long] / __ [+syl]
 Early Gallo-Roman stage form : *#d̪ˈoːɛ#
-*#d̪ˈoːj# | 229 : [-lo,-stres] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / [+prim] ( [-cons,-hi] ) __
+*#d̪ˈoːj# | 230 : [-lo,oback,!ofront,-stres] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / [+prim] ( [-cons,-hi] ) __
 Middle Gallo-Roman stage form : *#d̪ˈoːj#
-*#d̪ˈowj# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+*#d̪ˈowj# | 411 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
 Later Gallo-Roman stage form : *#d̪ˈowj#
 Old French I stage form : *#d̪ˈowj#
 Old French II stage form : ...

@@ -9,21 +9,21 @@ Late Latin stage form : *#prˈimo#
 *#prˈiːmo# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
 Early Gallo-Roman stage form : *#prˈiːmo#
 Middle Gallo-Roman stage form : *#prˈiːmo#
-*#prˈiːmə# | 262 : [-stres,-lo,+syl] > ə / __ #
-*#prˈiːmə̯# | 269 : ə > ə̯ 
-*#prˈiːm# | 294 : ə̯ > ∅ 
+*#prˈiːmə# | 263 : [-stres,-lo,+syl,-nas] > ə / __ #
+*#prˈiːmə̯# | 270 : ə > ə̯ 
+*#prˈiːm# | 295 : ə̯ > ∅ 
 Later Gallo-Roman stage form : *#prˈiːm#
-*#prˈim# | 452 : [+syl] > [-long,-splng] 
-*#prˈin̪# | 531 : m > n̪ / [-cons] __ #
+*#prˈim# | 453 : [+syl] > [-long,-splng] 
+*#prˈin̪# | 532 : m > n̪ / [-cons] __ #
 Old French I stage form : *#prˈin̪#
-*#prˈĩn̪# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+*#prˈĩn̪# | 621 : [+syl] > [+nas] / __ [+nas,+cons]
 Old French II stage form : *#prˈĩn̪#
 *#prˈẽn̪# | 651 : [+nas,+front,-round,-lo,+syl] > [-hi] 
 *#prˈẽː# | 664 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
 Middle French stage form : *#prˈẽː#
-*#prˈɛ̃ː# | 688 : [+front,-lo,+nas,+syl,-round] > [-hi,-tense,-cons,-lat,+cont,0delrel] / [+cons] __
-*#pʀˈɛ̃ː# | 735 : r > ʀ 
-*#pʀɛ̃ː# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-*#pʀɛ̃# | 738 : [+syl,+long] > [-long,-splng] 
-*#pʁɛ̃# | 744 : ʀ > ʁ 
+*#prˈɛ̃ː# | 686 : [+front,-lo,+nas,+syl,-round] > [-hi,-tense,-cons,-lat,+cont,0delrel] / [+cons] __
+*#pʀˈɛ̃ː# | 733 : r > ʀ 
+*#pʀɛ̃ː# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
+*#pʀɛ̃# | 736 : [+long] > [-long,-splng] 
+*#pʁɛ̃# | 742 : ʀ > ʁ 
 Final form : *#pʁɛ̃#

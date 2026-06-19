@@ -19,29 +19,29 @@ Early Gallo-Roman stage form : *#sˌɛxsɑʝˈen̪t̪ɑ#
 *#sˌeçsʲaʝˈiːn̪t̪a# | 210 : [+cor,+ant,-lat] > [+hi,+front] / [+hi,+front,+cons] __
 *#sˌeçsʲaʝˈin̪t̪a# | 215 : [+syl] > [-long,-splng] / __ [-syl] [+cons]
 Middle Gallo-Roman stage form : *#sˌeçsʲaʝˈin̪t̪a#
-*#sˌeçsʲajˈin̪t̪a# | 377 : ʝ > j 
-*#sˌeçjsajˈin̪t̪a# | 382 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ;d͡ʒʲ;t͡ʃʲ} > {j t̪;j d̪;j s;j z;j n̪;j d͡z;j d͡ʒ;j t͡ʃ} 
-*#sˌeçsajˈin̪t̪a# | 384 : j > ∅ / [+cons] __ [+cons]
+*#sˌeçsʲajˈin̪t̪a# | 378 : ʝ > j 
+*#sˌeçjsajˈin̪t̪a# | 383 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ;d͡ʒʲ;t͡ʃʲ} > {j t̪;j d̪;j s;j z;j n̪;j d͡z;j d͡ʒ;j t͡ʃ} 
+*#sˌeçsajˈin̪t̪a# | 385 : j > ∅ / [+cons] __ [+cons]
 Later Gallo-Roman stage form : *#sˌeçsajˈin̪t̪a#
-*#sˌeçsəjˈin̪t̪ə# | 443 : a > ə / [+syl] ( [-syl] )* __
-*#sˌeʝsəjˈin̪t̪ə# | 463 : ç > ʝ 
-*#sˌejsəjˈin̪t̪ə# | 469 : ʝ > j 
-*#sˌejsejˈin̪t̪ə# | 502 : ə > e / __ [+front,+son,+hi,-syl]
+*#sˌeçsəjˈin̪t̪ə# | 444 : a > ə / [+syl] ( [-syl] )* __
+*#sˌeʝsəjˈin̪t̪ə# | 464 : ç > ʝ 
+*#sˌejsəjˈin̪t̪ə# | 470 : ʝ > j 
+*#sˌejsejˈin̪t̪ə# | 503 : ə > e / __ [+front,+son,+hi,-syl]
 Old French I stage form : *#sˌejsejˈin̪t̪ə#
-*#sˌojsojˈin̪t̪ə# | 552 : [+front,+tense,-hi,-lo,+syl,-long] > [+back,-front,+round,+lab] / __ j
-*#sˌujsujˈin̪t̪ə# | 562 : [+round,+tense,+back] > [+hi] 
-*#sˌuɛ̯suɛ̯ˈin̪t̪ə# | 613 : j > ɛ̯ / [+syl,+back,+round] __
-*#swˌɛswɛˈin̪t̪ə# | 614 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
-*#swˌɛswɛˈĩn̪t̪ə# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+*#sˌojsojˈin̪t̪ə# | 553 : [+front,+tense,-hi,-lo,+syl,-long] > [+back,-front,+round,+lab] / __ j
+*#sˌujsujˈin̪t̪ə# | 563 : [+round,+tense,+back] > [+hi] 
+*#sˌuɛ̯suɛ̯ˈin̪t̪ə# | 614 : j > ɛ̯ / [+syl,+back,+round] __
+*#swˌɛswɛˈin̪t̪ə# | 615 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
+*#swˌɛswɛˈĩn̪t̪ə# | 621 : [+syl] > [+nas] / __ [+nas,+cons]
 Old French II stage form : *#swˌɛswɛˈĩn̪t̪ə#
 *#swˌɛswɛˈẽn̪t̪ə# | 651 : [+nas,+front,-round,-lo,+syl] > [-hi] 
 *#swˌɛswɛˈẽːt̪ə# | 663 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
-*#swˌɛswˈẽːt̪ə# | 677 : [-lo,-hi,+front,-round,+syl] [-lo,-hi,+front,-round,+syl] > ∅ [+long]
+*#swˌɛswˈẽːt̪ə# | 676 : [alo,ihi,efront,uround,+syl] [alo,ihi,efront,uround,+syl] > ∅ [+long]
 Middle French stage form : *#swˌɛswˈẽːt̪ə#
-*#swˌɛswˈɛ̃ːt̪ə# | 699 : [+tense,-hi,-lo,-round,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] [-cons,-back,-front]
-*#swˌɛswˈɛ̃ːt̪ə̯# | 702 : ə > ə̯ / __ #
+*#swˌɛswˈɛ̃ːt̪ə# | 697 : [+tense,-hi,-lo,-round,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] [-cons,-back,-front]
+*#swˌɛswˈɛ̃ːt̪ə̯# | 700 : ə > ə̯ / __ #
 *#swˌɛswˈɛ̃ːt̪# | 720 : ə̯ > ∅ 
-*#swɛswɛ̃ːt̪# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-*#swɛswɛ̃t̪# | 738 : [+syl,+long] > [-long,-splng] 
-*#swaswɛ̃t̪# | 743 : ɛ > a / w __
+*#swɛswɛ̃ːt̪# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
+*#swɛswɛ̃t̪# | 736 : [+long] > [-long,-splng] 
+*#swaswɛ̃t̪# | 741 : ɛ > a / w __
 Final form : *#swaswɛ̃t̪#

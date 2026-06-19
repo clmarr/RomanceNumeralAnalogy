@@ -8,14 +8,14 @@ Early Gallo-Roman stage form : *#sˈɛst̪ɑ#
 *#sˈɛst̪a# | 193 : [+lo] > [+front,-back] 
 Middle Gallo-Roman stage form : *#sˈɛst̪a#
 Later Gallo-Roman stage form : *#sˈɛst̪a#
-*#sˈɛst̪ə# | 443 : a > ə / [+syl] ( [-syl] )* __
+*#sˈɛst̪ə# | 444 : a > ə / [+syl] ( [-syl] )* __
 Old French I stage form : *#sˈɛst̪ə#
-*#sˈɛxt̪ə# | 587 : [-distr,+strid,-voi] > x / [-cons] __ [+cons]
+*#sˈɛxt̪ə# | 588 : [-distr,+strid,-voi] > x / [-cons] __ [+cons]
 *#sˈɛːt̪ə# | 633 : [+syl] x > [+long] ∅/ __ [+cons]
 Old French II stage form : *#sˈɛːt̪ə#
 Middle French stage form : *#sˈɛːt̪ə#
-*#sˈɛːt̪ə̯# | 702 : ə > ə̯ / __ #
+*#sˈɛːt̪ə̯# | 700 : ə > ə̯ / __ #
 *#sˈɛːt̪# | 720 : ə̯ > ∅ 
-*#sɛːt̪# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-*#sɛt̪# | 738 : [+syl,+long] > [-long,-splng] 
+*#sɛːt̪# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
+*#sɛt̪# | 736 : [+long] > [-long,-splng] 
 Final form : *#sɛt̪#

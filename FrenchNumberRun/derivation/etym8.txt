@@ -11,10 +11,10 @@ Early Gallo-Roman stage form : *#d̪wˈɔː#
 *#d̪ˈʉo̯# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
 Middle Gallo-Roman stage form : *#d̪ˈʉo̯#
 Later Gallo-Roman stage form : *#d̪ˈʉo̯#
-*#d̪ˈyo̯# | 506 : [+hi,+round,-back] > [+front] 
-*#d̪ˈye̯# | 520 : o̯ > e̯ 
+*#d̪ˈyo̯# | 507 : [+hi,+round,-back] > [+front] 
+*#d̪ˈye̯# | 521 : o̯ > e̯ 
 Old French I stage form : *#d̪ˈye̯#
-*#d̪ˈø# | 576 : [+hi,+round,+tense,+prim] e̯ > ˈø
+*#d̪ˈø# | 577 : [+hi,+round,+tense,+prim] e̯ > ˈø
 Old French II stage form : *#d̪ˈø#
 Middle French stage form : *#d̪ˈø#
 Final form : ...

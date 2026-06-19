@@ -17,32 +17,32 @@ Early Gallo-Roman stage form : *#kwˌɑðrɑʝˈeːsemɑ#
 *#kwˌɑðrɑʝˈiːzemɑ# | 160 : ˈeː > ˈiː / [+cons,+hi,+front] __
 *#kwˌaðraʝˈiːzema# | 193 : [+lo] > [+front,-back] 
 Middle Gallo-Roman stage form : *#kwˌaðraʝˈiːzema#
-*#kwˌaðraʝˈiːzəma# | 257 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+syl] ( [-syl] )* #
-*#kwˌaðraʝˈiːzə̯ma# | 269 : ə > ə̯ 
-*#kwˌaðraʝˈiːzma# | 294 : ə̯ > ∅ 
-*#kwˌaðraʝˈizma# | 350 : [+syl] > [-long,-splng] / __ [-syl] [+cons,+nas]
-*#kwˌaðrajˈizma# | 377 : ʝ > j 
+*#kwˌaðraʝˈiːzəma# | 258 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+syl] ( [-syl] )* #
+*#kwˌaðraʝˈiːzə̯ma# | 270 : ə > ə̯ 
+*#kwˌaðraʝˈiːzma# | 295 : ə̯ > ∅ 
+*#kwˌaðraʝˈizma# | 351 : [+syl] > [-long,-splng] / __ [-syl] [+cons,+nas]
+*#kwˌaðrajˈizma# | 378 : ʝ > j 
 Later Gallo-Roman stage form : *#kwˌaðrajˈizma#
-*#kwˌaðrəjˈizmə# | 443 : a > ə / [+syl] ( [-syl] )* __
-*#kwˌaðrejˈizmə# | 502 : ə > e / __ [+front,+son,+hi,-syl]
+*#kwˌaðrəjˈizmə# | 444 : a > ə / [+syl] ( [-syl] )* __
+*#kwˌaðrejˈizmə# | 503 : ə > e / __ [+front,+son,+hi,-syl]
 Old French I stage form : *#kwˌaðrejˈizmə#
-*#kwˌaðrejˈiːzmə# | 548 : [+prim] > [+long] / @ __ z [+cons]
-*#kwˌaðrejˈiːmə# | 550 : z > ∅ / __ [+cons]
-*#kwˌaðrojˈiːmə# | 552 : [+front,+tense,-hi,-lo,+syl,-long] > [+back,-front,+round,+lab] / __ j
-*#kwˌaðrujˈiːmə# | 562 : [+round,+tense,+back] > [+hi] 
-*#kwˌarujˈiːmə# | 594 : {θ;ð} > {∅;∅} 
-*#kˌarujˈiːmə# | 604 : [-syl,+round] > ∅ / [+back,-cont] __
-*#kˌaruɛ̯ˈiːmə# | 613 : j > ɛ̯ / [+syl,+back,+round] __
-*#kˌarwɛˈiːmə# | 614 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
-*#kˌarwɛˈĩːmə# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+*#kwˌaðrejˈiːzmə# | 549 : [+prim] > [+long] / @ __ z [+cons]
+*#kwˌaðrejˈiːmə# | 551 : z > ∅ / __ [+cons]
+*#kwˌaðrojˈiːmə# | 553 : [+front,+tense,-hi,-lo,+syl,-long] > [+back,-front,+round,+lab] / __ j
+*#kwˌaðrujˈiːmə# | 563 : [+round,+tense,+back] > [+hi] 
+*#kwˌarujˈiːmə# | 595 : {θ;ð;θʲ;ðʲ} > {∅;∅;∅;∅} 
+*#kˌarujˈiːmə# | 605 : [-syl,+round] > ∅ / [+back,-cont] __
+*#kˌaruɛ̯ˈiːmə# | 614 : j > ɛ̯ / [+syl,+back,+round] __
+*#kˌarwɛˈiːmə# | 615 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
+*#kˌarwɛˈĩːmə# | 621 : [+syl] > [+nas] / __ [+nas,+cons]
 Old French II stage form : *#kˌarwɛˈĩːmə#
 *#kˌarwɛˈiːmə# | 649 : [+nas,+front,+hi,+syl] > [-nas] / __ [+nas,+cons] [-cons]
 Middle French stage form : *#kˌarwɛˈiːmə#
-*#kˌarwɛˈiːmə̯# | 702 : ə > ə̯ / __ #
+*#kˌarwɛˈiːmə̯# | 700 : ə > ə̯ / __ #
 *#kˌarwɛˈiːm# | 720 : ə̯ > ∅ 
-*#kˌaʀwɛˈiːm# | 735 : r > ʀ 
-*#kaʀwɛiːm# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-*#kaʀwɛim# | 738 : [+syl,+long] > [-long,-splng] 
-*#kaʀwaim# | 743 : ɛ > a / w __
-*#kaʁwaim# | 744 : ʀ > ʁ 
+*#kˌaʀwɛˈiːm# | 733 : r > ʀ 
+*#kaʀwɛiːm# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
+*#kaʀwɛim# | 736 : [+long] > [-long,-splng] 
+*#kaʀwaim# | 741 : ɛ > a / w __
+*#kaʁwaim# | 742 : ʀ > ʁ 
 Final form : *#kaʁwaim#

@@ -15,24 +15,24 @@ Early Gallo-Roman stage form : *#kwˌin̪ˈɑrʝo#
 *#kwˌin̪ˈarʲo# | 193 : [+lo] > [+front,-back] 
 *#kwˌin̪ˈaːrʲo# | 218 : [+prim] > [+long] / __ ( [+cons] ) [+syl]
 Middle Gallo-Roman stage form : *#kwˌin̪ˈaːrʲo#
-*#kwˌin̪jˈɛːro# | 260 : ˈaː rʲ > j ˈɛː r / [+syl] ( [-syl] )* __ [+syl] #
-*#kwˌin̪jˈɛːrə# | 262 : [-stres,-lo,+syl] > ə / __ #
-*#kwˌin̪jˈɛːrə̯# | 269 : ə > ə̯ 
-*#kwˌin̪jˈɛːr# | 294 : ə̯ > ∅ 
-*#kwˌin̪jˈie̯r# | 369 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
-*#kˌin̪jˈie̯r# | 378 : w > ∅ / k __ [+front,-lo]
-*#kˌin̪ʲjˈie̯r# | 387 : [+cor] > [+hi,+front] / [+front,+hi] __ [+hi,+front]
-*#kˌin̪ʲˈie̯r# | 389 : j > ∅ / [+cons] __ [+hi,+front,-round,+son] e̯
+*#kwˌin̪jˈɛːro# | 261 : ˈaː rʲ > j ˈɛː r / [+syl] ( [-syl] )* __ [+syl] #
+*#kwˌin̪jˈɛːrə# | 263 : [-stres,-lo,+syl,-nas] > ə / __ #
+*#kwˌin̪jˈɛːrə̯# | 270 : ə > ə̯ 
+*#kwˌin̪jˈɛːr# | 295 : ə̯ > ∅ 
+*#kwˌin̪jˈie̯r# | 370 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
+*#kˌin̪jˈie̯r# | 379 : w > ∅ / k __ [+front,-lo]
+*#kˌin̪ʲjˈie̯r# | 388 : [+cor] > [+hi,+front] / [+front,+hi] __ [+hi,+front]
+*#kˌin̪ʲˈie̯r# | 390 : j > ∅ / [+cons] __ [+hi,+front,-round,+son] e̯
 Later Gallo-Roman stage form : *#kˌin̪ʲˈie̯r#
 Old French I stage form : *#kˌin̪ʲˈie̯r#
-*#kˌin̪ʲjˈer# | 590 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-*#kˌĩn̪ʲjˈer# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+*#kˌin̪ʲjˈer# | 591 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+*#kˌĩn̪ʲjˈer# | 621 : [+syl] > [+nas] / __ [+nas,+cons]
 Old French II stage form : *#kˌĩn̪ʲjˈer#
 *#kˌin̪ʲjˈer# | 649 : [+nas,+front,+hi,+syl] > [-nas] / __ [+nas,+cons] [-cons]
 *#kˌin̪ʲˈer# | 656 : j > ∅ / [+front,+cons] __ [+front,-hi,-lo,-round,+syl,-nas]
 *#kˌin̪ˈer# | 657 : [+ant,+front] > [-front,-hi] 
 Middle French stage form : *#kˌin̪ˈer#
-*#kˌin̪ˈeɹ# | 711 : r > ɹ / [-cons] __ #
-*#kˌin̪ˈe# | 731 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
-*#kin̪e# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+*#kˌin̪ˈeɹ# | 704 : r > ɹ / [-cons] __ #
+*#kˌin̪ˈe# | 706 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
+*#kin̪e# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
 Final form : *#kin̪e#

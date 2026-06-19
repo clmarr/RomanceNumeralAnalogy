@@ -13,22 +13,22 @@ Early Gallo-Roman stage form : *#d̪ˌeccɛt̪sˈɛpt̪ɛ#
 *#d̪ˌet̪t͡sʲɛt̪sˈɛpt̪ɛ# | 175 : c c > t̪ t͡sʲ 
 *#d̪ˌet̪t͡sʲɛt̪sˈɛt̪t̪ɛ# | 195 : [+lab,-nas,-round,-cont] > t̪ / __ [-cont,+cor,-voi]
 Middle Gallo-Roman stage form : *#d̪ˌet̪t͡sʲɛt̪sˈɛt̪t̪ɛ#
-*#d̪ˌet̪t͡sʲət̪sˈɛt̪t̪ɛ# | 261 : [-stres,-lo,+syl] > ə / __ [-syl]
-*#d̪ˌet̪t͡sʲət̪sˈɛt̪t̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
-*#d̪ˌet̪t͡sʲə̯t̪sˈɛt̪t̪ə̯# | 269 : ə > ə̯ 
-*#d̪ˌet̪t͡sʲət̪sˈɛt̪t̪ə̯# | 293 : ə̯ > ə / [+cons] ( ə̯ ) [-cont] __ [+cons] [-syl] [+prim]
-*#d̪ˌet̪t͡sʲət̪sˈɛt̪t̪# | 294 : ə̯ > ∅ 
+*#d̪ˌet̪t͡sʲət̪sˈɛt̪t̪ɛ# | 262 : [-stres,-lo,+syl,-nas] > ə / __ [-syl]
+*#d̪ˌet̪t͡sʲət̪sˈɛt̪t̪ə# | 263 : [-stres,-lo,+syl,-nas] > ə / __ #
+*#d̪ˌet̪t͡sʲə̯t̪sˈɛt̪t̪ə̯# | 270 : ə > ə̯ 
+*#d̪ˌet̪t͡sʲət̪sˈɛt̪t̪ə̯# | 294 : ə̯ > ə / [+cons] ( ə̯ ) [-cont] __ [+cons] [-syl] [+prim]
+*#d̪ˌet̪t͡sʲət̪sˈɛt̪t̪# | 295 : ə̯ > ∅ 
 Later Gallo-Roman stage form : *#d̪ˌet̪t͡sʲət̪sˈɛt̪t̪#
-*#d̪ˌet̪t͡sʲət͡sˈɛt̪t̪# | 475 : [+cor,-delrel] s > t͡s
-*#d̪ˌet͡sʲət͡sˈɛt̪# | 492 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
-*#d̪ˌət͡sʲət͡sˈɛt̪# | 509 : ˌe > ˌə / __ ( [+cons] ) [+syl]
-*#d̪ˌet͡sʲət͡sˈɛt̪# | 510 : ˌə > ˌe / __ [+hi,+front,+cons]
+*#d̪ˌet̪t͡sʲət͡sˈɛt̪t̪# | 476 : [+cor,-delrel] s > t͡s
+*#d̪ˌet͡sʲət͡sˈɛt̪# | 493 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
+*#d̪ˌət͡sʲət͡sˈɛt̪# | 510 : ˌe > ˌə / __ ( [+cons] ) [+syl]
+*#d̪ˌet͡sʲət͡sˈɛt̪# | 511 : ˌə > ˌe / __ [+hi,+front,+cons]
 Old French I stage form : *#d̪ˌet͡sʲət͡sˈɛt̪#
 *#d̪ˌesʲəsˈɛt̪# | 627 : [+delrel] > [+cont,0delrel] 
 Old French II stage form : *#d̪ˌesʲəsˈɛt̪#
 *#d̪ˌesəsˈɛt̪# | 657 : [+ant,+front] > [-front,-hi] 
 Middle French stage form : *#d̪ˌesəsˈɛt̪#
-*#d̪ˌɛsəsˈɛt̪# | 699 : [+tense,-hi,-lo,-round,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] [-cons,-back,-front]
+*#d̪ˌɛsəsˈɛt̪# | 697 : [+tense,-hi,-lo,-round,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] [-cons,-back,-front]
 *#d̪ˌɛsəsˈɛ# | 718 : [-son] > ∅ / __ #
-*#d̪ɛsəsɛ# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+*#d̪ɛsəsɛ# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
 Final form : *#d̪ɛsəsɛ#

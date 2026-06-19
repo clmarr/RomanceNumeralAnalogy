@@ -16,23 +16,23 @@ Early Gallo-Roman stage form : *#cˌɛn̪t̪en̪ˈɑrʝo#
 *#t͡sʲˌɛn̪t̪en̪ˈarʲo# | 193 : [+lo] > [+front,-back] 
 *#t͡sʲˌɛn̪t̪en̪ˈaːrʲo# | 218 : [+prim] > [+long] / __ ( [+cons] ) [+syl]
 Middle Gallo-Roman stage form : *#t͡sʲˌɛn̪t̪en̪ˈaːrʲo#
-*#t͡sʲˌɛn̪t̪ən̪ˈaːrʲo# | 259 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+lo,+prim]
-*#t͡sʲˌɛn̪t̪ən̪jˈɛːro# | 260 : ˈaː rʲ > j ˈɛː r / [+syl] ( [-syl] )* __ [+syl] #
-*#t͡sʲˌɛn̪t̪ən̪jˈɛːrə# | 262 : [-stres,-lo,+syl] > ə / __ #
-*#t͡sʲˌɛn̪t̪ə̯n̪jˈɛːrə̯# | 269 : ə > ə̯ 
-*#t͡sʲˌɛn̪t̪ən̪jˈɛːrə̯# | 293 : ə̯ > ə / [+cons] ( ə̯ ) [-cont] __ [+cons] [-syl] [+prim]
-*#t͡sʲˌɛn̪t̪ən̪jˈɛːr# | 294 : ə̯ > ∅ 
-*#t͡sʲˌɛn̪t̪ən̪jˈie̯r# | 369 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
-*#t͡sʲˌɛn̪t̪ən̪ˈie̯r# | 389 : j > ∅ / [+cons] __ [+hi,+front,-round,+son] e̯
-*#t͡sʲˌen̪t̪ən̪ˈie̯r# | 421 : ˌɛ > ˌe / __ @ @
+*#t͡sʲˌɛn̪t̪ən̪ˈaːrʲo# | 260 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+lo,+prim]
+*#t͡sʲˌɛn̪t̪ən̪jˈɛːro# | 261 : ˈaː rʲ > j ˈɛː r / [+syl] ( [-syl] )* __ [+syl] #
+*#t͡sʲˌɛn̪t̪ən̪jˈɛːrə# | 263 : [-stres,-lo,+syl,-nas] > ə / __ #
+*#t͡sʲˌɛn̪t̪ə̯n̪jˈɛːrə̯# | 270 : ə > ə̯ 
+*#t͡sʲˌɛn̪t̪ən̪jˈɛːrə̯# | 294 : ə̯ > ə / [+cons] ( ə̯ ) [-cont] __ [+cons] [-syl] [+prim]
+*#t͡sʲˌɛn̪t̪ən̪jˈɛːr# | 295 : ə̯ > ∅ 
+*#t͡sʲˌɛn̪t̪ən̪jˈie̯r# | 370 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
+*#t͡sʲˌɛn̪t̪ən̪ˈie̯r# | 390 : j > ∅ / [+cons] __ [+hi,+front,-round,+son] e̯
+*#t͡sʲˌen̪t̪ən̪ˈie̯r# | 422 : ˌɛ > ˌe / __ @ @
 Later Gallo-Roman stage form : *#t͡sʲˌen̪t̪ən̪ˈie̯r#
-*#t͡sʲˌẽn̪t̪ən̪ˈie̯r# | 519 : [+front,-hi,+syl] > [+nas] / __ [+nas,-syl]
+*#t͡sʲˌẽn̪t̪ən̪ˈie̯r# | 520 : [+front,-hi,+syl] > [+nas] / __ [+nas,-syl]
 Old French I stage form : *#t͡sʲˌẽn̪t̪ən̪ˈie̯r#
-*#t͡sʲˌɛ̃n̪t̪ən̪ˈie̯r# | 567 : [+front,-hi,-lo,+syl,+nas] > [-tense,-cons,-lat,+cont,0delrel] 
-*#t͡sʲˌãn̪t̪ən̪ˈie̯r# | 570 : [+nas,-hi,+syl] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
-*#t͡sʲˌãn̪t̪ən̪jˈer# | 590 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
-*#t͡sʲˌãn̪t̪ə̃n̪jˈer# | 608 : [+syl,-front] > [+nas] / __ [+nas,-syl]
-*#t͡sʲˌãn̪t̪ən̪jˈer# | 621 : ə̃ > ə 
+*#t͡sʲˌɛ̃n̪t̪ən̪ˈie̯r# | 568 : [+front,-hi,-lo,+syl,+nas] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t͡sʲˌãn̪t̪ən̪ˈie̯r# | 571 : [+nas,-hi,+syl,+front] > [+lo,+tense,-cons,-lat,+cont,0delrel] / __ [+cons]
+*#t͡sʲˌãn̪t̪ən̪jˈer# | 591 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+*#t͡sʲˌãn̪t̪ə̃n̪jˈer# | 609 : [+syl,-front] > [+nas] / __ [+nas,-syl]
+*#t͡sʲˌãn̪t̪ən̪jˈer# | 622 : ə̃ > ə 
 *#sʲˌãn̪t̪ən̪jˈer# | 627 : [+delrel] > [+cont,0delrel] 
 *#sʲˌãn̪t̪ə̃n̪jˈer# | 630 : [+syl,-hi] > [+nas] / __ [+nas,+cons]
 *#sʲˌãn̪t̪ən̪jˈer# | 632 : {ə̃;ˌə̃} > {ə;ˌə} 
@@ -40,9 +40,9 @@ Old French II stage form : *#sʲˌãn̪t̪ən̪jˈer#
 *#sˌãn̪t̪ən̪jˈer# | 657 : [+ant,+front] > [-front,-hi] 
 *#sˌãːt̪ən̪jˈer# | 663 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
 Middle French stage form : *#sˌãːt̪ən̪jˈer#
-*#sˌɑ̃ːt̪ən̪jˈer# | 703 : [+lo,+long,+syl] > [+back,-front] 
-*#sˌɑ̃ːt̪ən̪jˈeɹ# | 711 : r > ɹ / [-cons] __ #
-*#sˌɑ̃ːt̪ən̪jˈe# | 731 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
-*#sɑ̃ːt̪ən̪je# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-*#sɑ̃t̪ən̪je# | 738 : [+syl,+long] > [-long,-splng] 
+*#sˌɑ̃ːt̪ən̪jˈer# | 701 : [+lo,+long,+syl] > [+back,-front] 
+*#sˌɑ̃ːt̪ən̪jˈeɹ# | 704 : r > ɹ / [-cons] __ #
+*#sˌɑ̃ːt̪ən̪jˈe# | 706 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
+*#sɑ̃ːt̪ən̪je# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
+*#sɑ̃t̪ən̪je# | 736 : [+long] > [-long,-splng] 
 Final form : *#sɑ̃t̪ən̪je#

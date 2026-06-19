@@ -9,14 +9,14 @@ Early Gallo-Roman stage form : *#ˌun̪ɑ#
 *#ˌʉn̪a# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
 Middle Gallo-Roman stage form : *#ˌʉn̪a#
 Later Gallo-Roman stage form : *#ˌʉn̪a#
-*#ˌʉn̪ə# | 443 : a > ə / [+syl] ( [-syl] )* __
-*#ˌyn̪ə# | 506 : [+hi,+round,-back] > [+front] 
+*#ˌʉn̪ə# | 444 : a > ə / [+syl] ( [-syl] )* __
+*#ˌyn̪ə# | 507 : [+hi,+round,-back] > [+front] 
 Old French I stage form : *#ˌyn̪ə#
-*#ˌỹn̪ə# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+*#ˌỹn̪ə# | 621 : [+syl] > [+nas] / __ [+nas,+cons]
 Old French II stage form : *#ˌỹn̪ə#
 *#ˌyn̪ə# | 649 : [+nas,+front,+hi,+syl] > [-nas] / __ [+nas,+cons] [-cons]
 Middle French stage form : *#ˌyn̪ə#
-*#ˌyn̪ə̯# | 702 : ə > ə̯ / __ #
+*#ˌyn̪ə̯# | 700 : ə > ə̯ / __ #
 *#ˌyn̪# | 720 : ə̯ > ∅ 
-*#yn̪# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
+*#yn̪# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
 Final form : *#yn̪#

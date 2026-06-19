@@ -13,25 +13,25 @@ Early Gallo-Roman stage form : *#d̪ˌɛcˈeːn̪o#
 *#d̪ˌɛcˈiːn̪o# | 160 : ˈeː > ˈiː / [+cons,+hi,+front] __
 *#d̪ˌɛt͡sʲˈiːn̪o# | 176 : {c;ɟ} > {t͡sʲ;d͡ʒ} 
 Middle Gallo-Roman stage form : *#d̪ˌɛt͡sʲˈiːn̪o#
-*#d̪ˌɛt͡sʲˈiːn̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
-*#d̪ˌɛt͡sʲˈiːn̪ə̯# | 269 : ə > ə̯ 
-*#d̪ˌɛt͡sʲˈiːn̪# | 294 : ə̯ > ∅ 
-*#d̪ˌɛd͡zʲˈiːn̪# | 346 : [-voi] > [+voi] / [-cons] __ [-cons]
-*#d̪ˌɛjd͡zˈiːn̪# | 382 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ;d͡ʒʲ;t͡ʃʲ} > {j t̪;j d̪;j s;j z;j n̪;j d͡z;j d͡ʒ;j t͡ʃ} 
-*#d̪ˌid͡zˈiːn̪# | 386 : ˌɛ j > ˌi / __ [+cor]
-*#d̪ˌid͡zʲˈiːn̪# | 387 : [+cor] > [+hi,+front] / [+front,+hi] __ [+hi,+front]
+*#d̪ˌɛt͡sʲˈiːn̪ə# | 263 : [-stres,-lo,+syl,-nas] > ə / __ #
+*#d̪ˌɛt͡sʲˈiːn̪ə̯# | 270 : ə > ə̯ 
+*#d̪ˌɛt͡sʲˈiːn̪# | 295 : ə̯ > ∅ 
+*#d̪ˌɛd͡zʲˈiːn̪# | 347 : [-voi] > [+voi] / [-cons] __ [-cons]
+*#d̪ˌɛjd͡zˈiːn̪# | 383 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ;d͡ʒʲ;t͡ʃʲ} > {j t̪;j d̪;j s;j z;j n̪;j d͡z;j d͡ʒ;j t͡ʃ} 
+*#d̪ˌid͡zˈiːn̪# | 387 : ˌɛ j > ˌi / __ [+cor]
+*#d̪ˌid͡zʲˈiːn̪# | 388 : [+cor] > [+hi,+front] / [+front,+hi] __ [+hi,+front]
 Later Gallo-Roman stage form : *#d̪ˌid͡zʲˈiːn̪#
-*#d̪ˌid͡zʲˈin̪# | 452 : [+syl] > [-long,-splng] 
+*#d̪ˌid͡zʲˈin̪# | 453 : [+syl] > [-long,-splng] 
 Old French I stage form : *#d̪ˌid͡zʲˈin̪#
-*#d̪ˌid͡zʲˈĩn̪# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+*#d̪ˌid͡zʲˈĩn̪# | 621 : [+syl] > [+nas] / __ [+nas,+cons]
 *#d̪ˌizʲˈĩn̪# | 627 : [+delrel] > [+cont,0delrel] 
 Old French II stage form : *#d̪ˌizʲˈĩn̪#
 *#d̪ˌizʲˈẽn̪# | 651 : [+nas,+front,-round,-lo,+syl] > [-hi] 
 *#d̪ˌizˈẽn̪# | 657 : [+ant,+front] > [-front,-hi] 
 *#d̪ˌizˈẽː# | 664 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
 Middle French stage form : *#d̪ˌizˈẽː#
-*#d̪ˌizˈɛ̃ː# | 688 : [+front,-lo,+nas,+syl,-round] > [-hi,-tense,-cons,-lat,+cont,0delrel] / [+cons] __
-*#d̪ˌiːzˈɛ̃ː# | 707 : [+syl] > [+long] / __ z [+syl]
-*#d̪iːzɛ̃ː# | 736 : [+stres] > [-stres,-prim,+syl,+son] 
-*#d̪izɛ̃# | 738 : [+syl,+long] > [-long,-splng] 
+*#d̪ˌizˈɛ̃ː# | 686 : [+front,-lo,+nas,+syl,-round] > [-hi,-tense,-cons,-lat,+cont,0delrel] / [+cons] __
+*#d̪ˌiːzˈɛ̃ː# | 709 : [+syl] > [+long] / __ z [+syl]
+*#d̪iːzɛ̃ː# | 734 : [+stres] > [-stres,-prim,+syl,+son] 
+*#d̪izɛ̃# | 736 : [+long] > [-long,-splng] 
 Final form : *#d̪izɛ̃#
